@@ -65,18 +65,16 @@ def count_tags(post):
 i = 0
 for reading_filename in reading_filenames:
     file = fileinput.input(reading_filename, encoding="utf-8")
-    
     for line in file:
-        json_line = json.loads(line)
+        # json_line = json.loads(line)
         
-        count_tags(json_line)
+        # count_tags(json_line)
         i += 1
         if (i % 1000 == 0):
             print(i)
     file.close()
 
 print("\n")
-pprint.pprint(sorted(term_count_meds.items(), key=operator.itemgetter(1), reverse=True))
-# print("\n")
-# pprint.pprint(sorted(term_count_cond.items(), key=operator.itemgetter(1), reverse=True))
-# print("\n")
+# pprint.pprint(sorted(term_count_meds.items(), key=operator.itemgetter(1), reverse=True))
+
+print(i)

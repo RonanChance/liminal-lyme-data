@@ -7,3 +7,4 @@ for item in medications:
     medication_dict[item] = "https://en.wikipedia.org/wiki/" + item.replace(" ", "_").lower()
 
 print(medication_dict)
+print(len(medications))
