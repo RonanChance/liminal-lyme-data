@@ -2,3 +2,4 @@ drugstandards/
 TheEye/
 *.json
 *.txt
+!supplements.txt
