@@ -11,25 +11,26 @@ Astragalus
 Bee venom, BVT
 Burbur-Pinella, burbur, pinella
 Banderol
-Bentonite Clay
-Betaine HCI
+Bentonite Clay, bentonite
+Betaine
 Biocidin
 Bromelain
 Caffeine, coffee
 CBD, Cannabidiol, Cannabidiolum, hemp
-Creatine
+Creatine, !creatine kinase
 Cat's Claw, cats claw
 Chaga
 Chasteberry, Vitex
 Calcium
-Chlorella
+Dokudami, Chameleon plant, Houttuynia
+Chlorella, chorella
 Cinnamon
 Ribose, D-Ribose
-Cistus Incanus, rock rose
+Cistus Incanus, rock rose, cistus incantus
 Clover
 CoQ10, coenq10, co-q10
 Cordyceps
-Cryptolepis
+Cryptolepis, cryptolepsis, nibima, kadze, gangamau, ghanaian quinine, yellow-dye root
 Eleuthero, Eleutherococcus senticosus, Siberian ginseng, devil's bush, Devil's shrub, shigoka, touch-me-not
 Echinacea, purple coneflower
 EGCG
@@ -37,10 +38,10 @@ Glutathione
 Ginkgo biloba, Ginkgo, gingko
 Grapefruitseed, Grapefruit extract
 Ginseng
-Ioderal
-Iron Chelate
+Ioderal, ferrous
+Iron
 Wheatgrass
-Japanese Knotweed
+Japanese Knotweed, Knotweed
 Branched chain amino acids, BCAA
 L-Glutamine, glutamine
 Licorice Root, Licorice, glycyrrhiza
@@ -55,7 +56,6 @@ Multivitamin
 Mushroom Complex
 NAC, N-Acetyl-Cysteine, n-a-c
 Nattokinase
-Nystatin
 Hawthorn
 Spirulina
 St. John's wort, St Johns wort, Hypericum perforatum
@@ -63,19 +63,25 @@ Moringa
 Methylsulfonylmethane, MSM
 Omega 3, omega III, fish oil, fishoil
 Oregano
-PEA, palmitoylethanolamide
+Palmitoylethanolamide (PEA), palmitoylethanolamide, micronized pea, Palmitoylethanolamide or (PEA)
 Peppermint
+Potassium
+Phosphorous
 Phosphatidylcholine
 Probiotic, probiotics
 Prebioitic, prebiotics
 Quercetin
 Reishi
-Resveratrol
+Rhodiola
+Red Root
+Rosemary
+Resveratrol, resveretrol, resverstrol
 Chinese Salvia, Salvia miltiorrhiza, danshen, red sage, redroot sage
-Saccharomyces Boulardii
 Samento
+Stephania, snake vine
 Slippery Elm Bark
 Stevia
+Sarsaparilla, Sasparilla
 SAM-E
 l-lysine, lysine
 Turkey Tail
@@ -90,13 +96,35 @@ Vitamin B12, B12, cyanocobalamin
 Vitamin C
 Vitamin D, D3
 Vitamin E
+Vitamin K
 Taurine
 feverfew
 Zinc
 Phosphatidylserine
-Curcumin, turmeric
+Curcumin, turmeric, tumeric
 Boswellia
 L-citrulline, citrulline
 Ginger
 Mugwort
 Quinine, Cinchona, jesuits bark, peruvian bark, china bark
+Sida acuta
+Lumbrokinase
+NAD+, NADH
+Phenylalanine
+Beetroot, beet root
+Gou-Teng, Gou teng, uncaria rhynchophylla
+Alchornea, cordifolia
+Diamine Oxidase, DAO
+Elderberry
+Dandelion
+Isatis
+Celandine
+Baikal skullcap, Baikal, Skullcap, Baical
+Kudzu
+L-Arginine, Arginine
+TUDCA
+Selenium
+Iodine
+DHEA
+Neem
+Berberine, barberry

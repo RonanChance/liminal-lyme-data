@@ -81,17 +81,23 @@ for dictionary in data:
     
     # TODO: handle some edge cases, for ex. rmsf in url link
     for item in supplement_list:
-        for idx, word in enumerate(item):
-            word = word.lower() + " "
-            if word in filtered_words:
-                print(word)
-                
-                index = filtered_words.index(word)
-                print(filtered_words[index:index + len(word) + 30])
-                
-                if item[0].upper() not in dictionary["supplements"]:
-                    dictionary["supplements"].append(item[0].upper())
-                    total_results_list.append(item[0].upper())
+        # reverse to get which words to avoid first
+        for idx, word in enumerate(item[::-1]):
+            avoid_matching = []
+            if "!" in word:
+                avoid_matching.append(word[1:])
+            else:   
+                word = word.lower() + " "
+                # make sure our term is in the filtered data, and NONE of the terms to avoid are there
+                if (word in filtered_words) and (not any(w in filtered_words for w in avoid_matching)):
+                    
+                    print(word)
+                    index = filtered_words.index(word)
+                    print(filtered_words[index:index + len(word) + 30])
+                    
+                    if item[0].upper() not in dictionary["supplements"]:
+                        dictionary["supplements"].append(item[0].upper())
+                        total_results_list.append(item[0].upper())
     
     
     if (len(dictionary["medications"]) or len(dictionary["supplements"])):
@@ -109,4 +115,5 @@ for dictionary in data:
 
 format_file(writing_filename, start=False)
 
-print(collections.Counter(total_results_list).most_common())
+for item in collections.Counter(total_results_list).most_common():
+    print(item[1], item[0])
