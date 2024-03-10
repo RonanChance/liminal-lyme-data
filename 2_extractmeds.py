@@ -7,7 +7,6 @@ import json
 import collections
 import re
 
-
 total_results_list = []
 
 supplement_file = fileinput.input("supplements.txt", encoding="utf-8")
@@ -33,17 +32,17 @@ def format_file(filename, start):
             json_file.write("]")
         json_file.close()
 
+reading_filename = "mydatav1.json"
 writing_filename = "mydatav2.json"
 format_file(writing_filename, start=True)
 
-with open('mydatav1.json', 'r', encoding="utf-8") as json_file:
+with open(reading_filename, 'r', encoding="utf-8") as json_file:
     data = json.load(json_file)
 
 i = 0
 for dictionary in data:
-    body = dictionary["body"].lower()
     url_pattern = re.compile(r'https?://\S+|www\.\S+')
-    body = url_pattern.sub('', body)
+    body = url_pattern.sub('', dictionary["body"])
 
     filtered_words_list = [word for word in body
                       .replace(" im "," ")
@@ -64,22 +63,19 @@ for dictionary in data:
     
     filtered_words = " ".join(filtered_words_list)
     
-    # print(filtered_words)
-    # if i == 9:
-    #     exit()
-    # print(filtered_words)
+    # Identify medications
+    for word in filtered_words_list:
+        for w in term_cores:
+            if w in word:
+                standardized_med = s.standardize([word], thresh=0.99)[0]
+                if standardized_med:
+                    print(word, standardized_med)
+                    if standardized_med not in dictionary["medications"]:
+                        # do this here because it replaces all occurences
+                        dictionary["body"] = dictionary["body"].replace(word, '<span style="color:#42bade; font-weight: bold;">' + word + '</span>')
+                        dictionary["medications"].append(standardized_med)
     
-    # my attempt to speed up the process... brace yourself 
-    # for word in filtered_words_list:
-    #     for w in term_cores:
-    #         if w in word:
-    #             standardized_med = s.standardize([word], thresh=0.99)[0]
-    #             if standardized_med:
-    #                 print(word, standardized_med)
-    #                 if standardized_med not in dictionary["medications"]:
-    #                     dictionary["medications"].append(standardized_med)
-    
-    # TODO: handle some edge cases, for ex. rmsf in url link
+    # Identify supplements
     for item in supplement_list:
         # reverse to get which words to avoid first
         for idx, word in enumerate(item[::-1]):
@@ -92,23 +88,21 @@ for dictionary in data:
                 if (word in filtered_words) and (not any(w in filtered_words for w in avoid_matching)):
                     
                     print(word)
-                    index = filtered_words.index(word)
-                    print(filtered_words[index:index + len(word) + 30])
                     
                     if item[0].upper() not in dictionary["supplements"]:
+                        # do this here because it replaces all occurences
+                        dictionary["body"] = dictionary["body"].replace(word, '<span style="color:#61BA7E; font-weight: bold;">' + word + '</span>')
                         dictionary["supplements"].append(item[0].upper())
                         total_results_list.append(item[0].upper())
     
-    
+    # if there's at least some medication or supplement, store it
     if (len(dictionary["medications"]) or len(dictionary["supplements"])):
-        
-        print(dictionary["medications"], dictionary["supplements"])
-
         with open(writing_filename, "a") as json_file:
             json_file.write(json.dumps(dictionary))
             json_file.write(",\n")
         json_file.close()
     
+    # get an update on how far into the process we are
     i += 1
     if (i % 100 == 0):
         print(i)

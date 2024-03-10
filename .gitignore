@@ -3,3 +3,4 @@ TheEye/
 *.json
 *.txt
 !supplements.txt
+.venv/

@@ -15,14 +15,14 @@ all_tags = []
 
 i = 0
 for dictionary in data:
-    for item in dictionary["tags"]:
+    for item in dictionary["medications"]:
         all_tags.append(item)
 
 results = Counter(all_tags)
 
 # Filter items with at least 30 occurrences and store them in a list
 # filtered_results = [item.upper() for item, count in results.items() if count >= 20]
-filtered_results_with_count = result_dict = {item.upper(): count for item, count in results.items() if count >= 9}
+filtered_results_with_count = result_dict = {item.upper(): count for item, count in results.items()}
 
 print("\n viable tags \n")
 print(", ".join(sorted(list(filtered_results_with_count.keys()))))
