@@ -4,3 +4,4 @@ TheEye/
 *.txt
 !supplements.txt
 .venv/
+PocketBase/

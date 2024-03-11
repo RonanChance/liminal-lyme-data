@@ -2,7 +2,7 @@
 Acetyl L-Carnitine, l-carnitine, alcar
 Activated Charcoal, charcoal
 Alchornea, cordifolia
-Alpha Lipoic Acid, ALA
+Alpha Lipoic Acid
 Andrographis
 Artemisia Absinthium (Wormwood), absinthium, wormwood, Powis castle
 Artimisinin
@@ -19,7 +19,7 @@ Biocidin
 Black Seed (Nigella Sativa), nigella, black cumin, black seed
 Black Walnut, juglans nigra, american walnut
 Boswellia
-Branched chain amino acids, BCAA
+Branched chain amino acids, BCAA, BCAAs
 Bromelain
 Burbur-Pinella, burbur, pinella
 Caffeine, coffee
@@ -50,6 +50,7 @@ Elderberry
 Eleuthero, Eleutherococcus senticosus, Siberian ginseng, devil's bush, Devil's shrub, shigoka, touch-me-not
 Feverfew
 Fish Oil (Omega 3), omega 3, omega-3, omega III, omega-III, fish oil, fishoil
+GABA, Gamma-aminobutyric acid
 Garlic (Allicin), garlic, allicin
 Ginger
 Ginkgo biloba, Ginkgo, gingko, ginko
@@ -67,16 +68,20 @@ Isatis
 Japanese Knotweed, Knotweed
 Kudzu
 L-Arginine, Arginine
-L-citrulline, citrulline
+L-Aspartate, Aspartate, L-ORNITHINE-L-ASPARTATE
+L-Citrulline, citrulline
 L-Glutamine, glutamine
-l-lysine, lysine
+L-Lysine, lysine
+L-Ornithine, ornithine, L-ORNITHINE-L-ASPARTATE
+L-Theanine, Theanine
 Lactoferrin (& colostrum), lactoferrin, colostrum
 Licorice Root, Licorice, glycyrrhiza
 Lion's Mane, Lions Mane
 Lumbrokinase
 Luteolin
 Maca
-Magnesium, magtein
+Magnesium, Magnesium threonate, Magnesium citrate, magnesium glycinate, magtein
+Magnolia, Magnolia officinalis, magnolia bark
 Mastic Gum
 Melatonin
 Methylene Blue
@@ -103,6 +108,7 @@ Phosphorous
 Potassium
 Prebioitic, prebiotics
 Probiotics, probiotic
+Protein Powder
 Quercetin
 Quinine, Cinchona, jesuits bark, peruvian bark, china bark
 Red Root

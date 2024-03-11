@@ -2,20 +2,52 @@ import fileinput
 import json
 import datetime
 import os
+import re
+import time
+start_time = time.time()
 
-key_cond = ["lyme", "babesi", "bartone", "rmsf", "rocky mountain spot", "rickettsi", "borreli", "burgdorferi", "anaplas", "ehrlich", "tulare"]
 mapping = {
+
+    "lyme disease": "LYME DISEASE",
+    " lyme": "LYME DISEASE",
+    "borrelia": "LYME DISEASE",
+    "borreliosis": "LYME DISEASE",
+    "borreli": "LYME DISEASE",
+    "burgdorferi": "LYME DISEASE",
+
+    "rocky mountain spotted fever": "ROCKY MOUNTAIN SPOTTED FEVER",
+    "rocky mountain spot": "ROCKY MOUNTAIN SPOTTED FEVER",
+    "rickettsia": "ROCKY MOUNTAIN SPOTTED FEVER",
+    "rickettsi": "ROCKY MOUNTAIN SPOTTED FEVER",
+    "rickestta": "ROCKY MOUNTAIN SPOTTED FEVER",
+    "rmsf": "ROCKY MOUNTAIN SPOTTED FEVER", 
+
+    "anaplasmosis": "ANAPLASMOSIS",
+    "anaplasma": "ANAPLASMOSIS",
+    "phagocytophilum": "ANAPLASMOSIS",
     "anaplas": "ANAPLASMOSIS",
+
+    "tickborne relapsing fever": "RELAPSING FEVER",
+    "tick-borne relapsing fever": "RELAPSING FEVER",
+    "relapsing fever": "RELAPSING FEVER",
+
+    "babesiosis": "BABESIOSIS",
+    "babesia": "BABESIOSIS",
     "babesi": "BABESIOSIS",
+
+    "bartonellosis": "BARTONELLOSIS",
+    "bartonella": "BARTONELLOSIS",
     "bartone": "BARTONELLOSIS",
+
+    "mycoplasma": "MYCOPLASMA",
+    "mycoplasmia": "MYCOPLASMA", # this isn't real, but might catch spelling mistakes
+
+    "ehrlichiosis": "EHRLICHIOSIS",
+    "ehrlichia": "EHRLICHIOSIS",
     "ehrlich": "EHRLICHIOSIS",
+
+    "tularemia": "TULAREMIA",
     "tulare": "TULAREMIA",
-    "rmsf": "ROCKY MOUNTAIN SPOTTED FEVER",
-    "rocky mountain spot": "ROCKY MOUNTAIN SPOTTED FEVER", 
-    "rickettsi" : "ROCKY MOUNTAIN SPOTTED FEVER",
-    "lyme": "LYME DISEASE",
-    "borreli" : "LYME DISEASE",
-    "burgdorferi" : "LYME DISEASE"
 }
 
 def format_file(filename, start):
@@ -35,8 +67,8 @@ def format_and_store(filename, json_dict, comment_flag):
     else:
         body = json_dict['selftext']
 
-    # TODO: 80 seems reasonable for now since we want only substantial content... let's look into a more mathematical way to determine this threshold
-    if len(body) <= 80:
+    # TODO: 100 seems reasonable for now since we want only substantial content... let's look into a more mathematical way to determine this threshold
+    if len(body) <= 100:
         return
 
     body_lower = body.lower()
@@ -73,20 +105,19 @@ def format_and_store(filename, json_dict, comment_flag):
             "body": body
         }
 
-    for cond in key_cond:
+    for cond in mapping.keys():
         if cond in body_lower:
             # get rid of lymecycline miscategorization
-            if cond == "lyme":
-                if "lyme" in body_lower.replace("lymecycline", " "):
-                    entry_dict["conditions"].append(mapping[cond])
-                else:
+            if cond == " lyme":
+                if " lyme" not in body_lower.replace("lymecycline", " "):
                     continue
-            else:
+
+            # add to medication list, then highlight the relevant text
+            if mapping[cond] not in entry_dict["conditions"]:
                 entry_dict["conditions"].append(mapping[cond])
-            # add the any attribute now that we know there's at least one condition
-            # TODO: remove this comment if improved solution works
-            # if "ALL CONDITIONS (ANY)" not in entry_dict["conditions"]:
-                # entry_dict["tags"].append("ALL CONDITIONS (ANY)")
+
+            pattern = re.compile(r"(?<!>)" + re.escape(cond), re.IGNORECASE)
+            entry_dict["body"] = pattern.sub('<span style="background-color: #ffff0033">' + cond + '</span>', entry_dict["body"])
 
     if not len(entry_dict["conditions"]):
         return
@@ -124,3 +155,7 @@ for reading_filename in reading_filenames:
 
 format_file(writing_filename, start=False)
 
+elapsed_time = time.time() - start_time
+minutes = int(elapsed_time // 60)
+seconds = int(elapsed_time % 60)
+print(f"Elapsed time: {minutes} minutes {seconds} seconds")

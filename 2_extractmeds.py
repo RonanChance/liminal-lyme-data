@@ -64,16 +64,18 @@ for dictionary in data:
     filtered_words = " ".join(filtered_words_list)
     
     # Identify medications
-    for word in filtered_words_list:
-        for w in term_cores:
-            if w in word:
-                standardized_med = s.standardize([word], thresh=0.99)[0]
-                if standardized_med:
-                    print(word, standardized_med)
-                    if standardized_med not in dictionary["medications"]:
-                        # do this here because it replaces all occurences
-                        dictionary["body"] = dictionary["body"].replace(word, '<span style="color:#42bade; font-weight: bold;">' + word + '</span>')
-                        dictionary["medications"].append(standardized_med)
+    # for word in filtered_words_list:
+    #     if any(w in word for w in term_cores):
+    #     # OLD checking mechanism
+    #     # for w in term_cores:
+    #     #     if w in word:
+    #             standardized_med = s.standardize([word], thresh=0.99)[0]
+    #             if standardized_med:
+    #                 print(word, standardized_med)
+    #                 if standardized_med not in dictionary["medications"]:
+    #                     # do this here because it replaces all occurences
+    #                     dictionary["body"] = dictionary["body"].replace(word, '<span style="color:#42bade; font-weight: bold;">' + word + '</span>')
+    #                     dictionary["medications"].append(standardized_med)
     
     # Identify supplements
     for item in supplement_list:
@@ -83,17 +85,21 @@ for dictionary in data:
             if "!" in word:
                 avoid_matching.append(word[1:])
             else:   
-                word = word.lower() + " "
                 # make sure our term is in the filtered data, and NONE of the terms to avoid are there
-                if (word in filtered_words) and (not any(w in filtered_words for w in avoid_matching)):
-                    
-                    print(word)
+                if (word.lower() + " " in filtered_words.lower()) and (not any(w in filtered_words for w in avoid_matching)):
+                    # skip the blank space now, and risk it. #TODO: improve this
                     
                     if item[0].upper() not in dictionary["supplements"]:
                         # do this here because it replaces all occurences
-                        dictionary["body"] = dictionary["body"].replace(word, '<span style="color:#61BA7E; font-weight: bold;">' + word + '</span>')
+                        pattern = re.compile(re.escape(word), re.IGNORECASE)
+                        dictionary["body"] = pattern.sub('<span style="color:#61BA7E; font-weight: bold;">' + word + '</span>', dictionary["body"])
+                        # dictionary["body"] = dictionary["body"].replace(word, '<span style="color:#61BA7E; font-weight: bold;">' + word + '</span>')
+                
                         dictionary["supplements"].append(item[0].upper())
                         total_results_list.append(item[0].upper())
+
+                        # break so we don't do unneeded work
+                        break
     
     # if there's at least some medication or supplement, store it
     if (len(dictionary["medications"]) or len(dictionary["supplements"])):
