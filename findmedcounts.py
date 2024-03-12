@@ -1,7 +1,7 @@
 import json
 from collections import Counter
 
-with open('mydatav3.json', 'r', encoding="utf-8") as json_file:
+with open('mydatav2.json', 'r', encoding="utf-8") as json_file:
     data = json.load(json_file)
 
 con_tags = []
@@ -48,7 +48,7 @@ sup_results_count = {item.upper(): count for item, count in sup_results.items()}
 # print(", ".join([i for i,c in sorted(con_results_count.items(), key=lambda x: x[1], reverse=True)]))
 
 # ONLY Medications
-print(", ".join([i for i,c in sorted(med_results_count.items(), key=lambda x: x[1], reverse=True)]))
+# print(", ".join([i for i,c in sorted(med_results_count.items(), key=lambda x: x[1], reverse=True)]))
 
 # ONLY Supplements
 print(", ".join([i for i,c in sorted(sup_results_count.items(), key=lambda x: x[1], reverse=True)]))
