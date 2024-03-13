@@ -6,6 +6,7 @@ with open('mydatav2.json', 'r', encoding="utf-8") as json_file:
 
 con_tags = []
 all_tags = []
+all_tags_labeled = []
 med_tags = []
 sup_tags = []
 
@@ -21,56 +22,49 @@ for dictionary in data:
         sup_tags.append(item)
 
 
+# All conditions
+# results = Counter(con_tags)
+# all_con_count = {item.upper(): count for item, count in results.items()}
+# print("export const illnesses =", [item for item, count in sorted(all_con_count.items(), key=lambda x: x[1], reverse=True)])
+
+# All Medications
+# results = Counter(med_tags)
+# all_med_count = {item.upper(): count for item, count in results.items()}
+# print("export const medications =", [item for item, count in sorted(all_med_count.items(), key=lambda x: x[1], reverse=True)])
+
+# All Supplements
+# results = Counter(sup_tags)
+# all_sup_count = {item.upper(): count for item, count in results.items()}
+# print("export const supplements =", [item for item, count in sorted(all_sup_count.items(), key=lambda x: x[1], reverse=True)])
+
+
+
+##################################
+
+# All tags (Med + Sup)
+# results = Counter(all_tags)
+# all_results_count = {item.upper(): count for item, count in results.items()}
+# print("export const all_tags =", [item for item, count in sorted(all_results_count.items(), key=lambda x: x[1], reverse=True)])
+
+# All tags w/ Count and label (Med + Sup)
 results = Counter(all_tags)
 all_results_count = {item.upper(): count for item, count in results.items()}
-# All medications & supplements counts
-# print(dict(sorted(all_results_count.items(), key=lambda x: x[1], reverse=True)))
+all_results_labeled = {}
+for item in all_results_count:
+    if item in med_tags:
+        all_results_labeled[item] = {"count": all_results_count[item], "type": "MED"}
+    if item in sup_tags:
+        all_results_labeled[item] = {"count": all_results_count[item], "type": "SUP"}
 
-# All tags list
-# print(dict(sorted(all_results_count.items(), key=lambda x: x[1], reverse=True)))
+sorted_labeled_results = dict(sorted(all_results_labeled.items(), key=lambda x: x[1]["count"], reverse=True))
+print("export const tag_counts =", sorted_labeled_results)
 
-# Medications and counts
+# Med Counts
 # results = Counter(med_tags)
-# print(dict(sorted(results.items(), key=lambda x: x[1], reverse=True)))
+# print("export const med_counts =", dict(sorted(results.items(), key=lambda x: x[1], reverse=True)))
 
-# Supplements and counts
+# Sup Counts
 # results = Counter(sup_tags)
-# print(dict(sorted(results.items(), key=lambda x: x[1], reverse=True)))
-
-con_results = Counter(con_tags)
-con_results_count = {item.upper(): count for item, count in con_results.items()}
-med_results = Counter(med_tags)
-med_results_count = {item.upper(): count for item, count in med_results.items()}
-sup_results = Counter(sup_tags)
-sup_results_count = {item.upper(): count for item, count in sup_results.items()}
-
-# ONLY Conditions
-# print(", ".join([i for i,c in sorted(con_results_count.items(), key=lambda x: x[1], reverse=True)]))
-
-# ONLY Medications
-# print(", ".join([i for i,c in sorted(med_results_count.items(), key=lambda x: x[1], reverse=True)]))
-
-# ONLY Supplements
-print(", ".join([i for i,c in sorted(sup_results_count.items(), key=lambda x: x[1], reverse=True)]))
+# print("export const sup_counts =", dict(sorted(results.items(), key=lambda x: x[1], reverse=True)))
 
 
-
-
-# print("\n viable tags \n")
-# print(", ".join(sorted(list(all_results_count.keys()))))
-
-# print("\n number of viable tags \n")
-# print(len(all_results_count))
-
-# # print dictionary so that we can include counts in website
-# print("\n mapping \n")
-# print(dict(sorted(all_results_count.items(), key=lambda x: x[1], reverse=True)))
-
-# print("\n only medications \n")
-# print(sorted([item for item in all_results_count if item not in mapping.values()]))
-
-# print("\n only conditions \n")
-# print(sorted(list(set(list(mapping.values()) + ["ALL CONDITIONS (ANY)"]))))
-
-# print("\n viable tags for upload \n")
-# print(list(all_results_count.keys()))

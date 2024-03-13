@@ -2,6 +2,7 @@
 Acetyl L-Carnitine, l-carnitine, alcar
 Activated Charcoal, charcoal
 Alchornea, cordifolia
+Alpha-GPC, alpha gpc, alpha gcp
 Alpha Lipoic Acid
 Andrographis
 Artemisia Absinthium (Wormwood), absinthium, wormwood, Powis castle
@@ -26,6 +27,7 @@ Caffeine, coffee
 Calcium
 Cat's Claw, cats claw
 CBD, Cannabidiol, Cannabidiolum, hemp
+CDP-Choline, CDP Choline
 Celandine
 Chaga
 Chasteberry, Vitex
@@ -129,6 +131,7 @@ St. John's wort, St Johns wort, Hypericum perforatum
 Stephania, snake vine
 Stevia
 Taurine
+Tsumura Kakkonto, Tsumura-Kakkonto, Tsumura-Kampo
 TUDCA
 Turkey Tail
 Vitamin B1, B1, thiamin
