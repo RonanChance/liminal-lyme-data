@@ -31,12 +31,17 @@ for dictionary in data:
 # results = Counter(med_tags)
 # all_med_count = {item.upper(): count for item, count in results.items()}
 # print("export const medications =", [item for item, count in sorted(all_med_count.items(), key=lambda x: x[1], reverse=True)])
+# MAKING medications.txt, 
+# alphabetized = sorted([item for item, count in all_med_count.items()])
+# for item in alphabetized:
+#     print(item)
+# print(len(all_med_count))
 
 # All Supplements
 # results = Counter(sup_tags)
 # all_sup_count = {item.upper(): count for item, count in results.items()}
 # print("export const supplements =", [item for item, count in sorted(all_sup_count.items(), key=lambda x: x[1], reverse=True)])
-
+# print(len(all_sup_count))
 
 
 ##################################
@@ -47,17 +52,17 @@ for dictionary in data:
 # print("export const all_tags =", [item for item, count in sorted(all_results_count.items(), key=lambda x: x[1], reverse=True)])
 
 # All tags w/ Count and label (Med + Sup)
-results = Counter(all_tags)
-all_results_count = {item.upper(): count for item, count in results.items()}
-all_results_labeled = {}
-for item in all_results_count:
-    if item in med_tags:
-        all_results_labeled[item] = {"count": all_results_count[item], "type": "MED"}
-    if item in sup_tags:
-        all_results_labeled[item] = {"count": all_results_count[item], "type": "SUP"}
+# results = Counter(all_tags)
+# all_results_count = {item.upper(): count for item, count in results.items()}
+# all_results_labeled = {}
+# for item in all_results_count:
+#     if item in med_tags:
+#         all_results_labeled[item] = {"count": all_results_count[item], "label": "MED"}
+#     if item in sup_tags:
+#         all_results_labeled[item] = {"count": all_results_count[item], "label": "SUP"}
 
-sorted_labeled_results = dict(sorted(all_results_labeled.items(), key=lambda x: x[1]["count"], reverse=True))
-print("export const tag_counts =", sorted_labeled_results)
+# sorted_labeled_results = dict(sorted(all_results_labeled.items(), key=lambda x: x[1]["count"], reverse=True))
+# print("export const tag_counts =", sorted_labeled_results)
 
 # Med Counts
 # results = Counter(med_tags)

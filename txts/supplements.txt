@@ -1,12 +1,13 @@
-5-HTP, 5htp, 5-Hydroxytryptophan, oxitriptan
-Acetyl L-Carnitine, l-carnitine, alcar
+5-HTP/Tryptophan, 5htp, 5-Hydroxytryptophan, oxitriptan, tryptophan, l-tryptophan
+Acetyl L-Carnitine, l-carnitine, alcar, Acetyl L Carnitine
 Activated Charcoal, charcoal
 Alchornea, cordifolia
+Alka Seltzer Gold, Alka-Seltzer Gold
 Alpha-GPC, alpha gpc, alpha gcp
 Alpha Lipoic Acid
 Andrographis
 Artemisia Absinthium (Wormwood), absinthium, wormwood, Powis castle
-Artimisinin
+Artemisinin, Artimisinin
 Ashwagandha, withania somnifera
 Astragalus
 Baikal skullcap, Baikal, Skullcap, Baical
@@ -22,22 +23,23 @@ Black Walnut, juglans nigra, american walnut
 Boswellia
 Branched chain amino acids, BCAA, BCAAs
 Bromelain
-Burbur-Pinella, burbur, pinella
+Burbur-Pinella, burbur, pinella, Burbur Pinella
 Caffeine, coffee
 Calcium
 Cat's Claw, cats claw
 CBD, Cannabidiol, Cannabidiolum, hemp
-CDP-Choline, CDP Choline
+CDP-Choline, CDP Choline, citicoline
 Celandine
 Chaga
 Chasteberry, Vitex
 Chinese Salvia, Salvia miltiorrhiza, danshen, red sage, redroot sage
+Chamomile, Chamomile Tea
 Chlorella, chorella
 Cinnamon
 Cistus Incanus, rock rose, cistus incantus
 Clover
 Collagen, collegen
-CoQ10, coenq10, co-q10
+CoQ10, coenq10, co-q10, co enzyme q 10, co q 10
 Cordyceps
 Creatine, !creatine kinase
 Cryptolepis, cryptolepsis, nibima, kadze, gangamau, ghanaian quinine, yellow-dye root
@@ -57,10 +59,13 @@ Garlic (Allicin), garlic, allicin
 Ginger
 Ginkgo biloba, Ginkgo, gingko, ginko
 Ginseng
-Glutathione
+Glucosamine, Glucosamine Chondroitin
+Glutathione, liposomal glutathione
+Glycine
 Gou-Teng, Gou teng, uncaria rhynchophylla
 Grape Seed Extract, grape seed, grapeseed
 Grapefruitseed, Grapefruit extract
+Green Tea
 Hawthorn
 Hyaluronic Acid, Hyaluronic
 Ioderal, ferrous
@@ -68,7 +73,7 @@ Iodine
 Iron
 Isatis
 Japanese Knotweed, Knotweed
-Kudzu
+Kudzu, Kudzo
 L-Arginine, Arginine
 L-Aspartate, Aspartate, L-ORNITHINE-L-ASPARTATE
 L-Citrulline, citrulline
@@ -76,7 +81,7 @@ L-Glutamine, glutamine
 L-Lysine, lysine
 L-Ornithine, ornithine, L-ORNITHINE-L-ASPARTATE
 L-Theanine, Theanine
-Lactoferrin (& colostrum), lactoferrin, colostrum
+Lactoferrin/Colostrum, lactoferrin, colostrum
 Licorice Root, Licorice, glycyrrhiza
 Lion's Mane, Lions Mane
 Lumbrokinase
@@ -85,6 +90,7 @@ Maca
 Magnesium, Magnesium threonate, Magnesium citrate, magnesium glycinate, magtein
 Magnolia, Magnolia officinalis, magnolia bark
 Mastic Gum
+MCT Oil/Caprylic acid, MCT Oil, Caprylic acid
 Melatonin
 Methylene Blue
 Methylsulfonylmethane, MSM
@@ -98,8 +104,10 @@ NAD+, NADH
 Nattokinase (Proteolytic Enzymes), nattokinase, proteolytic
 Neem
 Nettle Leaf, nettle
+NMN (Nicotinamide Mononucleotide), NMN, Nicotinamide Mononucleotide, Lipo NMN, Liposomal NMN, Liposomal Nicotinamide Mononucleotide
 Olive leaf, oleuropeine
 Oregano
+Otoba Bark, Otoba Parvifolia, Otoba Parvifolia Bark
 Palmitoylethanolamide (PEA), Palmitoylethanolamide or PEA, pea, palmitoylethanolamide, micronized pea, micronized palmitoylethanolamide
 Pau D'arco, Pau Darco
 Peppermint
@@ -125,27 +133,30 @@ Sarsaparilla, Sasparilla
 Selenium
 Serrapeptase
 Sida acuta
+Slimax/Greenbriers, Slimax, Greenbriers
 Slippery Elm Bark, slippery elm
 Spirulina
-St. John's wort, St Johns wort, Hypericum perforatum
+St. John's wort, St Johns wort, St John's wort, Hypericum perforatum
 Stephania, snake vine
 Stevia
 Taurine
 Tsumura Kakkonto, Tsumura-Kakkonto, Tsumura-Kampo
 TUDCA
 Turkey Tail
-Vitamin B1, B1, thiamin
-Vitamin B12, B12, cyanocobalamin
-Vitamin B2, B2, riboflavin
-Vitamin B3, B3, niacin
-Vitamin B5, B5, pantothenic acid, pantothenic
-Vitamin B6, B6
-Vitamin B7, B7
-Vitamin B9 (Folic Acid), B9, folic acid, folate, folacin, methylfolate
-Vitamin C
-Vitamin D, D3
-Vitamin E
-Vitamin K
+Valerian, Valeriana
+Vitamin B Complex, B-Complex, Vitamin B-Complex, Vit B-Complex
+Vitamin B1, B1, thiamin, Vit B1
+Vitamin B12, B12, cyanocobalamin, methyl b12, Vit B12
+Vitamin B2, B2, riboflavin, Vit B2
+Vitamin B3, B3, niacin, Vit B3
+Vitamin B5, B5, pantothenic acid, pantothenic, Vit B5
+Vitamin B6, B6, B6 complex, B6-complex, Vit B6
+Vitamin B7, B7, Vit B7
+Vitamin B9 (Folic Acid), B9, folic acid, folate, folacin, methylfolate, Vit B9
+Vitamin C, Vit C
+Vitamin D, D3, Vit D
+Vitamin E, Vit E
+Vitamin K, Vit K
 Wheatgrass
 Zeolite
 Zinc
