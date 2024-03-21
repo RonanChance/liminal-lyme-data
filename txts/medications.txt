@@ -76,7 +76,7 @@ ELETRIPTAN
 ENOXACIN
 ENOXAPARIN
 ERTAPENEM
-ERYTHROMYCIN, A/T/S, Akne-mycin, E.E.S., Emcin Clear, EMGEL, E-Mycin, ERYC, Erycette, Eryderm, Erygel, Erymax, EryPed, Ery-Tab, Erythra Derm, Erythrocin, Erythrocin Lactobionate, Erythrocin Stearate, Ilosone, Ilotycin, My-E, PCE, PCE Dispertab, Romycin, Staticin, T-Stat
+ERYTHROMYCIN, A/T/S, Akne-mycin, E.E.S., Emcin Clear, EMGEL, E-Mycin, ERYC, Erycette, Eryderm, Erygel, Erymax, EryPed, Ery-Tab, Erythra Derm, Erythrocin, Erythrocin Lactobionate, Erythrocin Stearate, Ilosone, Ilotycin, My-E, PCE, PCE Dispertab, Staticin, T-Stat
 ESCITALOPRAM, Lexapro
 ESOMEPRAZOLE, Nexium, Nexium 24HR, Nexium 24HR Clear Minis
 ESTRONE
