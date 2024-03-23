@@ -8,7 +8,14 @@ start_time = time.time()
 
 mapping = {
 
+    "chronic lyme disease": "LYME DISEASE",
+    "post treatment lyme disease": "LYME DISEASE",
+    "lymes disease": "LYME DISEASE",
+    # "lymes": "LYME DISEASE",
+    "chronic lymie": "LYME DISEASE",
+    "lymie": "LYME DISEASE",
     "lyme disease": "LYME DISEASE",
+    "PTLDS": "LYME DISEASE",
     " lyme": "LYME DISEASE",
     "borrelia": "LYME DISEASE",
     "borreliosis": "LYME DISEASE",
@@ -27,8 +34,13 @@ mapping = {
     "phagocytophilum": "ANAPLASMOSIS",
     "anaplas": "ANAPLASMOSIS",
 
+    "TBRF": "RELAPSING FEVER",
+    "tick borne relapsing fever": "RELAPSING FEVER",
     "tickborne relapsing fever": "RELAPSING FEVER",
     "tick-borne relapsing fever": "RELAPSING FEVER",
+    "borrelia miyamotoi": "RELAPSING FEVER",
+    "borrelia miyamoti": "RELAPSING FEVER",
+    "borrelia hermsii": "RELAPSING FEVER",
     "relapsing fever": "RELAPSING FEVER",
 
     "babesiosis": "BABESIOSIS",

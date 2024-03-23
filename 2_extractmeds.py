@@ -80,8 +80,8 @@ for dictionary in data:
                 avoid_matching.append(word[1:])
             else:   
                 # make sure our term is in the filtered data, and NONE of the terms to avoid are there
-                if (word + " " in filtered_words.lower()) and (not any(w in filtered_words for w in avoid_matching)):
-                    print(word.upper())
+                if (" " + word + " " in filtered_words.lower()) and (not any(w in filtered_words for w in avoid_matching)):
+                    # print(word.upper())
                     # skip the blank space now, and risk it. #TODO: improve this
                     # this should solve duplicate issue, check again later
                     pattern = re.compile(r"(?<!>)" + re.escape(word), re.IGNORECASE)
@@ -101,8 +101,8 @@ for dictionary in data:
                 avoid_matching.append(word[1:])
             else:
                 # make sure our term is in the filtered data, and NONE of the terms to avoid are there
-                if (word + " " in filtered_words.lower()) and (not any(w in filtered_words for w in avoid_matching)):
-                    print(word.upper())
+                if (" " + word + " " in filtered_words.lower()) and (not any(w in filtered_words for w in avoid_matching)):
+                    # print(word.upper())
                     # skip the blank space now, and risk it. #TODO: improve this
                     # this should solve duplicate issue, check again later
                     pattern = re.compile(r"(?<!>)" + re.escape(word), re.IGNORECASE)
@@ -143,7 +143,7 @@ minutes = int(elapsed_time // 60)
 seconds = int(elapsed_time % 60)
 print(f"Elapsed time: {minutes} minutes {seconds} seconds")
 # print(list(set(total_medications_list)))
-for item in collections.Counter(total_medications_list).most_common():
-    print(item[1], item[0])
-for item in collections.Counter(total_medications_list).most_common():
-    print(item[0])
+# for item in collections.Counter(total_medications_list).most_common():
+#     print(item[1], item[0])
+# for item in collections.Counter(total_medications_list).most_common():
+#     print(item[0])

@@ -1,6 +1,6 @@
-5-HTP/Tryptophan, 5htp, 5-Hydroxytryptophan, oxitriptan, tryptophan, l-tryptophan
+5-HTP/Tryptophan, 5-htp, 5htp, 5-Hydroxytryptophan, oxitriptan, tryptophan, l-tryptophan
 Acetyl L-Carnitine, l-carnitine, alcar, Acetyl L Carnitine
-Activated Charcoal, charcoal
+Activated Charcoal, charcoal, activated charcoal
 Alchornea, cordifolia
 Alka Seltzer Gold, Alka-Seltzer Gold
 Alpha-GPC, alpha gpc, alpha gcp
@@ -10,7 +10,6 @@ Artemisia Absinthium (Wormwood), absinthium, wormwood, Powis castle
 Artemisinin, Artimisinin
 Ashwagandha, withania somnifera
 Astragalus
-Baikal skullcap, Baikal, Skullcap, Baical
 Banderol
 Bee venom, BVT
 Beetroot, beet root
@@ -21,6 +20,7 @@ Biocidin
 Black Seed (Nigella Sativa), nigella, black cumin, black seed
 Black Walnut, juglans nigra, american walnut
 Boswellia
+Boxwood, Boxwood extract, Buxus sempervirens, European Box, Buxaceae
 Branched chain amino acids, BCAA, BCAAs
 Bromelain
 Burbur-Pinella, burbur, pinella, Burbur Pinella
@@ -39,11 +39,12 @@ Cinnamon
 Cistus Incanus, rock rose, cistus incantus
 Clover
 Collagen, collegen
-CoQ10, coenq10, co-q10, co enzyme q 10, co q 10
+Cod Liver Oil
+CoQ10, coenq10, co-q10, co enzyme q 10, co q 10, Co-Enzyme Q10, CoQmax Ubiquinol, Q-Sorb Co Q-10, QuinZyme, ubiquinol, Ubiquinone
 Cordyceps
 Creatine, !creatine kinase
 Cryptolepis, cryptolepsis, nibima, kadze, gangamau, ghanaian quinine, yellow-dye root
-Curcumin, turmeric, tumeric
+Curcumin (Turmeric), curcumin, turmeric, tumeric
 Dandelion
 DHEA
 Diamine Oxidase, DAO
@@ -63,16 +64,17 @@ Glucosamine, Glucosamine Chondroitin
 Glutathione, liposomal glutathione
 Glycine
 Gou-Teng, Gou teng, uncaria rhynchophylla
-Grape Seed Extract, grape seed, grapeseed
+Grape Seed Extract, grape seed, grapeseed, Grape Seed Extract
 Grapefruitseed, Grapefruit extract
 Green Tea
 Hawthorn
 Hyaluronic Acid, Hyaluronic
 Ioderal, ferrous
 Iodine
-Iron
+Iron, Iron Chelate
 Isatis
 Japanese Knotweed, Knotweed
+Kratom, Mitragyna speciosa
 Kudzu, Kudzo
 L-Arginine, Arginine
 L-Aspartate, Aspartate, L-ORNITHINE-L-ASPARTATE
@@ -117,7 +119,7 @@ Phosphatidylserine
 Phosphorous
 Potassium
 Prebioitic, prebiotics
-Probiotics, probiotic
+Probiotics, probiotic, probiotics
 Protein Powder
 Quercetin
 Quinine, Cinchona, jesuits bark, peruvian bark, china bark
@@ -152,7 +154,7 @@ Vitamin B3, B3, niacin, Vit B3
 Vitamin B5, B5, pantothenic acid, pantothenic, Vit B5
 Vitamin B6, B6, B6 complex, B6-complex, Vit B6
 Vitamin B7, B7, Vit B7
-Vitamin B9 (Folic Acid), B9, folic acid, folate, folacin, methylfolate, Vit B9
+Vitamin B9 (Folic Acid), B9, folic acid, folate, folacin, methylfolate, Vit B9, vitamin b9
 Vitamin C, Vit C
 Vitamin D, D3, Vit D
 Vitamin E, Vit E
@@ -160,3 +162,9 @@ Vitamin K, Vit K
 Wheatgrass
 Zeolite
 Zinc
+Schisandra, Magnolia vines
+Apple Cider Vinegar, ACV
+Lemon Water, Lemon juice, lemon concentrate
+sulforaphane, sulphoraphane
+Chinese Skullcap, Scutellaria baicalensis, Baikal skullcap, Baikal, Skullcap, Baical
+Berberine, Berberine HCL
