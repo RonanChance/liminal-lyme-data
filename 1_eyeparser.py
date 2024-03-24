@@ -8,58 +8,58 @@ start_time = time.time()
 
 mapping = {
 
-    "chronic lyme disease": "LYME DISEASE",
-    "post treatment lyme disease": "LYME DISEASE",
-    "lymes disease": "LYME DISEASE",
-    # "lymes": "LYME DISEASE",
-    "chronic lymie": "LYME DISEASE",
-    "lymie": "LYME DISEASE",
-    "lyme disease": "LYME DISEASE",
-    "PTLDS": "LYME DISEASE",
-    " lyme": "LYME DISEASE",
-    "borrelia": "LYME DISEASE",
-    "borreliosis": "LYME DISEASE",
-    "borreli": "LYME DISEASE",
-    "burgdorferi": "LYME DISEASE",
+    "chronic lyme disease": "Lyme Disease",
+    "post treatment lyme disease": "Lyme Disease",
+    "lymes disease": "Lyme Disease",
+    # "lymes": "Lyme Disease",
+    "chronic lymie": "Lyme Disease",
+    "lymie": "Lyme Disease",
+    "lyme disease": "Lyme Disease",
+    "PTLDS": "Lyme Disease",
+    " lyme": "Lyme Disease",
+    "borrelia": "Lyme Disease",
+    "borreliosis": "Lyme Disease",
+    "borreli": "Lyme Disease",
+    "burgdorferi": "Lyme Disease",
 
-    "rocky mountain spotted fever": "ROCKY MOUNTAIN SPOTTED FEVER",
-    "rocky mountain spot": "ROCKY MOUNTAIN SPOTTED FEVER",
-    "rickettsia": "ROCKY MOUNTAIN SPOTTED FEVER",
-    "rickettsi": "ROCKY MOUNTAIN SPOTTED FEVER",
-    "rickestta": "ROCKY MOUNTAIN SPOTTED FEVER",
-    "rmsf": "ROCKY MOUNTAIN SPOTTED FEVER", 
+    "rocky mountain spotted fever": "Rocky Mountain Spotted Fever",
+    "rocky mountain spot": "Rocky Mountain Spotted Fever",
+    "rickettsia": "Rocky Mountain Spotted Fever",
+    "rickettsi": "Rocky Mountain Spotted Fever",
+    "rickestta": "Rocky Mountain Spotted Fever",
+    "rmsf": "Rocky Mountain Spotted Fever", 
 
-    "anaplasmosis": "ANAPLASMOSIS",
-    "anaplasma": "ANAPLASMOSIS",
-    "phagocytophilum": "ANAPLASMOSIS",
-    "anaplas": "ANAPLASMOSIS",
+    "anaplasmosis": "Anaplasmosis",
+    "anaplasma": "Anaplasmosis",
+    "phagocytophilum": "Anaplasmosis",
+    "anaplas": "Anaplasmosis",
 
-    "TBRF": "RELAPSING FEVER",
-    "tick borne relapsing fever": "RELAPSING FEVER",
-    "tickborne relapsing fever": "RELAPSING FEVER",
-    "tick-borne relapsing fever": "RELAPSING FEVER",
-    "borrelia miyamotoi": "RELAPSING FEVER",
-    "borrelia miyamoti": "RELAPSING FEVER",
-    "borrelia hermsii": "RELAPSING FEVER",
-    "relapsing fever": "RELAPSING FEVER",
+    "TBRF": "Relapsing Fever",
+    "tick borne relapsing fever": "Relapsing Fever",
+    "tickborne relapsing fever": "Relapsing Fever",
+    "tick-borne relapsing fever": "Relapsing Fever",
+    "borrelia miyamotoi": "Relapsing Fever",
+    "borrelia miyamoti": "Relapsing Fever",
+    "borrelia hermsii": "Relapsing Fever",
+    "relapsing fever": "Relapsing Fever",
 
-    "babesiosis": "BABESIOSIS",
-    "babesia": "BABESIOSIS",
-    "babesi": "BABESIOSIS",
+    "babesiosis": "Babesiosis",
+    "babesia": "Babesiosis",
+    "babesi": "Babesiosis",
 
-    "bartonellosis": "BARTONELLOSIS",
-    "bartonella": "BARTONELLOSIS",
-    "bartone": "BARTONELLOSIS",
+    "bartonellosis": "Bartonellosis",
+    "bartonella": "Bartonellosis",
+    "bartone": "Bartonellosis",
 
-    "mycoplasma": "MYCOPLASMA",
-    "mycoplasmia": "MYCOPLASMA", # this isn't real, but might catch spelling mistakes
+    "mycoplasma": "Mycoplasma",
+    "mycoplasmia": "Mycoplasma", # this isn't real, but might catch spelling mistakes
 
-    "ehrlichiosis": "EHRLICHIOSIS",
-    "ehrlichia": "EHRLICHIOSIS",
-    "ehrlich": "EHRLICHIOSIS",
+    "ehrlichiosis": "Ehrlichiosis",
+    "ehrlichia": "Ehrlichiosis",
+    "ehrlich": "Ehrlichiosis",
 
-    "tularemia": "TULAREMIA",
-    "tulare": "TULAREMIA",
+    "tularemia": "Tularemia",
+    "tulare": "Tularemia",
 }
 
 def format_file(filename, start):
@@ -123,12 +123,12 @@ def format_and_store(filename, json_dict, comment_flag):
             if cond == " lyme":
                 if " lyme" in body_lower.replace("lymecycline", " "):
                     pattern = re.compile(r"(?<!>)" + re.escape("lyme"), re.IGNORECASE)
-                    entry_dict["body"] = pattern.sub('<span style="background-color: var(--condition_highlight)">lyme</span>', entry_dict["body"])
+                    entry_dict["body"] = pattern.sub('<span class="conditionstyle">lyme</span>', entry_dict["body"])
                 else:
                     continue
             else:
                 pattern = re.compile(r"(?<!>)" + re.escape(cond), re.IGNORECASE)
-                entry_dict["body"] = pattern.sub('<span style="background-color: var(--condition_highlight)">' + cond + '</span>', entry_dict["body"])
+                entry_dict["body"] = pattern.sub('<span class="conditionstyle">' + cond + '</span>', entry_dict["body"])
 
             # add to medication list, then highlight the relevant text
             if mapping[cond] not in entry_dict["conditions"]:

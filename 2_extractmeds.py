@@ -15,12 +15,16 @@ total_supplements_list = []
 supplement_file = fileinput.input("txts/supplements.txt", encoding="utf-8")
 supplement_list = []
 for line in supplement_file:
-    supplement_list.append(line.strip().lower().split(", "))
+    items = line.strip().split(", ")
+    line = [items[0]] + [item.lower() for item in items]
+    supplement_list.append(line)
 
 medication_file = fileinput.input("txts/medications.txt", encoding="utf-8")
 medication_list = []
 for line in medication_file:
-    medication_list.append(line.strip().lower().split(", "))
+    items = line.strip().split(", ")
+    line = [items[0]] + [item.lower() for item in items]
+    medication_list.append(line)
 
 sys.stdout.reconfigure(encoding='utf-8')
 # nltk.download("stopwords")
@@ -85,12 +89,12 @@ for dictionary in data:
                     # skip the blank space now, and risk it. #TODO: improve this
                     # this should solve duplicate issue, check again later
                     pattern = re.compile(r"(?<!>)" + re.escape(word), re.IGNORECASE)
-                    dictionary["body"] = pattern.sub('<span style="background-color: var(--medication_highlight)">' + word + '</span>', dictionary["body"])
+                    dictionary["body"] = pattern.sub('<span class="medicationstyle">' + word + '</span>', dictionary["body"])
 
-                    if item[0].upper() not in dictionary["medications"]:
-                        dictionary["medications"].append(item[0].upper())
-                        total_results_list.append(item[0].upper())
-                        total_medications_list.append(item[0].upper())
+                    if item[0] not in dictionary["medications"]:
+                        dictionary["medications"].append(item[0])
+                        total_results_list.append(item[0])
+                        total_medications_list.append(item[0])
 
     # Identify supplements
     for item in supplement_list:
@@ -106,11 +110,11 @@ for dictionary in data:
                     # skip the blank space now, and risk it. #TODO: improve this
                     # this should solve duplicate issue, check again later
                     pattern = re.compile(r"(?<!>)" + re.escape(word), re.IGNORECASE)
-                    dictionary["body"] = pattern.sub('<span style="background-color: var(--supplement_highlight)">' + word + '</span>', dictionary["body"])
+                    dictionary["body"] = pattern.sub('<span style="supplementstyle">' + word + '</span>', dictionary["body"])
 
-                    if item[0].upper() not in dictionary["supplements"]:
-                        dictionary["supplements"].append(item[0].upper())
-                        total_results_list.append(item[0].upper())
+                    if item[0] not in dictionary["supplements"]:
+                        dictionary["supplements"].append(item[0])
+                        total_results_list.append(item[0])
     
     # if there's at least some medication or supplement, store it
     if (len(dictionary["medications"]) or len(dictionary["supplements"])):

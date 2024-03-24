@@ -26,14 +26,14 @@ for dictionary in data:
 
 # All conditions
 results = Counter(con_tags)
-all_con_count = {item.upper(): count for item, count in results.items()}
+all_con_count = {item: count for item, count in results.items()}
 # print("export const illnesses =", [item for item, count in sorted(all_con_count.items(), key=lambda x: x[1], reverse=True)])
 constants_file.write("export const illnesses = " + str([item for item, count in sorted(all_con_count.items(), key=lambda x: x[1], reverse=True)]))
 print(", ".join([item for item, count in sorted(all_con_count.items(), key=lambda x: x[1], reverse=True)]))
 
 # All Medications
 results = Counter(med_tags)
-all_med_count = {item.upper(): count for item, count in results.items()}
+all_med_count = {item: count for item, count in results.items()}
 # print("export const medications =", [item for item, count in sorted(all_med_count.items(), key=lambda x: x[1], reverse=True)])
 constants_file.write("\n" + "export const medications = " + str([item for item, count in sorted(all_med_count.items(), key=lambda x: x[1], reverse=True)]))
 print("\n" + ", ".join([item for item, count in sorted(all_med_count.items(), key=lambda x: x[1], reverse=True)]))
@@ -45,7 +45,7 @@ print("\n" + ", ".join([item for item, count in sorted(all_med_count.items(), ke
 
 # All Supplements
 results = Counter(sup_tags)
-all_sup_count = {item.upper(): count for item, count in results.items()}
+all_sup_count = {item: count for item, count in results.items()}
 # print("export const supplements =", [item for item, count in sorted(all_sup_count.items(), key=lambda x: x[1], reverse=True)])
 constants_file.write("\n" + "export const supplements = " + str([item for item, count in sorted(all_sup_count.items(), key=lambda x: x[1], reverse=True)]))
 print("\n" + ", ".join([item for item, count in sorted(all_sup_count.items(), key=lambda x: x[1], reverse=True)]))
@@ -56,14 +56,14 @@ print("\n" + ", ".join([item for item, count in sorted(all_sup_count.items(), ke
 
 # All tags (Med + Sup)
 results = Counter(all_tags)
-all_results_count = {item.upper(): count for item, count in results.items()}
+all_results_count = {item: count for item, count in results.items()}
 # print("export const all_tags =", [item for item, count in sorted(all_results_count.items(), key=lambda x: x[1], reverse=True)])
 constants_file.write("\n" + "export const all_tags = " + str([item for item, count in sorted(all_results_count.items(), key=lambda x: x[1], reverse=True)]))
 
 
 # All tags w/ Count and label (Med + Sup)
 # results = Counter(all_tags)
-all_results_count = {item.upper(): count for item, count in results.items()}
+all_results_count = {item: count for item, count in results.items()}
 all_results_labeled = {}
 for item in all_results_count:
     if item in med_tags:

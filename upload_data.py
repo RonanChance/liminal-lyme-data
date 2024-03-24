@@ -1,7 +1,11 @@
 import json
 from pocketbase import PocketBase
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 client = PocketBase('http://127.0.0.1:8090')
+admin_data = client.admins.auth_with_password(os.getenv('SECRET_EMAIL'), os.getenv('SECRET_PASSWORD'))
 
 with open('mydatav2.json', 'r', encoding="utf-8") as json_file:
     data = json.load(json_file)
