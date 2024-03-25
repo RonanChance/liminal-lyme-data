@@ -42,7 +42,7 @@ Cholestyramine, Locholest, Locholest Light, Prevalite, Questran, Questran Light
 Ciprofloxacin, Cetraxal, Ciloxan, Cipro, Cipro XR, OTIPRIO, Proquin XR
 Cisatracurium besylate
 Citalopram, Celexa
-Clarithromycin, Biaxin, Biaxin XL
+Clarithromycin, clarithro, Biaxin, Biaxin XL
 Clindamycin, Cleocin, Cleocin Ovules, Cleocin Pediatric, Cleocin T, Clindacin ETZ, Clindacin PAC, Clindacin-P, Clinda-Derm, Clindagel, ClindaMax, ClindaReach, Clindesse, Clindets, Evoclin, PledgaClin, XACIATO
 Clonazepam, Ceberclon, Klonopin
 Clopidogrel
@@ -86,7 +86,7 @@ Etoricoxib
 Fentanyl, ABSTRAL, Actiq, Duragesic, Fentora, IONSYS, Lazanda, Onsolis, Sublimaze, SUBSYS
 Fexofenadine, Allegra, Allegra Allergy 12 Hour, Allegra Allergy 24 Hour, Allegra Children's Allergy, Allegra Children's Allergy ODT, Allegra Hives, Allegra ODT
 Flucloxacillin
-Fluconazole, Diflucan
+Fluconazole, flucanozole, Diflucan
 Flunarizine
 Fluoxetine, Prozac, Prozac Weekly, Sarafem, Selfemra
 Fluticasone Furoate
@@ -111,7 +111,7 @@ Hydrocodone, Hysingla ER, Zohydro
 Hydrocortisone, A-Hydrocort, Ala-Cort, Ala-Scalp, Alkindi, Anucort-HC, Anumed-HC, Anusol HC, Aqua Glycolic HC, Aquaphor Itch Relief, Caldecort, Cetacort, Colocort, Cortaid, CortAlo, Cortef, Cortenema, Corticaine, Corticool, Cortifoam, Cortizone-10, Cortizone-5, Dermarest, Encort, Gly-Cort, GRx HiCort, Hemmorex-HC, Hemorrhoidal-HC, Hemril, Hycort, Hydro Skin, Hydrocort, Hydrocortone, Hydroskin, Hydroxym, Hytone, Instacort, Lacticare HC, Locoid, MiCort-HC, Monistat, Neosporin Eczema, NuCort, Nutracort, NuZon, Pandel, Penecort, Preparation H, Proctocort, Proctocream-HC, Procto-Kit, Procto-Med HC, Procto-Pak, Proctosert HC, Proctosol-HC, Proctozone-HC, Rectacort HC, Rectasol-HC, Rederm, Sarnol-HC, Scalacort, Scalpicin Anti-Itch, Solu-Cortef, Texacort, Tucks HC, Vagisil Anti-Itch, VANICREAM HC, Westcort
 Hydromorphone, Dilaudid, Dilaudid-HP, Exalgo, Palladone, Simplist Dilaudid
 Hydroxocobalamin
-Hydroxychloroquine, Plaquenil, Quineprox, SOVUNA
+Hydroxychloroquine, Hydroxychlorquine, Plaquenil, Quineprox, SOVUNA
 Hydroxyurea
 Hydroxyzine, Atarax, Hyzine, Rezine, Vistaril, Vistaril Solution, Vistaril Suspension
 Hyoscyamine, Anaspaz, A-Spas S/L, Colidrops Pediatric, Colytrol Pediatric, Cystospaz, Cystospaz M, Dispas, ED-Spaz, HyoMax, HyoMax-DT, HyoMax-FT, HyoMax-SL, HyoMax-SR, Hyosol SL, Hyospaz, Hyosyne, IB Stat, Levbid, Levsin, Levsin SL, Levsinex, Losamine, Medispaz, neosol, NuLev, OSCIMIN, OSCIMIN SR, Spacol, Spasdel, Symax, Symax Duotab, Symax FasTabs, Symax SR
@@ -154,7 +154,7 @@ Mirtazapine, Remeron, Remeron SolTab
 Mometasone, Asmanex, Asmanex HFA, Elocon, Nasonex, Propel, Propel Contour, PROPEL Mini, PROPEL Mini with Straight Delivery System, SINUVA
 Moxifloxacin, Avelox, Avelox ABC Pack, Avelox I.V., MOXEZA, Vigamox
 Mupirocin, Bactroban, Centany, Centany AT
-Naltrexone, Depade, ReVia, Vivitrol, Low Dose Naltrexone, low-dose naltrexone, LDN
+Naltrexone (Low Dose Naltrexone), Naltrexone, Depade, ReVia, Vivitrol, Low Dose Naltrexone,  LDN , low-dose naltrexone
 Naproxen, Aflaxen, Aleve, Aleve Arthritis, All Day Relief, Anaprox, Anaprox DS, EC-Naprosyn, Midol Extended Relief, Naprelan, Naprelan Dose Card, Naprosyn
 Natalizumab
 Nebivolol
@@ -256,3 +256,5 @@ Mesalamine, Apriso, Asacol, Asacol HD, Canasa, Delzicol, Lialda, Pentasa, Rowasa
 Loratadine, Alavert, Claritin, Claritin 24 Hour, Claritin Chewable, Claritin Hives Relief, Claritin Liqui-Gel, Claritin RediTabs, Clear-Atadine, Tavist ND
 Famotidine, Pepcid, Pepcid AC, Pepcid AC Maximum Strength, Zantac 360
 Ibuprofen, Advil, Advil Children, Advil Migraine, Caldolor, Children's Ibuprofen, ElixSure IB, Genpril, Ibren, IBU, Ibupak, Midol, Midol Cramps and Body Aches, Motrin, Motrin IB, Motrin Infants, Motrin Junior Strength, Motrin Migraine Pain, Samson-8
+Leucovorin
+Metoprolol, KAPSPARGO, Lopressor, Toprol XL, Toprol-XL

@@ -1,6 +1,4 @@
 import sys
-import nltk
-from nltk.corpus import stopwords
 import fileinput
 import json
 import collections
@@ -27,8 +25,6 @@ for line in medication_file:
     medication_list.append(line)
 
 sys.stdout.reconfigure(encoding='utf-8')
-# nltk.download("stopwords")
-stop_words = set(stopwords.words("english"))
 
 def format_file(filename, start):
     if start:
@@ -64,57 +60,49 @@ for dictionary in data:
                       .replace('&amp;#x200b;', ' ')
                       .replace('\"', ' ')
                       .replace('/', ' ')
-                    #   .replace('\'', ' ')
                       .replace('=', ' ')
                       .replace('*', ' ')
                       .replace('<', ' ')
                       .replace('>', ' ')
+                      .replace(':', ' ')
+                      .replace('-', ' ')
+                      .replace('•', ' ')
                       .replace('background-color:', ' ')
                       .replace('--condition_highlight', ' ')
-                      .split() if word.lower() not in stop_words]
+                      .split()]
     
     filtered_words = " ".join(filtered_words_list)
     
     # Identify medications
     for item in medication_list:
-        # reverse to get which words to avoid first
-        for idx, word in enumerate(item[::-1]):
-            avoid_matching = []
-            if "!" in word:
-                avoid_matching.append(word[1:])
-            else:   
-                # make sure our term is in the filtered data, and NONE of the terms to avoid are there
-                if (" " + word + " " in filtered_words.lower()) and (not any(w in filtered_words for w in avoid_matching)):
-                    # print(word.upper())
-                    # skip the blank space now, and risk it. #TODO: improve this
-                    # this should solve duplicate issue, check again later
-                    pattern = re.compile(r"(?<!>)" + re.escape(word), re.IGNORECASE)
-                    dictionary["body"] = pattern.sub('<span class="medicationstyle">' + word + '</span>', dictionary["body"])
+        keyterm = item[0]
+        find_terms = sorted([med for med in item[1:] if '!' not in med], key=len, reverse=True)
+        avoid_terms = [med for med in item if '!' in med]
 
-                    if item[0] not in dictionary["medications"]:
-                        dictionary["medications"].append(item[0])
-                        total_results_list.append(item[0])
-                        total_medications_list.append(item[0])
+        for word in find_terms:
+            if (" " + word + " " in filtered_words) and (not any(w in filtered_words for w in avoid_terms)):
+                pattern = re.compile(r"(?<!>)" + re.escape(word), re.IGNORECASE)
+                dictionary["body"] = pattern.sub('<span style="background-color: var(--medication_highlight);">' + word + '</span>', dictionary["body"])
+
+                if keyterm not in dictionary["medications"]:
+                    dictionary["medications"].append(keyterm)
+                    total_results_list.append(keyterm)
+                    total_medications_list.append(keyterm)
 
     # Identify supplements
     for item in supplement_list:
-        # reverse to get which words to avoid first
-        for idx, word in enumerate(item[::-1]):
-            avoid_matching = []
-            if "!" in word:
-                avoid_matching.append(word[1:])
-            else:
-                # make sure our term is in the filtered data, and NONE of the terms to avoid are there
-                if (" " + word + " " in filtered_words.lower()) and (not any(w in filtered_words for w in avoid_matching)):
-                    # print(word.upper())
-                    # skip the blank space now, and risk it. #TODO: improve this
-                    # this should solve duplicate issue, check again later
-                    pattern = re.compile(r"(?<!>)" + re.escape(word), re.IGNORECASE)
-                    dictionary["body"] = pattern.sub('<span style="supplementstyle">' + word + '</span>', dictionary["body"])
+        keyterm = item[0]
+        find_terms = sorted([sup for sup in item[1:] if '!' not in sup], key=len, reverse=True)
+        avoid_terms = [sup for sup in item if '!' in sup]
 
-                    if item[0] not in dictionary["supplements"]:
-                        dictionary["supplements"].append(item[0])
-                        total_results_list.append(item[0])
+        for word in find_terms:
+            if (" " + word + " " in filtered_words.lower()) and (not any(w in filtered_words for w in avoid_terms)):
+                pattern = re.compile(r"(?<!>)" + re.escape(word), re.IGNORECASE)
+                dictionary["body"] = pattern.sub('<span style="background-color: var(--supplement_highlight);">' + word + '</span>', dictionary["body"])
+
+                if keyterm not in dictionary["supplements"]:
+                    dictionary["supplements"].append(keyterm)
+                    total_results_list.append(keyterm)
     
     # if there's at least some medication or supplement, store it
     if (len(dictionary["medications"]) or len(dictionary["supplements"])):
@@ -122,14 +110,6 @@ for dictionary in data:
             json_file.write(json.dumps(dictionary))
             json_file.write(",\n")
         json_file.close()
-
-    # if (i == 1436):
-    #     print(filtered_words_list)
-    #     print("-"*20)
-    #     print(filtered_words)
-    #     print("-"*20)
-    #     print(dictionary["body"])
-    #     exit()
 
     # get an update on how far into the process we are
     i += 1
@@ -141,13 +121,7 @@ format_file(writing_filename, start=False)
 for item in collections.Counter(total_results_list).most_common():
     print(item[1], item[0])
 
-
 elapsed_time = time.time() - start_time
 minutes = int(elapsed_time // 60)
 seconds = int(elapsed_time % 60)
 print(f"Elapsed time: {minutes} minutes {seconds} seconds")
-# print(list(set(total_medications_list)))
-# for item in collections.Counter(total_medications_list).most_common():
-#     print(item[1], item[0])
-# for item in collections.Counter(total_medications_list).most_common():
-#     print(item[0])

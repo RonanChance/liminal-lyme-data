@@ -1,4 +1,4 @@
-5-HTP/Tryptophan, 5-htp, 5htp, 5-Hydroxytryptophan, oxitriptan, tryptophan, l-tryptophan
+5-HTP/Tryptophan, 5-htp, 5htp, 5 htp, 5-Hydroxytryptophan, oxitriptan, tryptophan, l-tryptophan
 Acetyl L-Carnitine, l-carnitine, alcar, Acetyl L Carnitine
 Activated Charcoal, charcoal, activated charcoal
 Alchornea, cordifolia
@@ -26,7 +26,7 @@ Bromelain
 Burbur-Pinella, burbur, pinella, Burbur Pinella
 Caffeine, coffee
 Calcium
-Cat's Claw, cats claw
+Cat's Claw, cats claw, uncaria tomentosa
 CBD, Cannabidiol, Cannabidiolum, hemp
 CDP-Choline, CDP Choline, citicoline
 Celandine
@@ -67,7 +67,7 @@ Gou-Teng, Gou teng, uncaria rhynchophylla
 Grape Seed Extract, grape seed, grapeseed, Grape Seed Extract
 Grapefruitseed, Grapefruit extract
 Green Tea
-Hawthorn
+Hawthorn, Hawthorne
 Hyaluronic Acid, Hyaluronic
 Ioderal, ferrous
 Iodine
@@ -81,7 +81,7 @@ L-Aspartate, Aspartate, L-ORNITHINE-L-ASPARTATE
 L-Citrulline, citrulline
 L-Glutamine, glutamine
 L-Lysine, lysine
-L-Ornithine, ornithine, L-ORNITHINE-L-ASPARTATE
+L-Ornithine, ornithine, L-ORNITHINE-L-ASPARTATE, L-ornithine
 L-Theanine, Theanine
 Lactoferrin/Colostrum, lactoferrin, colostrum
 Licorice Root, Licorice, glycyrrhiza
@@ -94,7 +94,7 @@ Magnolia, Magnolia officinalis, magnolia bark
 Mastic Gum
 MCT Oil/Caprylic acid, MCT Oil, Caprylic acid
 Melatonin
-Methylene Blue
+Methylene Blue, Liposomal methylene blue
 Methylsulfonylmethane, MSM
 Milk Thistle
 Moringa
@@ -146,7 +146,7 @@ Tsumura Kakkonto, Tsumura-Kakkonto, Tsumura-Kampo
 TUDCA
 Turkey Tail
 Valerian, Valeriana
-Vitamin B Complex, B-Complex, Vitamin B-Complex, Vit B-Complex
+Vitamin B Complex, B Complex, B-Complex, Vitamin B-Complex, Vit B-Complex
 Vitamin B1, B1, thiamin, Vit B1
 Vitamin B12, B12, cyanocobalamin, methyl b12, Vit B12
 Vitamin B2, B2, riboflavin, Vit B2
@@ -161,10 +161,15 @@ Vitamin E, Vit E
 Vitamin K, Vit K
 Wheatgrass
 Zeolite
-Zinc
+Zinc, zinc gluconate, zinc citrate, zinc acetate, zinc glycerate, zinc monomethionine, zinc sulfate, zinc acetate, zinc picolinate, zinc oxide, chelated zinc
 Schisandra, Magnolia vines
 Apple Cider Vinegar, ACV
 Lemon Water, Lemon juice, lemon concentrate
 Sulforaphane, sulphoraphane
-Chinese Skullcap, Scutellaria baicalensis, Baikal skullcap, Baikal, Skullcap, Baical
+Chinese Skullcap, chinese scullcap, scullcap, Scutellaria baicalensis, Baikal skullcap, Baikal, Skullcap, Baical
 Berberine, Berberine HCL
+Dihydromyricetin (DHM), Dihydromyricetin, DHM
+Parsley
+D-Mannose, d mannose
+Xylitol
+Myers IV, Myers cocktail

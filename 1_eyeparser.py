@@ -11,11 +11,11 @@ mapping = {
     "chronic lyme disease": "Lyme Disease",
     "post treatment lyme disease": "Lyme Disease",
     "lymes disease": "Lyme Disease",
-    # "lymes": "Lyme Disease",
+    "lyme's disease": "Lyme Disease",
     "chronic lymie": "Lyme Disease",
     "lymie": "Lyme Disease",
     "lyme disease": "Lyme Disease",
-    "PTLDS": "Lyme Disease",
+    "ptlds": "Lyme Disease",
     " lyme": "Lyme Disease",
     "borrelia": "Lyme Disease",
     "borreliosis": "Lyme Disease",
@@ -34,7 +34,7 @@ mapping = {
     "phagocytophilum": "Anaplasmosis",
     "anaplas": "Anaplasmosis",
 
-    "TBRF": "Relapsing Fever",
+    "tbrf": "Relapsing Fever",
     "tick borne relapsing fever": "Relapsing Fever",
     "tickborne relapsing fever": "Relapsing Fever",
     "tick-borne relapsing fever": "Relapsing Fever",
@@ -43,13 +43,18 @@ mapping = {
     "borrelia hermsii": "Relapsing Fever",
     "relapsing fever": "Relapsing Fever",
 
+    "babesia microti": "Babesiosis",
     "babesiosis": "Babesiosis",
+    "babesiosa": "Babesiosis",
     "babesia": "Babesiosis",
     "babesi": "Babesiosis",
 
     "bartonellosis": "Bartonellosis",
+    "bartonelosis": "Bartonellosis",
     "bartonella": "Bartonellosis",
+    "bartonela": "Bartonellosis",
     "bartone": "Bartonellosis",
+    " bart ": "Bartonellosis",
 
     "mycoplasma": "Mycoplasma",
     "mycoplasmia": "Mycoplasma", # this isn't real, but might catch spelling mistakes
@@ -60,6 +65,16 @@ mapping = {
 
     "tularemia": "Tularemia",
     "tulare": "Tularemia",
+
+    "toxoplasmosis": "Toxoplasmosis",
+    "toxoplasma gondii": "Toxoplasmosis",
+    "toxoplasm": "Toxoplasmosis",
+    "gondii": "Toxoplasmosis",
+
+    "tick-borne encephalitis": "Tickborne Encephalitis (TBE)",
+    "tick borne encephalitis": "Tickborne Encephalitis (TBE)",
+    "tickborne encephalitis": "Tickborne Encephalitis (TBE)",
+
 }
 
 def format_file(filename, start):
@@ -117,13 +132,13 @@ def format_and_store(filename, json_dict, comment_flag):
             "body": body
         }
 
-    for cond in mapping.keys():
+    for cond in sorted([item.lower() for item in mapping.keys()], key=len, reverse=True):
         if cond in body_lower:
             # get rid of lymecycline miscategorization
             if cond == " lyme":
                 if " lyme" in body_lower.replace("lymecycline", " "):
                     pattern = re.compile(r"(?<!>)" + re.escape("lyme"), re.IGNORECASE)
-                    entry_dict["body"] = pattern.sub('<span class="conditionstyle">lyme</span>', entry_dict["body"])
+                    entry_dict["body"] = pattern.sub('<span style="background-color: var(--condition_highlight);">lyme</span>', entry_dict["body"])
                 else:
                     continue
             else:
