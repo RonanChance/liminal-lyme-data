@@ -4,6 +4,7 @@ import json
 import collections
 import re
 import time
+import os
 start_time = time.time()
 
 total_results_list = []
@@ -26,22 +27,16 @@ for line in medication_file:
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-def format_file(filename, start):
-    if start:
-        with open(filename, "w") as json_file:
-            json_file.write("[\n")
-        json_file.close()
-    else:
-        with open(filename, "a") as json_file:
-            json_file.write("]")
-        json_file.close()
-
 reading_filename = "mydatav1.json"
 writing_filename = "mydatav2.json"
-format_file(writing_filename, start=True)
 
-with open(reading_filename, 'r', encoding="utf-8") as json_file:
-    data = json.load(json_file)
+file = fileinput.input(reading_filename, encoding="utf-8")
+data = [json.loads(line) for line in file]
+
+try:
+    os.remove('mydatav2.json')
+except Exception:
+    pass
 
 i = 0
 for dictionary in data:
@@ -65,7 +60,7 @@ for dictionary in data:
                       .replace('<', ' ')
                       .replace('>', ' ')
                       .replace(':', ' ')
-                      .replace('-', ' ')
+                      .replace(' -', ' ') # TODO: check back on this
                       .replace('•', ' ')
                       .replace('background-color:', ' ')
                       .replace('--condition_highlight', ' ')
@@ -108,15 +103,13 @@ for dictionary in data:
     if (len(dictionary["medications"]) or len(dictionary["supplements"])):
         with open(writing_filename, "a") as json_file:
             json_file.write(json.dumps(dictionary))
-            json_file.write(",\n")
+            json_file.write("\n")
         json_file.close()
 
     # get an update on how far into the process we are
     i += 1
     if (i % 100 == 0):
         print(i)
-
-format_file(writing_filename, start=False)
 
 for item in collections.Counter(total_results_list).most_common():
     print(item[1], item[0])

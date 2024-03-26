@@ -242,7 +242,7 @@ Zolpidem, Ambien, Ambien CR, Edluar, Intermezzo, Zolpimist
 Zonisamide, Zonegran, ZONISADE
 Zopiclone
 Propranolol, HEMANGEOL, Inderal, Inderal LA, Inderal XL, InnoPran XL
-Bupropion, Aplenzin, Budeprion SR, Budeprion XL, Buproban, Forfivo XL, Wellbutrin, Wellbutrin SR, Wellbutrin XL, Zyban
+Bupropion, Aplenzin, Budeprion SR, Budeprion XL, Buproban, Forfivo XL, Wellbutrin, Welbutrin, Wellbutrin SR, Wellbutrin XL, Zyban
 Eszopiclone, Lunesta, Lunestra
 Modafinil, Provigil
 Amphetamine/Dextroamphetamine (Adderall), Amphetamine, Dextroamphetamine, Adderall, Adderall XR
@@ -258,3 +258,14 @@ Famotidine, Pepcid, Pepcid AC, Pepcid AC Maximum Strength, Zantac 360
 Ibuprofen, Advil, Advil Children, Advil Migraine, Caldolor, Children's Ibuprofen, ElixSure IB, Genpril, Ibren, IBU, Ibupak, Midol, Midol Cramps and Body Aches, Motrin, Motrin IB, Motrin Infants, Motrin Junior Strength, Motrin Migraine Pain, Samson-8
 Leucovorin
 Metoprolol, KAPSPARGO, Lopressor, Toprol XL, Toprol-XL
+Tramadol, Tramodal, ConZip, QDOLO, Rybix, Ryzolt, Ultram, Ultram ER
+Lidocaine, Lydocaine
+Morphine, ARYMO ER, Astramorph PF, Avinza, DepoDur, Duramorph PF, Infumorph, Kadian, MITIGO, MORPHABOND, MS Contin, MSIR, Opium Tincture, Oramorph SR, RMS, Roxanol, Roxanol-T
+Ivabradine, Corlanor
+Vilazodone, Viibryd
+Brimonidine, Alphagan, Alphagan P, LUMIFY, Mirvaso
+Lisinopril, Prinivil, QBRELIS, Zestril
+Lithium, Eskalith, Eskalith CR, Lithobid
+Fremanezumab (AJOVY), AJOVY, Fremanezumab
+Gabapentin, Active-PAC with Gabapentin, Gabarone, Gralise, Horizant, Neurontin
+Humira, Humira Injection, ABRILADA, AMJEVITA, CYLTEZO, HADLIMA, Hulio, Hulio PEN, Humira, HUMIRA PEN, Hyrimoz, Idacio, YUFLYMA, YUSIMRY

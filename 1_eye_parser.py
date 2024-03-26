@@ -8,8 +8,9 @@ start_time = time.time()
 
 mapping = {
 
-    "chronic lyme disease": "Lyme Disease",
     "post treatment lyme disease": "Lyme Disease",
+    "chronic lyme disease": "Lyme Disease",
+    "chronic lyme": "Lyme Disease",
     "lymes disease": "Lyme Disease",
     "lyme's disease": "Lyme Disease",
     "chronic lymie": "Lyme Disease",
@@ -44,6 +45,7 @@ mapping = {
     "relapsing fever": "Relapsing Fever",
 
     "babesia microti": "Babesiosis",
+    "babesia duncani": "Babesiosis",
     "babesiosis": "Babesiosis",
     "babesiosa": "Babesiosis",
     "babesia": "Babesiosis",
@@ -76,16 +78,6 @@ mapping = {
     "tickborne encephalitis": "Tickborne Encephalitis (TBE)",
 
 }
-
-def format_file(filename, start):
-    if start:
-        with open(filename, "w") as json_file:
-            json_file.write("[\n")
-        json_file.close()
-    else:
-        with open(filename, "a") as json_file:
-            json_file.write("]")
-        json_file.close()
 
 def format_and_store(filename, json_dict, comment_flag):
     # 0 = submissions, 1 = comments
@@ -143,7 +135,7 @@ def format_and_store(filename, json_dict, comment_flag):
                     continue
             else:
                 pattern = re.compile(r"(?<!>)" + re.escape(cond), re.IGNORECASE)
-                entry_dict["body"] = pattern.sub('<span class="conditionstyle">' + cond + '</span>', entry_dict["body"])
+                entry_dict["body"] = pattern.sub('<span style="background-color: var(--condition_highlight);">' + cond + '</span>', entry_dict["body"])
 
             # add to medication list, then highlight the relevant text
             if mapping[cond] not in entry_dict["conditions"]:
@@ -154,16 +146,17 @@ def format_and_store(filename, json_dict, comment_flag):
     
     with open(filename, "a") as json_file:
         json_file.write(json.dumps(entry_dict))
-        json_file.write(",\n")
+        json_file.write("\n")
     json_file.close()
-
-
 
 directory_path = "./TheEye/extracted/"
 reading_filenames = [directory_path+f for f in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, f))]
 writing_filename = "mydatav1.json"
 
-format_file(writing_filename, start=True)
+try:
+    os.remove('mydatav1.json')
+except Exception:
+    pass
 
 i = 0
 for reading_filename in reading_filenames:
@@ -182,8 +175,6 @@ for reading_filename in reading_filenames:
             print(i)
 
     file.close()
-
-format_file(writing_filename, start=False)
 
 elapsed_time = time.time() - start_time
 minutes = int(elapsed_time // 60)
