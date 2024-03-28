@@ -77,7 +77,7 @@ for dictionary in data:
         for word in find_terms:
             if (" " + word + " " in filtered_words) and (not any(w in filtered_words for w in avoid_terms)):
                 pattern = re.compile(r"(?<!>)" + re.escape(word), re.IGNORECASE)
-                dictionary["body"] = pattern.sub('<span style="background-color: var(--medication_highlight);">' + word + '</span>', dictionary["body"])
+                dictionary["body"] = pattern.sub('<span style="background-color: var(--medication_highlight); border-radius: 3px;">' + word + '</span>', dictionary["body"])
 
                 if keyterm not in dictionary["medications"]:
                     dictionary["medications"].append(keyterm)
@@ -93,7 +93,7 @@ for dictionary in data:
         for word in find_terms:
             if (" " + word + " " in filtered_words.lower()) and (not any(w in filtered_words for w in avoid_terms)):
                 pattern = re.compile(r"(?<!>)" + re.escape(word), re.IGNORECASE)
-                dictionary["body"] = pattern.sub('<span style="background-color: var(--supplement_highlight);">' + word + '</span>', dictionary["body"])
+                dictionary["body"] = pattern.sub('<span style="background-color: var(--supplement_highlight); border-radius: 3px;">' + word + '</span>', dictionary["body"])
 
                 if keyterm not in dictionary["supplements"]:
                     dictionary["supplements"].append(keyterm)

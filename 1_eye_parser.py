@@ -59,7 +59,7 @@ mapping = {
     " bart ": "Bartonellosis",
 
     "mycoplasma": "Mycoplasma",
-    "mycoplasmia": "Mycoplasma", # this isn't real, but might catch spelling mistakes
+    "mycoplasmia": "Mycoplasma", # this isn't the typical spelling, but might catch mistakes
 
     "ehrlichiosis": "Ehrlichiosis",
     "ehrlichia": "Ehrlichiosis",
@@ -130,12 +130,12 @@ def format_and_store(filename, json_dict, comment_flag):
             if cond == " lyme":
                 if " lyme" in body_lower.replace("lymecycline", " "):
                     pattern = re.compile(r"(?<!>)" + re.escape("lyme"), re.IGNORECASE)
-                    entry_dict["body"] = pattern.sub('<span style="background-color: var(--condition_highlight);">lyme</span>', entry_dict["body"])
+                    entry_dict["body"] = pattern.sub('<span style="background-color: var(--condition_highlight); border-radius: 3px;">lyme</span>', entry_dict["body"])
                 else:
                     continue
             else:
                 pattern = re.compile(r"(?<!>)" + re.escape(cond), re.IGNORECASE)
-                entry_dict["body"] = pattern.sub('<span style="background-color: var(--condition_highlight);">' + cond + '</span>', entry_dict["body"])
+                entry_dict["body"] = pattern.sub('<span style="background-color: var(--condition_highlight); border-radius: 3px;">' + cond + '</span>', entry_dict["body"])
 
             # add to medication list, then highlight the relevant text
             if mapping[cond] not in entry_dict["conditions"]:

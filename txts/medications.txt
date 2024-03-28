@@ -1,4 +1,4 @@
-Acetaminophen, Acephen, Aceta, Actamin, Anacin, Feverall, Genapap, Genebs, Nortemp, Ofirmev, Panadol, Pediaphen, PHARBETOL, Q-Pap, Silapap, Triaminic, Tylenol, Tylenol 8 Hour
+Acetaminophen, Paracetamol, Acephen, Aceta, Actamin, Anacin, Feverall, Genapap, Genebs, Nortemp, Ofirmev, Panadol, Pediaphen, PHARBETOL, Q-Pap, Silapap, Triaminic, Tylenol, Tylenol 8 Hour
 Acetazolamide, Diamox, Diamox Sequels
 Acyclovir, Sitavig, Zovirax, Zovirax Cream, Zovirax Ointment, Zovirax Powder, Zovirax Suspension
 Agomelatine
@@ -269,3 +269,5 @@ Lithium, Eskalith, Eskalith CR, Lithobid
 Fremanezumab (AJOVY), AJOVY, Fremanezumab
 Gabapentin, Active-PAC with Gabapentin, Gabarone, Gralise, Horizant, Neurontin
 Humira, Humira Injection, ABRILADA, AMJEVITA, CYLTEZO, HADLIMA, Hulio, Hulio PEN, Humira, HUMIRA PEN, Hyrimoz, Idacio, YUFLYMA, YUSIMRY
+Polyethylene Glycol (MiraLax), Polyethylene Glycol, GaviLax, GIALAX , GlycoLax, Healthylax, MiraLax, Visine Dry Eye Relief, Vita Health
+Lurasidone, Latuda

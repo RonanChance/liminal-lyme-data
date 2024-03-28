@@ -6,9 +6,9 @@ Alka Seltzer Gold, Alka-Seltzer Gold
 Alpha-GPC, alpha gpc, alpha gcp
 Alpha Lipoic Acid
 Andrographis
-Artemisia Absinthium (Wormwood), absinthium, wormwood, Powis castle
+Artemisia Absinthium (Wormwood), absinthium, wormwood, Powis castle, Artemesia
 Artemisinin, Artimisinin
-Ashwagandha, withania somnifera
+Ashwagandha, ashwaganda, withania somnifera
 Astragalus
 Banderol
 Bee venom, BVT
@@ -113,7 +113,7 @@ Otoba Bark, Otoba Parvifolia, Otoba Parvifolia Bark
 Palmitoylethanolamide (PEA), Palmitoylethanolamide or PEA, pea, palmitoylethanolamide, micronized pea, micronized palmitoylethanolamide
 Pau D'arco, Pau Darco
 Peppermint
-Phenylalanine
+Phenylalanine, D L-Phenylalanine, L-Phenylalanine, DLPA
 Phosphatidylcholine
 Phosphatidylserine
 Phosphorous
@@ -148,8 +148,8 @@ Turkey Tail
 Valerian, Valeriana
 Vitamin A, Vit A
 Vitamin B Complex, B Complex, B-Complex, Vitamin B-Complex, Vit B-Complex
-Vitamin B1, B1, thiamin, Vit B1
 Vitamin B12, B12, cyanocobalamin, methyl b12, Vit B12
+Vitamin B1, B1, thiamine, Benfothiamine, Vit B1
 Vitamin B2, B2, riboflavin, Vit B2
 Vitamin B3, B3, niacin, Vit B3
 Vitamin B5, B5, pantothenic acid, pantothenic, Vit B5
@@ -177,3 +177,4 @@ Myers IV, Myers cocktail
 Marijuana/Cannabis, Marijuana, Cannabis, THC, Mary Jane
 L-Leucine, Leucine
 Gelatin
+Holy Basil, Tulsi, Ocimum tenuiflorum
