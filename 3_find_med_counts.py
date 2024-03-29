@@ -12,9 +12,12 @@ all_tags = []
 all_tags_labeled = []
 med_tags = []
 sup_tags = []
+username_list = []
 
 i = 0
 for dictionary in data:
+    if (dictionary["author"] != '[deleted]'):
+        username_list.append(dictionary["author"])
     for item in dictionary["conditions"]:
         con_tags.append(item)
     for item in dictionary["medications"]:
@@ -87,3 +90,5 @@ results = Counter(sup_tags)
 constants_file.write("\n" + "export const sup_counts = " + str(dict(sorted(results.items(), key=lambda x: x[1], reverse=True))))
 
 
+# results = Counter(username_list)
+# print(str([(item, count) for item, count in sorted(results.items(), key=lambda x: x[1], reverse=True)]))

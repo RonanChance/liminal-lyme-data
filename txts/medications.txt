@@ -32,7 +32,7 @@ Cefdinir, Omnicef
 Cefixime, Suprax
 Cefpodoxime, Vantin, Vantin Powder
 Ceftriaxone, Ceftri-IM, Ceftrisol Plus, Rocephin, roceferin
-Cefuroxime, Alti-Cefuroxime, Ceftin, Kefurox, Zinacef, Zinacef Powder
+Cefuroxime, Alti-Cefuroxime, Cefeuroxime, Ceftin, Kefurox, Zinacef, Zinacef Powder
 Celecoxib, Celebrex, ELYXYB
 Cephalexin, Biocef, Daxbia , Keflex, Keftab, Panixine, Cefalexin
 Certolizumab pegol
