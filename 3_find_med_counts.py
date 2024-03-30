@@ -90,5 +90,6 @@ results = Counter(sup_tags)
 constants_file.write("\n" + "export const sup_counts = " + str(dict(sorted(results.items(), key=lambda x: x[1], reverse=True))))
 
 
-# results = Counter(username_list)
-# print(str([(item, count) for item, count in sorted(results.items(), key=lambda x: x[1], reverse=True)]))
+results = Counter(username_list)
+print("\n" + "export const chronology_usernames = " + str(dict([(item, count) for item, count in sorted(results.items(), key=lambda x: x[1], reverse=True) if count > 1])))
+constants_file.write("\n" + "export const chronology_usernames = " + str(dict([(item, count) for item, count in sorted(results.items(), key=lambda x: x[1], reverse=True) if count > 1])))

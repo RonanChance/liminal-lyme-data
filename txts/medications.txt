@@ -61,7 +61,7 @@ Desvenlafaxine, Khedezla, Pristiq
 Dexamethasone, AK-Dex, Baycadron, Dalalone, Dalalone D.P, Dalalone L.A, Decadron, Decadron-LA, Dexabliss, Dexacort PH Turbinaire, Dexacort Respihaler, DexPak TaperPak, Dextenza, DEXYCU, DoubleDex, Dxevo, Hemady, HiDex, Maxidex, Ocu-Dex, Ozurdex, Dexamethasone, Simplist Dexamethasone, Solurex, TaperDex, ZCORT, Zema-Pak, ZoDex, ZonaCort 11 Day, ZonaCort 7 Day
 Dexmedetomidine
 Dextroamphetamine, Pitocin
-Diazepam, Diastat, Dizac, Valium, VALTOCO
+Diazepam, Diastat, Diazapam, Dizac, Valium, VALTOCO
 Dicloxacillin, Dynapen
 Dicyclomine, Bentyl
 Diethylstilbestrol
@@ -245,7 +245,7 @@ Propranolol, HEMANGEOL, Inderal, Inderal LA, Inderal XL, InnoPran XL
 Bupropion, Aplenzin, Budeprion SR, Budeprion XL, Buproban, Forfivo XL, Wellbutrin, Welbutrin, Wellbutrin SR, Wellbutrin XL, Zyban
 Eszopiclone, Lunesta, Lunestra
 Modafinil, Provigil
-Amphetamine/Dextroamphetamine (Adderall), Amphetamine, Dextroamphetamine, Adderall, Adderall XR
+Amphetamine/Dextroamphetamine (Adderall), Amphetamine, Dextroamphetamine, Adderall, Adderall XR, Aderrall
 Testosterone, Androderm, AndroGel, Andro-L.A., Aveed, AXIRON, Delatestryl, Depo-Testosterone, FORTESTA, JATENZO, KYZATREX, Natesto, STRIANT, Testim, Testoderm, Testone CIK, Testopel, TLANDO, Virilon, Vogelxo, XYOSTED
 Cefalexin
 Lisdexamfetamine, Vyvanse, Vyvanse XR

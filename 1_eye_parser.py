@@ -9,24 +9,26 @@ start_time = time.time()
 mapping = {
 
     "post treatment lyme disease": "Lyme Disease",
+    "post lyme disease syndrome": "Lyme Disease",
     "chronic lyme disease": "Lyme Disease",
-    "lyme diseases": "Lyme Disease",
-    "chronic lyme": "Lyme Disease",
-    "lymes disease": "Lyme Disease",
     "lyme's disease": "Lyme Disease",
+    "lyme diseases": "Lyme Disease",
+    "chronic lymes": "Lyme Disease",
+    "lymes disease": "Lyme Disease",
     "chronic lymie": "Lyme Disease",
-    "lymie": "Lyme Disease",
+    "chronic lyme": "Lyme Disease",
     "lyme disease": "Lyme Disease",
+    "burgdorferi": "Lyme Disease",
+    "borreliosis": "Lyme Disease",
+    "borrelia": "Lyme Disease",
+    "borreli": "Lyme Disease",
+    "lymie": "Lyme Disease",
     "ptlds": "Lyme Disease",
     " lyme": "Lyme Disease",
-    "borrelia": "Lyme Disease",
-    "borreliosis": "Lyme Disease",
-    "borreli": "Lyme Disease",
-    "burgdorferi": "Lyme Disease",
 
     "rocky mountain spotted fever": "RMSF & Rickettsia",
-    "rocky mt spotted fever": "RMSF & Rickettsia",
     "rocky mt. spotted fever": "RMSF & Rickettsia",
+    "rocky mt spotted fever": "RMSF & Rickettsia",
     "rocky mountain spot": "RMSF & Rickettsia",
     "rickettsiosis": "RMSF & Rickettsia",
     "rickettsial": "RMSF & Rickettsia",
@@ -35,19 +37,19 @@ mapping = {
     "rickestta": "RMSF & Rickettsia",
     "rmsf": "RMSF & Rickettsia",
 
+    "phagocytophilum": "Anaplasmosis",
     "anaplasmosis": "Anaplasmosis",
     "anaplasma": "Anaplasmosis",
-    "phagocytophilum": "Anaplasmosis",
     "anaplas": "Anaplasmosis",
 
-    "tbrf": "Relapsing Fever",
     "tick borne relapsing fever": "Relapsing Fever",
-    "tickborne relapsing fever": "Relapsing Fever",
     "tick-borne relapsing fever": "Relapsing Fever",
+    "tickborne relapsing fever": "Relapsing Fever",
     "borrelia miyamotoi": "Relapsing Fever",
     "borrelia miyamoti": "Relapsing Fever",
     "borrelia hermsii": "Relapsing Fever",
     "relapsing fever": "Relapsing Fever",
+    "tbrf": "Relapsing Fever",
 
     "babesia microti": "Babesiosis",
     "babesia duncani": "Babesiosis",
@@ -63,8 +65,8 @@ mapping = {
     "bartone": "Bartonellosis",
     " bart ": "Bartonellosis",
 
-    "mycoplasma": "Mycoplasma",
     "mycoplasmia": "Mycoplasma", # this isn't the typical spelling, but might catch mistakes
+    "mycoplasma": "Mycoplasma",
 
     "ehrlichiosis": "Ehrlichiosis",
     "ehrlichia": "Ehrlichiosis",
@@ -73,8 +75,8 @@ mapping = {
     "tularemia": "Tularemia",
     "tulare": "Tularemia",
 
-    "toxoplasmosis": "Toxoplasmosis",
     "toxoplasma gondii": "Toxoplasmosis",
+    "toxoplasmosis": "Toxoplasmosis",
     "toxoplasm": "Toxoplasmosis",
     "gondii": "Toxoplasmosis",
 
