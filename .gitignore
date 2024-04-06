@@ -7,3 +7,4 @@ PocketBase/
 OldData/
 .env
 test.py
+constants.txt
