@@ -27,14 +27,14 @@ for line in medication_file:
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-reading_filename = "mydatav1.json"
-writing_filename = "mydatav2.json"
+reading_filename = "mydatav1.jsonl"
+writing_filename = "mydatav2.jsonl"
 
 file = fileinput.input(reading_filename, encoding="utf-8")
 data = [json.loads(line) for line in file]
 
 try:
-    os.remove('mydatav2.json')
+    os.remove('mydatav2.jsonl')
 except Exception:
     pass
 
@@ -60,8 +60,10 @@ for dictionary in data:
                       .replace('<', ' ')
                       .replace('>', ' ')
                       .replace(':', ' ')
-                      .replace(' -', ' ') # TODO: check back on this
+                      .replace(' -', ' ')
+                      .replace('- ', ' ')
                       .replace('•', ' ')
+                      .replace('\n', ' ')
                       .replace('background-color:', ' ')
                       .replace('--condition_highlight', ' ')
                       .split()]
@@ -77,7 +79,7 @@ for dictionary in data:
         for word in find_terms:
             if (" " + word + " " in filtered_words) and (not any(w in filtered_words for w in avoid_terms)):
                 pattern = re.compile(r"(?<!>)" + re.escape(word), re.IGNORECASE)
-                dictionary["body"] = pattern.sub('<span style="background-color: var(--medication_highlight); border-radius: 3px;">' + word + '</span>', dictionary["body"])
+                dictionary["body"] = pattern.sub('<span class="' + keyterm[::-1].replace(" ", "-").replace("(", "-").replace(")", "-").replace("/", "-").replace("'", "-") + " medication" + '" style="background-color: var(--medication_highlight); border-radius: 3px;">' + word + '</span>', dictionary["body"])
 
                 if keyterm not in dictionary["medications"]:
                     dictionary["medications"].append(keyterm)
@@ -93,7 +95,7 @@ for dictionary in data:
         for word in find_terms:
             if (" " + word + " " in filtered_words.lower()) and (not any(w in filtered_words for w in avoid_terms)):
                 pattern = re.compile(r"(?<!>)" + re.escape(word), re.IGNORECASE)
-                dictionary["body"] = pattern.sub('<span style="background-color: var(--supplement_highlight); border-radius: 3px;">' + word + '</span>', dictionary["body"])
+                dictionary["body"] = pattern.sub('<span class="' + keyterm[::-1].replace(" ", "-").replace("(", "-").replace(")", "-").replace("/", "-").replace("'", "-") + " supplement" + '" style="background-color: var(--supplement_highlight); border-radius: 3px;">' + word + '</span>', dictionary["body"])
 
                 if keyterm not in dictionary["supplements"]:
                     dictionary["supplements"].append(keyterm)

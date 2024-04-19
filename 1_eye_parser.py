@@ -10,7 +10,9 @@ mapping = {
 
     "post treatment lyme disease": "Lyme Disease",
     "post lyme disease syndrome": "Lyme Disease",
+    "lyme neuroborreliosis": "Lyme Disease",
     "chronic lyme disease": "Lyme Disease",
+    "neuroborreliosis": "Lyme Disease",
     "lyme's disease": "Lyme Disease",
     "lyme diseases": "Lyme Disease",
     "chronic lymes": "Lyme Disease",
@@ -19,8 +21,11 @@ mapping = {
     "chronic lyme": "Lyme Disease",
     "lyme disease": "Lyme Disease",
     "burgdorferi": "Lyme Disease",
+    "burgderfori": "Lyme Disease", # common misspelling
     "borreliosis": "Lyme Disease",
+    "burgdoferi": "Lyme Disease", # common misspelling
     "borrelia": "Lyme Disease",
+    "borelia": "Lyme Disease", # common misspelling
     "borreli": "Lyme Disease",
     "lymie": "Lyme Disease",
     "ptlds": "Lyme Disease",
@@ -137,12 +142,12 @@ def format_and_store(filename, json_dict, comment_flag):
             if cond == " lyme":
                 if " lyme" in body_lower.replace("lymecycline", " "):
                     pattern = re.compile(r"(?<!>)" + re.escape("lyme"), re.IGNORECASE)
-                    entry_dict["body"] = pattern.sub('<span style="background-color: var(--condition_highlight); border-radius: 3px;">lyme</span>', entry_dict["body"])
+                    entry_dict["body"] = pattern.sub('<span class="'+ "emyl-" + " condition" + '" style="background-color: var(--condition_highlight); border-radius: 3px;">lyme</span>', entry_dict["body"])
                 else:
                     continue
             else:
                 pattern = re.compile(r"(?<!>)" + re.escape(cond), re.IGNORECASE)
-                entry_dict["body"] = pattern.sub('<span style="background-color: var(--condition_highlight); border-radius: 3px;">' + cond + '</span>', entry_dict["body"])
+                entry_dict["body"] = pattern.sub('<span class="' + cond[::-1].replace(" ", "-") + " condition" + '" style="background-color: var(--condition_highlight); border-radius: 3px;">' + cond + '</span>', entry_dict["body"])
 
             # add to medication list, then highlight the relevant text
             if mapping[cond] not in entry_dict["conditions"]:
@@ -158,10 +163,10 @@ def format_and_store(filename, json_dict, comment_flag):
 
 directory_path = "./TheEye/extracted/"
 reading_filenames = [directory_path+f for f in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, f))]
-writing_filename = "mydatav1.json"
+writing_filename = "mydatav1.jsonl"
 
 try:
-    os.remove('mydatav1.json')
+    os.remove('mydatav1.jsonl')
 except Exception:
     pass
 

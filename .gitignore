@@ -1,6 +1,7 @@
 drugstandards/
 TheEye/
 *.json
+*.jsonl
 !supplements.txt
 .venv/
 PocketBase/

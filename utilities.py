@@ -6,7 +6,7 @@ def clean_text(text):
     return ''.join(char for char in text if 32 <= ord(char) <= 126)
 
 def prep_for_gpt():
-    with open('mydatav2.json', 'r', encoding="utf-8") as json_file:
+    with open('mydatav2.jsonl', 'r', encoding="utf-8") as json_file:
         data = json.load(json_file)
 
     for idx, dictionary in enumerate(data):
@@ -31,6 +31,25 @@ def prep_for_gpt():
                 print("FOUND ISSUE")
                 exit()
                 continue
+
+def check_for_text(text):
+    directory_path = "./TheEye/extracted/"
+    reading_filenames = [directory_path+f for f in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, f))]
+    
+    for filename in reading_filenames:
+        file = fileinput.input(filename)
+        for line in file:
+            json_line = json.loads(line)
+            try:
+                try:
+                    if text in json_line["body"]:
+                        print(line["body"], "\n")
+                except Exception:
+                    if text in json_line["selftext"]:
+                        print(line["selftext"], "\n")
+            except Exception:
+                continue
+
 
 def get_subreddit_names():
     directory_path = "./TheEye/repo/"
@@ -63,7 +82,8 @@ def generate_wikipedia_links():
 
 
 if __name__ == '__main__':
-    get_subreddit_names()
+    # get_subreddit_names()
     # generate_wikipedia_links()
     # get_number_of_comments()
     # prep_for_gpt()
+    check_for_text("exorcism")

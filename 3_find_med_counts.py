@@ -2,7 +2,7 @@ import json
 from collections import Counter
 import fileinput
 
-file = fileinput.input("mydatav2.json", encoding="utf-8")
+file = fileinput.input("mydatav2.jsonl", encoding="utf-8")
 data = [json.loads(line) for line in file]
 
 constants_file = open("constants.txt", "w")

@@ -9,6 +9,7 @@ Amantadine, GOCOVRI, Osmolex ER, Symmetrel
 Amitriptyline, Elavil, Tryptanol, Vanatrip
 Amoxicillin, Amoxil, Dispermox, Moxatag, Moxilin, Sumox, Trimox
 Amoxicillin/Clavulanic Acid (Augmentin), Augmentin, Amox/Clav, Augmentin XR
+Amphetamine/Dextroamphetamine (Adderall), Amphetamine, Dextroamphetamine, Adderall, Adderall XR, Aderrall
 Amphotericin B, Amphocin, Fungizone
 Ampicillin, Principen
 Amprevanir
@@ -24,10 +25,13 @@ Aztreonam
 Bacitracin, AK-Tracin, Baciguent, BaciiM, Baci-Rx, Bacitracin Zinc, Ocu-Tracin
 Benzonatate, Tessalon Perles, Zonatuss
 Bevacizumab, Alymsys, Avastin, MVASI, Zirabev
-Botulinum Toxin (Botox), Botox, OnabotulinumtoxinA
+Botulinum Toxin (Botox), Botox, Onabotulinumtoxin A
+Brimonidine, Alphagan, Alphagan P, LUMIFY, Mirvaso
 Brivudine, BVDU
 Bromazepam
+Bupropion, Aplenzin, Budeprion SR, Budeprion XL, Buproban, Forfivo XL, Wellbutrin, Welbutrin, Wellbutrin SR, Wellbutrin XL, Zyban
 Carbamazepine, Carbatrol, Epitol, Equetro, Tegretol, Tegretol-XR
+Cefalexin
 Cefdinir, Omnicef
 Cefixime, Suprax
 Cefpodoxime, Vantin, Vantin Powder
@@ -66,7 +70,7 @@ Dicloxacillin, Dynapen
 Dicyclomine, Bentyl
 Diethylstilbestrol
 Diphenhydramine/Benadryl, Diphenhydramine, Benadryl, Altaryl, Banophen, DIPHEN, Diphen AF, Diphenhist, DiphenMax, Dytan, ElixSure Allergy, Genahist, Geri-Dryl, Hydramine, M-Dryl, Nytol, PHARBEDRYL, Q-Dryl, Quenalin, Siladryl Allergy, Silphen, Sominex, Triaminic, Tusstat, Unisom, Uni-Tann, Valu-Dryl, Vanamine PD
-Disulfiram, Antabuse
+Disulfiram, Antabuse, DSF
 Donepezil, ADLARITY, Aricept
 Doxepin, Prudoxin, Silenor, Sinequan, Zonalon
 Doxycycline, Doxy, Acticlate, Adoxa, Adoxa Pak, Avidoxy, Doryx, Doxal, Doxy 100, LYMEPAK, Mondoxyne NL, Monodox, Morgidox 1x, Morgidox 2x, Okebo, Oracea, Oraxyl, Periostat, TARGADOX, Vibramycin, Vibra-Tabs, Doxycycline
@@ -81,8 +85,11 @@ Erythromycin, A/T/S, Akne-mycin, E.E.S., Emcin Clear, EMGEL, E-Mycin, ERYC, Eryc
 Escitalopram, Lexapro
 Esomeprazole, Nexium, Nexium 24HR, Nexium 24HR Clear Minis
 Estrone
+Eszopiclone, Lunesta, Lunestra
 Ethinyl Estradiol, Afirmelle, Alesse, Altavera, Amethia, Amethia Lo, Amethyst, Ashlyna, Aubra EQ, Aubra-28, Aviane, Camrese, Camrese Lo, Chateal, Chateal EQ, Daysee, Delyla, Dolishale, Enpresse, FALMINA, Fayosim, Introvale, Jaimiess, Jolessa, Kurvelo, Lessina, Levlen, Levlite, LEVONEST, Levonorgestrel/Ethinyl Estradiol, Levora, LoJaimiess, LoSeasonique, Lutera , Lybrel, MARLISSA, Myzilra, Nordette, Orsythia, Portia, Preven, Quartette, Quasense, Seasonale, Seasonique, Setlakin, Simpesse, Sronyx, Tri-Levlen, Triphasil, Trivora, Twirla, Tyblume, Vienva
 Etoricoxib
+Famciclovir, Famvir
+Famotidine, Pepcid, Pepcid AC, Pepcid AC Maximum Strength, Zantac 360
 Fentanyl, ABSTRAL, Actiq, Duragesic, Fentora, IONSYS, Lazanda, Onsolis, Sublimaze, SUBSYS
 Fexofenadine, Allegra, Allegra Allergy 12 Hour, Allegra Allergy 24 Hour, Allegra Children's Allergy, Allegra Children's Allergy ODT, Allegra Hives, Allegra ODT
 Flucloxacillin
@@ -93,8 +100,10 @@ Fluticasone Furoate
 Fluticasone Propionate, ArmonAir Digihaler, ARMONAIR RESPICLICK, ARNUITY ELLIPTA, BESER, ClariSpray, Cutivate, Flonase, Flonase Allergy Relief, Flonase Sensimist, Flovent, Flovent Diskus, Flovent HFA, Flovent Rotadisk, Veramyst, XHANCE
 Fluvoxamine, Luvox, Luvox CR
 Fosfomycin, Monurol
+Fremanezumab (AJOVY), AJOVY, Fremanezumab
 Furazolidone
 Furosemide
+Gabapentin, Active-PAC with Gabapentin, Gabarone, Gralise, Horizant, Neurontin
 Gamma Hydroxybutyric acid
 Gemfibrozil, Lopid
 Gentamicin, Garamycin, Genoptic, Genoptic SOP, Gentacidin, Gentafair, Gentak, Gentasol, Ocu-Mycin
@@ -105,6 +114,7 @@ Glycopyrrolate, Cuvposa, Dartisla, Glycate, GLYRX-PF, Lonhala Magnair, Robinul, 
 Guaifenesin, AllFen, AllFen Jr, Altarussin, Altorant, Amibid LA, Bidex, Diabetic Tussin, Diabetic Tussin EX, Diabetic Tussin Expectorant, Diabetic Tussin Mucus Relief, Drituss G, Duratuss G, ElixSure EX, Fenesin, Ganidin NR, GERI-TUSSIN, Gua SR, Guaidrine G, Guaifenex G, Guaifenex LA, Guiatuss, Humibid, Humibid E, Humibid LA, Iophen-NR, Liquibid, Miltuss EX, Mucinex, Muco-Fen, MucusRelief DM, Naldecon, Organ-1 NR, Organidin NR, Q-Bid LA, Q-Tussin, Respa-GF, Robafen, Robafen Congestion, Robitussin, Ru-Tuss, Scot-Tussin Expectorant, Siltussin DAS, Siltussin Diabetic DAS-Na , Siltussin SA, Touro EX, TUSNEL-EX, Xpect
 Guanfacine, Intuniv, Tenex
 Heparin, Hepflush-10, Hep-Lock, Hep-Lock U/P, Monoject Prefill Advanced Heparin Lock Flush, SASH Normal Saline and Heparin
+Humira, Humira Injection, ABRILADA, AMJEVITA, CYLTEZO, HADLIMA, Hulio, Hulio PEN, Humira, HUMIRA PEN, Hyrimoz, Idacio, YUFLYMA, YUSIMRY
 Hyaluronidase, Amphadase, Hydase, Hylenex, Vitrase, Wydase
 Hydrochlorothiazide, Esidrix, HydroDIURIL, Microzide
 Hydrocodone, Hysingla ER, Zohydro
@@ -115,28 +125,39 @@ Hydroxychloroquine, Hydroxychlorquine, Plaquenil, Quineprox, SOVUNA
 Hydroxyurea
 Hydroxyzine, Atarax, Hyzine, Rezine, Vistaril, Vistaril Solution, Vistaril Suspension
 Hyoscyamine, Anaspaz, A-Spas S/L, Colidrops Pediatric, Colytrol Pediatric, Cystospaz, Cystospaz M, Dispas, ED-Spaz, HyoMax, HyoMax-DT, HyoMax-FT, HyoMax-SL, HyoMax-SR, Hyosol SL, Hyospaz, Hyosyne, IB Stat, Levbid, Levsin, Levsin SL, Levsinex, Losamine, Medispaz, neosol, NuLev, OSCIMIN, OSCIMIN SR, Spacol, Spasdel, Symax, Symax Duotab, Symax FasTabs, Symax SR
+Ibuprofen, Advil, Advil Children, Advil Migraine, Caldolor, Children's Ibuprofen, ElixSure IB, Genpril, Ibren, IBU, Ibupak, Midol, Midol Cramps and Body Aches, Motrin, Motrin IB, Motrin Infants, Motrin Junior Strength, Motrin Migraine Pain, Samson-8
 Indomethacin, Indocin, Indocin SR, TIVORBEX
 Infliximab, AVSOLA, INFLECTRA, Remicade, RENFLEXIS, Zymfentra
 Iohexol, Omnipaque
 Isoniazid, Nydrazid
 Itraconazole, ONMEL, Sporanox, TOLSURA
+Ivabradine, Corlanor
 Ivermectin, Sklice, Soolantra, Stromectol
 Ketamine, Ketalar
 Ketazolam
 Ketoconazole, Extina, Ketodan, Kuric, Nizoral, Nizoral A-D, Xolegel
+Labetalol, Normodyne, Trandate
 Lansoprazole, Prevacid, Prevacid IV, Prevacid Solutab
+Leucovorin
 Levofloxacin, Iquix, Levaquin, Levaquin Leva-Pak, Quixin
 Levothyroxine, Ermeza, Estre, Euthyrox, Levo-T, Levothroid, Levoxyl, Synthroid, Thyquidity, Thyro-Tabs, TIROSINT, TIROSINT-SOL, Unithroid
+Lidocaine, Lydocaine
 Linaclotide
 Linezolid, Zyvox, Zyvox Powder, Zyvox Solution
 Liothyronine, Cytomel, Triostat
+Lisdexamfetamine, Vyvanse, Vyvanse XR
+Lisinopril, Prinivil, QBRELIS, Zestril
+Lithium, Eskalith, Eskalith CR, Lithobid
+Loratadine, Alavert, Claritin, Claritin 24 Hour, Claritin Chewable, Claritin Hives Relief, Claritin Liqui-Gel, Claritin RediTabs, Clear-Atadine, Tavist ND
 Lorazepam, Ativan, Loreev XR
 Lornoxicam
 Lubiprostone
+Lurasidone, Latuda
 Lymecycline
 Mebendazole, Emverm, Vermox
 Meclizine, Antivert, Bonine, Dramamine, Dramamine Less Drowsy, Dramamine-N, Medivert, Meni-D
 Meloxicam, Anjeso, Mobic, Qmiiz, Vivlodex
+Mesalamine, Apriso, Asacol, Asacol HD, Canasa, Delzicol, Lialda, Pentasa, Rowasa, sfRowasa
 Methamphetamine
 Methimazole, Northyx, Tapazole
 Methocarbamol, Robaxin
@@ -144,6 +165,7 @@ Methotrexate, Jylamvo, Otrexup, Rasuvo, RediTrex, Rheumatrex, Trexall, Xatmep
 Methyldopa, Aldomet
 Methylphenidate, Adhansia XR, Aptensio XR, Concerta, Cotempla XR, Daytrana, Jornay, Metadate CD, Metadate ER, Methylin, QuilliChew ER, Quillivant XR, RELEXXII, Ritalin, Ritalin LA, Ritalin SR
 Methylprednisolone, A-Methapred, Depmedalone-40, Depmedalone-80, Depo-Medrol, Medrol, Medrol Dosepak, Solu-Medrol
+Metoprolol, KAPSPARGO, Lopressor, Toprol XL, Toprol-XL
 Metronidazole, Flagyl, Flagyl ER, Flagyl RTU, LIKMEZ, MetroCream, MetroGel, MetroGel Vaginal, MetroLotion, Noritate, NUVESSA, Nydamax, Rosadan, Rozex, Vandazole, Vitazol
 Miconazole, Aloe Vesta, Antifungal, AZOLEN TINCTURE, Baza, Cruex, Desenex, Desenex Jock Itch, Fungoid, Lotrimin AF, Lotrimin AF Antifungal Liquid, Lotrimin AF Deodorant, Lotrimin AF Powder, Lotrimin AF Spray, Micaderm, Micatin, Miconazole 7, Micotrin AP, Micro-Guard, Mitrazol, Monistat 1 Day or Night Combination Pack, Monistat 1 Vaginal Ovule Combination Pack, Monistat 1 Vaginal Ovule Combination Pack (Prefilled), Monistat 3, Monistat 3 Vaginal Cream (Prefilled), Monistat 3 Vaginal Cream Combination Pack, Monistat 3 Vaginal Cream Combination Pack (Prefilled), Monistat 3 Vaginal Ovule Combination Pack, Monistat 3 Vaginal Suppositories Combination Pack, Monistat 7, Monistat 7 Vaginal Cream Combination Pack, Monistat-Derm, Mycozyl AP, Neosporin AF, Novana Anti-Fungal, Oravig, Remedy, Remedy Phytoplex, Soothe & Cool INZO, Ting Antifungal, Triple Paste AF, Vagistat-3, Zeasorb Athlete's Foot, Zeasorb Jock Itch
 Midazolam, Nayzilam, Versed, Versed Syrup
@@ -151,7 +173,9 @@ Minocycline, Amzeeq, Arestin, Cleeravue-M, Dynacin, Minocin, Minolira, Myrac, So
 Minoxidil, Loniten, Rogaine
 Mirabegron
 Mirtazapine, Remeron, Remeron SolTab
+Modafinil, Provigil
 Mometasone, Asmanex, Asmanex HFA, Elocon, Nasonex, Propel, Propel Contour, PROPEL Mini, PROPEL Mini with Straight Delivery System, SINUVA
+Morphine, ARYMO ER, Astramorph PF, Avinza, DepoDur, Duramorph PF, Infumorph, Kadian, MITIGO, MORPHABOND, MS Contin, MSIR, Opium Tincture, Oramorph SR, RMS, Roxanol, Roxanol-T
 Moxifloxacin, Avelox, Avelox ABC Pack, Avelox I.V., MOXEZA, Vigamox
 Mupirocin, Bactroban, Centany, Centany AT
 Naltrexone (Low Dose Naltrexone), Naltrexone, Depade, ReVia, Vivitrol, Low Dose Naltrexone,  LDN , low-dose naltrexone
@@ -186,6 +210,7 @@ Phenylephrine, Anu-Med, Biorphen, Formulation R, Gilchew IR, Hemorrhoidal, IMMPH
 Pirbuterol
 Piroxicam, Feldene
 Podofilox
+Polyethylene Glycol (MiraLax), Polyethylene Glycol, GaviLax, GIALAX , GlycoLax, Healthylax, MiraLax, Visine Dry Eye Relief, Vita Health
 Pramipexole, Mirapex, Mirapex ER
 Praziquantel, Biltricide
 Prazosin, Minipress
@@ -195,6 +220,7 @@ Prochlorperazine, Compazine, Compazine Rectal, Compazine Solution, Compazine Syr
 Progesterone, Crinone, Endometrin, Prochieve, PROMETRIUM
 Promethazine, Anergan-50, Pentazine, Phenadoz, Phenergan, Phenergan Fortis, Prometh Plain, Promethegan
 Propericiazine
+Propranolol, HEMANGEOL, Inderal, Inderal LA, Inderal XL, InnoPran XL
 Pyrazinamide
 Pyridostigmine, Mestinon, Mestinon Timespan, Regonol
 Pyridoxine, B-Natal, Neuro-K-500
@@ -210,7 +236,6 @@ Rizatriptan, Maxalt, Maxalt-MLT
 Salicyclic acid
 Sertraline, Zoloft, Zoloft Concentrate, Zoloft Solution
 Sulfadiazine
-Trimethoprim/Sulfamethoxazole, TMP/SMX, SULFAMETHOXAZOLE, TRIMETHOPRIM, Bactrim DS, Sulfatrim, Bactrim
 Sulfasalazine, Azulfidine, Azulfidine En-Tabs, Sulfazine, Sulfazine EC
 Sulpiride
 Sumatriptan, Alsuma, Imitrex, Imitrex STAT dose, Migraine Pack, ONZETRA, Sumavel DosePro System, Tosymra, Zecuity, ZEMBRACE
@@ -221,53 +246,26 @@ Tazarotene
 Temazepam, Restoril
 Temozolomide
 Terconazole, Terazol 3, Terazol 7, Zazole, Zazole Suppository
+Testosterone, Androderm, AndroGel, Andro-L.A., Aveed, AXIRON, Delatestryl, Depo-Testosterone, FORTESTA, JATENZO, KYZATREX, Natesto, STRIANT, Testim, Testoderm, Testone CIK, Testopel, TLANDO, Virilon, Vogelxo, XYOSTED
 Tetracycline, Emtet-500, Panmycin, Sumycin
 Theophylline, Elixophyllin, Quibron T, Quibron T/SR, Respbid, Slo-Bid, Slo-Phyllin, Theo X, Theo-24, Theo-Bid Duracap, TheoCap, Theochron, Theo-Dur, Theo-Dur Sprinkle, Theolair, Theolair SR, Theovent LA, T-Phyl, Uni-Dur, Uniphyl
 Tinidazole, Tindamax, Tindiazole, tindazole
 Tizanidine, Zanaflex
 Tobramycin, AK-Tob, BETHKIS, Kitabis Pak, Nebcin, Tobi, TOBI Podhaler, Tobrasol, Tobrex
 Topiramate, EPRONTIA, Qudexy XR, Topamax, Topamax Sprinkle, Topiragen, Trokendi XR
+Tramadol, Tramodal, ConZip, QDOLO, Rybix, Ryzolt, Ultram, Ultram ER
 Trazodone, Desyrel, Oleptro
 Triamcinolone, Aristocort, Nasacort,  Tac-3, Triacet, Triamonide, Trianex, Triderm, Triesence, XIPERE, Zilretta
 Triazolam, Halcion
-Valaciclovir
+Trimethoprim/Sulfamethoxazole, TMP/SMX, SULFAMETHOXAZOLE, TRIMETHOPRIM, Bactrim DS, Sulfatrim, Bactrim
+ValaciclovirValtrex
 Valganciclovir
 Vancomycin, FIRVANQ, Vancocin, Vancocin Powder, VANCOSOL
 Varenicline
 Venlafaxine, Effexor, Effexor XR, Venlafaxine
-Vilazodone
+Vilazodone, Viibryd
 Zaleplon, Sonata
 Zidovudine
 Zolpidem, Ambien, Ambien CR, Edluar, Intermezzo, Zolpimist
 Zonisamide, Zonegran, ZONISADE
 Zopiclone
-Propranolol, HEMANGEOL, Inderal, Inderal LA, Inderal XL, InnoPran XL
-Bupropion, Aplenzin, Budeprion SR, Budeprion XL, Buproban, Forfivo XL, Wellbutrin, Welbutrin, Wellbutrin SR, Wellbutrin XL, Zyban
-Eszopiclone, Lunesta, Lunestra
-Modafinil, Provigil
-Amphetamine/Dextroamphetamine (Adderall), Amphetamine, Dextroamphetamine, Adderall, Adderall XR, Aderrall
-Testosterone, Androderm, AndroGel, Andro-L.A., Aveed, AXIRON, Delatestryl, Depo-Testosterone, FORTESTA, JATENZO, KYZATREX, Natesto, STRIANT, Testim, Testoderm, Testone CIK, Testopel, TLANDO, Virilon, Vogelxo, XYOSTED
-Cefalexin
-Lisdexamfetamine, Vyvanse, Vyvanse XR
-Famciclovir, Famvir
-Valacyclovir, Valtrex
-Labetalol, Normodyne, Trandate
-Mesalamine, Apriso, Asacol, Asacol HD, Canasa, Delzicol, Lialda, Pentasa, Rowasa, sfRowasa
-Loratadine, Alavert, Claritin, Claritin 24 Hour, Claritin Chewable, Claritin Hives Relief, Claritin Liqui-Gel, Claritin RediTabs, Clear-Atadine, Tavist ND
-Famotidine, Pepcid, Pepcid AC, Pepcid AC Maximum Strength, Zantac 360
-Ibuprofen, Advil, Advil Children, Advil Migraine, Caldolor, Children's Ibuprofen, ElixSure IB, Genpril, Ibren, IBU, Ibupak, Midol, Midol Cramps and Body Aches, Motrin, Motrin IB, Motrin Infants, Motrin Junior Strength, Motrin Migraine Pain, Samson-8
-Leucovorin
-Metoprolol, KAPSPARGO, Lopressor, Toprol XL, Toprol-XL
-Tramadol, Tramodal, ConZip, QDOLO, Rybix, Ryzolt, Ultram, Ultram ER
-Lidocaine, Lydocaine
-Morphine, ARYMO ER, Astramorph PF, Avinza, DepoDur, Duramorph PF, Infumorph, Kadian, MITIGO, MORPHABOND, MS Contin, MSIR, Opium Tincture, Oramorph SR, RMS, Roxanol, Roxanol-T
-Ivabradine, Corlanor
-Vilazodone, Viibryd
-Brimonidine, Alphagan, Alphagan P, LUMIFY, Mirvaso
-Lisinopril, Prinivil, QBRELIS, Zestril
-Lithium, Eskalith, Eskalith CR, Lithobid
-Fremanezumab (AJOVY), AJOVY, Fremanezumab
-Gabapentin, Active-PAC with Gabapentin, Gabarone, Gralise, Horizant, Neurontin
-Humira, Humira Injection, ABRILADA, AMJEVITA, CYLTEZO, HADLIMA, Hulio, Hulio PEN, Humira, HUMIRA PEN, Hyrimoz, Idacio, YUFLYMA, YUSIMRY
-Polyethylene Glycol (MiraLax), Polyethylene Glycol, GaviLax, GIALAX , GlycoLax, Healthylax, MiraLax, Visine Dry Eye Relief, Vita Health
-Lurasidone, Latuda

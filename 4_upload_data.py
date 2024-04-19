@@ -8,7 +8,7 @@ load_dotenv()
 client = PocketBase('http://127.0.0.1:8090')
 admin_data = client.admins.auth_with_password(os.getenv('SECRET_EMAIL'), os.getenv('SECRET_PASSWORD'))
 
-file = fileinput.input("mydatav2.json", encoding="utf-8")
+file = fileinput.input("mydatav2.jsonl", encoding="utf-8")
 data = [json.loads(line) for line in file]
 
 i = 0
