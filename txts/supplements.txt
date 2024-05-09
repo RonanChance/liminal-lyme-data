@@ -38,6 +38,7 @@ Chasteberry, Vitex
 Chinese Salvia, Salvia miltiorrhiza, danshen, red sage, redroot sage, dan shen
 Chinese Skullcap, chinese scullcap, scullcap, Scutellaria baicalensis, Baikal skullcap, Baikal, Skullcap, Baical
 Chlorella, chorella
+Chlorophyll
 Cinnamon
 Cistus Incanus, rock rose, cistus incantus
 Clover
@@ -56,7 +57,7 @@ Dihydromyricetin (DHM), Dihydromyricetin, DHM
 Dokudami, Chameleon plant, Houttuynia
 Echinacea, purple coneflower
 EGCG
-Elderberry
+Elderberry/Elderflower, elderberry, elderflower
 Eleuthero, eleuthero root, Eleutherococcus senticosus, Siberian ginseng, devil's bush, Devil's shrub, shigoka, touch-me-not
 Feverfew
 Fish Oil (Omega 3), omega 3, omega-3, omega III, omega-III, fish oil, fishoil
@@ -90,6 +91,7 @@ L-Citrulline, citrulline
 L-Glutamine, glutamine
 L-Leucine, Leucine
 L-Lysine, lysine
+L-Methylfolate, methylfolate
 L-Ornithine, ornithine, L-ORNITHINE-L-ASPARTATE, L-ornithine
 L-Theanine, Theanine
 Lactoferrin/Colostrum, lactoferrin, colostrum
@@ -111,7 +113,7 @@ Moringa
 Mugwort
 Multivitamin
 Mushroom Complex
-Myers IV, Myers cocktail
+Myers IV, super myers IV, Myers cocktail
 NAC, N-Acetyl-Cysteine, n-a-c
 NAD+, NADH
 Nattokinase (Proteolytic Enzymes), nattokinase, proteolytic
@@ -142,6 +144,7 @@ Rhodiola
 Ribose, D-Ribose
 Rosemary
 SAM-E
+Saccharomyces Boulardii, boulardii, s.boulardii, s. boulardii, s boulardii, saccromyces boulardii
 Samento
 Sarsaparilla, Sasparilla
 Schisandra, Magnolia vines
@@ -156,6 +159,7 @@ Stephania, snake vine
 Stevia
 Sulforaphane, sulphoraphane
 Taurine
+Tollovid
 Tsumura Kakkonto, Tsumura-Kakkonto, Tsumura-Kampo
 TUDCA
 Turkey Tail

@@ -9,3 +9,5 @@ OldData/
 .env
 test.py
 constants.txt
+*.gexf
+llm_data.txt

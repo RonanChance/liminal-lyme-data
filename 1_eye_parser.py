@@ -142,12 +142,12 @@ def format_and_store(filename, json_dict, comment_flag):
             if cond == " lyme":
                 if " lyme" in body_lower.replace("lymecycline", " "):
                     pattern = re.compile(r"(?<!>)" + re.escape("lyme"), re.IGNORECASE)
-                    entry_dict["body"] = pattern.sub('<span class="'+ "emyl-" + " condition" + '" style="background-color: var(--condition_highlight); border-radius: 3px;">lyme</span>', entry_dict["body"])
+                    entry_dict["body"] = pattern.sub('<span class="'+ mapping[cond][::-1].replace(" ", "-") + " condition" + '" style="background-color: var(--condition_highlight); border-radius: 3px;">lyme</span>', entry_dict["body"])
                 else:
                     continue
             else:
                 pattern = re.compile(r"(?<!>)" + re.escape(cond), re.IGNORECASE)
-                entry_dict["body"] = pattern.sub('<span class="' + cond[::-1].replace(" ", "-") + " condition" + '" style="background-color: var(--condition_highlight); border-radius: 3px;">' + cond + '</span>', entry_dict["body"])
+                entry_dict["body"] = pattern.sub('<span class="' + mapping[cond][::-1].replace(" ", "-") + " condition" + '" style="background-color: var(--condition_highlight); border-radius: 3px;">' + cond + '</span>', entry_dict["body"])
 
             # add to medication list, then highlight the relevant text
             if mapping[cond] not in entry_dict["conditions"]:
@@ -171,20 +171,26 @@ except Exception:
     pass
 
 i = 0
+error_count = 0
 for reading_filename in reading_filenames:
     file = fileinput.input(reading_filename, encoding="utf-8")
     
     for line in file:
-        json_line = json.loads(line)
-        
-        comment_flag = 0
-        if "comment" in reading_filename:
-            comment_flag = 1
+        try:
+            json_line = json.loads(line)
+            
+            comment_flag = 0
+            if "comment" in reading_filename:
+                comment_flag = 1
 
-        format_and_store(writing_filename, json_line, comment_flag)
-        i += 1
-        if (i % 100000 == 0):
-            print(i)
+            format_and_store(writing_filename, json_line, comment_flag)
+            i += 1
+            if (i % 100000 == 0):
+                print(i)
+    
+        except Exception:
+            print("Error Loading Dictionary")
+            error_count += 1
 
     file.close()
 
@@ -192,3 +198,5 @@ elapsed_time = time.time() - start_time
 minutes = int(elapsed_time // 60)
 seconds = int(elapsed_time % 60)
 print(f"Elapsed time: {minutes} minutes {seconds} seconds")
+print("Total Comments Analyzed:", i + 1)
+print("Error Loading:", error_count)

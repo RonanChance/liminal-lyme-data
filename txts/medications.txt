@@ -49,7 +49,7 @@ Citalopram, Celexa
 Clarithromycin, clarithro, Biaxin, Biaxin XL
 Clindamycin, Cleocin, Cleocin Ovules, Cleocin Pediatric, Cleocin T, Clindacin ETZ, Clindacin PAC, Clindacin-P, Clinda-Derm, Clindagel, ClindaMax, ClindaReach, Clindesse, Clindets, Evoclin, PledgaClin, XACIATO
 Clonazepam, Ceberclon, Klonopin
-Clopidogrel
+Clopidogrel, Plavix
 Clotrimazole, Alevazol, Cruex, Desenex, Fungoid, Gyne-Lotrimin, Lotrimin, Lotrimin AF, Lotrimin AF Ringworm, Micotrin AC, Mycelex, Mycelex Troche, Mycozyl AC
 Colchicine, ColciGel, Colcrys, GLOPERBA, LODOCO, MITIGARE
 Cromoglicic Acid
@@ -249,7 +249,7 @@ Terconazole, Terazol 3, Terazol 7, Zazole, Zazole Suppository
 Testosterone, Androderm, AndroGel, Andro-L.A., Aveed, AXIRON, Delatestryl, Depo-Testosterone, FORTESTA, JATENZO, KYZATREX, Natesto, STRIANT, Testim, Testoderm, Testone CIK, Testopel, TLANDO, Virilon, Vogelxo, XYOSTED
 Tetracycline, Emtet-500, Panmycin, Sumycin
 Theophylline, Elixophyllin, Quibron T, Quibron T/SR, Respbid, Slo-Bid, Slo-Phyllin, Theo X, Theo-24, Theo-Bid Duracap, TheoCap, Theochron, Theo-Dur, Theo-Dur Sprinkle, Theolair, Theolair SR, Theovent LA, T-Phyl, Uni-Dur, Uniphyl
-Tinidazole, Tindamax, Tindiazole, tindazole
+Tinidazole, Tindamax, Tindiazole, tindazole, tinidizole
 Tizanidine, Zanaflex
 Tobramycin, AK-Tob, BETHKIS, Kitabis Pak, Nebcin, Tobi, TOBI Podhaler, Tobrasol, Tobrex
 Topiramate, EPRONTIA, Qudexy XR, Topamax, Topamax Sprinkle, Topiragen, Trokendi XR

@@ -60,6 +60,8 @@ for dictionary in data:
                       .replace('<', ' ')
                       .replace('>', ' ')
                       .replace(':', ' ')
+                      .replace('\n\n-', ' ')
+                      .replace('\n-', ' ')
                       .replace(' -', ' ')
                       .replace('- ', ' ')
                       .replace('•', ' ')
