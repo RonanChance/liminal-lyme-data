@@ -12,7 +12,7 @@ Artemisinin, Artimisinin
 Ashwagandha, ashwaganda, withania somnifera
 Astragalus
 Banderol
-Beetroot, beet root
+Beetroot, beet root, beet juice
 Bee venom, BVT
 Bentonite Clay, bentonite
 Berberine, barberry
@@ -44,7 +44,7 @@ Cistus Incanus, rock rose, cistus incantus
 Clover
 Cod Liver Oil
 Collagen, collegen
-CoQ10, coenq10, co-q10, co enzyme q 10, co q 10, Co-Enzyme Q10, CoQmax Ubiquinol, Q-Sorb Co Q-10, QuinZyme, ubiquinol, Ubiquinone
+CoQ10/Ubiquinol, CoQ10, coenq10, co-q10, co enzyme q 10, co q 10, Co-Enzyme Q10, CoQmax Ubiquinol, Q-Sorb Co Q-10, QuinZyme, ubiquinol, Ubiquinone
 Cordyceps
 Creatine, !creatine kinase
 Cryptolepis, cryptolepsis, nibima, kadze, gangamau, ghanaian quinine, yellow-dye root
@@ -95,13 +95,14 @@ L-Methylfolate, methylfolate
 L-Ornithine, ornithine, L-ORNITHINE-L-ASPARTATE, L-ornithine
 L-Theanine, Theanine
 Lactoferrin/Colostrum, lactoferrin, colostrum
+Lemon Balm, Melissa officinalis
 Lemon Water, Lemon juice, lemon concentrate
 Licorice Root, Licorice, glycyrrhiza
 Lion's Mane, Lions Mane
 Lumbrokinase
 Luteolin
 Maca
-Magnesium, Magnesium threonate, Magnesium citrate, magnesium glycinate, magtein
+Magnesium, Magnesium threonate, Magnesium citrate, magnesium glycinate, magtein, mg threonate
 Magnolia, Magnolia officinalis, magnolia bark
 Mastic Gum
 MCT Oil/Caprylic acid, MCT Oil, Caprylic acid
@@ -116,6 +117,7 @@ Mushroom Complex
 Myers IV, super myers IV, Myers cocktail
 NAC, N-Acetyl-Cysteine, n-a-c
 NAD+, NADH
+Natto-Serra (Nattokinase-Serrapeptase), Natto-Serra, nattoserra
 Nattokinase (Proteolytic Enzymes), nattokinase, proteolytic
 Neem
 Nettle Leaf, nettle
@@ -154,10 +156,11 @@ Sida acuta
 Slimax/Greenbriers, Slimax, Greenbriers
 Slippery Elm Bark, slippery elm
 Spirulina
-St. John's wort, St Johns wort, St John's wort, Hypericum perforatum
+St. John's Wort, St Johns wort, St John's wort, Hypericum perforatum
 Stephania, snake vine
 Stevia
 Sulforaphane, sulphoraphane
+Tart Cherry Juice, tart cherry, cherry juice
 Taurine
 Tollovid
 Tsumura Kakkonto, Tsumura-Kakkonto, Tsumura-Kampo
