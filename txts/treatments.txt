@@ -1,0 +1,49 @@
+Pharmacological
+    Antibiotics
+        Doxycycline, https://projectlyme.org/resource/treating-lyme-with-antibiotics/, None
+        Amoxicillin, https://projectlyme.org/lyme-persists/antibiotic-resistant-round-bodies/, None
+        Azithromycin, https://pubmed.ncbi.nlm.nih.gov/8852473/, None
+        Minocycline, https://academic.oup.com/cid/article/30/1/237/322583, None
+        Cefuroxime, https://www.columbia-lyme.org/treatment-options, None
+        Ceftriaxone, https://www.columbia-lyme.org/treatment-options, None
+        Clarithromycin, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC163136/pdf/400468.pdf, None
+        Erythromycin, https://pubmed.ncbi.nlm.nih.gov/3109144/, None
+        Penicillin G, https://projectlyme.org/lyme-persists/antibiotic-resistant-round-bodies/, None
+    Antiparasitics
+        Ivermectin, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6625054/, None
+Supplements
+    Vitamins
+        Vitamin C, https://esmed.org/MRA/mra/article/view/4941, None
+        Vitamin D, https://www.globallymealliance.org/blog/lyme-and-vitamin-d, None
+        Vitamin B12 (Cobalamin), https://www.google.com, None
+        Vitamin B1 (Thiamine), https://www.google.com, None
+        Vitamin B2 (Niacin), https://www.google.com, None
+        Vitamin B5 (Pantothenic Acid), https://www.google.com, None
+        Vitamin B6 (Pyridoxine), https://www.google.com, None
+        Vitamin B7 (Biotin), https://www.google.com, None
+        Vitamin B9 (Folate), https://www.google.com, None
+        Vitamin E, https://www.google.com, None
+        Vitamin A, https://www.google.com, None
+        Vitamin K, https://www.google.com, None
+    Probiotics
+        Lactobacillus acidophilus, https://www.google.com, None
+        Bifidobacterium bifidum, https://www.google.com, None
+        Lactobacillus rhamnosus, https://www.google.com, None
+        Saccharomyces boulardii, https://www.google.com, None
+        Bifidobacterium longum, https://www.google.com, None
+        Lactobacillus plantarum, https://www.google.com, None
+        Lactobacillus casei, https://www.google.com, None
+        Bifidobacterium lactis, https://www.google.com, None
+        Streptococcus thermophilus, https://www.google.com, None
+    Binders
+        Activated Charcoal, https://www.google.com, None
+        Bentonite Clay, https://www.google.com, None
+        MicroChitosan, https://www.google.com, None
+Frequency Therapy
+    Nikki Device, https://www.google.com, None
+    Red Light Therapy, https://www.google.com, None
+Thermal Therapy
+    Sauna, https://www.google.com, None
+    Infrared Sauna, https://www.google.com, None
+Manual Therapy
+    Accupuncture, https://www.google.com, None
