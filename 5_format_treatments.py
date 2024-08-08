@@ -3,14 +3,13 @@ import fileinput
 
 def parse_line(line):
     """Parse a line of the file into a dictionary."""
-    parts = line.strip().split(', ')
-    if len(parts) == 3:  # URL line
+    parts = line.strip().split(': ')
+    if len(parts) == 2:  # URL line
         name = parts[0]
-        article = parts[1]
-        purchase = parts[2]
-        return {"name": name, "type": "url", "article": article, "purchase": purchase}
+        link = parts[1]
+        return {"name": name, "type": "url", "link": link}
     else:  # Folder line
-        name = parts[0]
+        name = parts
         return {"name": name, "type": "folder", "children": []}
 
 def build_tree(lines):
@@ -41,7 +40,9 @@ def build_tree(lines):
 def main():
     lines = fileinput.input(files='txts/treatments.txt')
     tree = build_tree(lines)
-    print(json.dumps(tree, indent=4))
+    # print(json.dumps(tree, indent=4))
+    with open('treeData.json', 'w') as f:
+        json.dump(tree, f)
 
 if __name__ == '__main__':
     main()

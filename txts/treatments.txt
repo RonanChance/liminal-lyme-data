@@ -1,49 +1,401 @@
 Pharmacological
-    Antibiotics
-        Doxycycline, https://projectlyme.org/resource/treating-lyme-with-antibiotics/, None
-        Amoxicillin, https://projectlyme.org/lyme-persists/antibiotic-resistant-round-bodies/, None
-        Azithromycin, https://pubmed.ncbi.nlm.nih.gov/8852473/, None
-        Minocycline, https://academic.oup.com/cid/article/30/1/237/322583, None
-        Cefuroxime, https://www.columbia-lyme.org/treatment-options, None
-        Ceftriaxone, https://www.columbia-lyme.org/treatment-options, None
-        Clarithromycin, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC163136/pdf/400468.pdf, None
-        Erythromycin, https://pubmed.ncbi.nlm.nih.gov/3109144/, None
-        Penicillin G, https://projectlyme.org/lyme-persists/antibiotic-resistant-round-bodies/, None
-    Antiparasitics
-        Ivermectin, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6625054/, None
-Supplements
-    Vitamins
-        Vitamin C, https://esmed.org/MRA/mra/article/view/4941, None
-        Vitamin D, https://www.globallymealliance.org/blog/lyme-and-vitamin-d, None
-        Vitamin B12 (Cobalamin), https://www.google.com, None
-        Vitamin B1 (Thiamine), https://www.google.com, None
-        Vitamin B2 (Niacin), https://www.google.com, None
-        Vitamin B5 (Pantothenic Acid), https://www.google.com, None
-        Vitamin B6 (Pyridoxine), https://www.google.com, None
-        Vitamin B7 (Biotin), https://www.google.com, None
-        Vitamin B9 (Folate), https://www.google.com, None
-        Vitamin E, https://www.google.com, None
-        Vitamin A, https://www.google.com, None
-        Vitamin K, https://www.google.com, None
-    Probiotics
-        Lactobacillus acidophilus, https://www.google.com, None
-        Bifidobacterium bifidum, https://www.google.com, None
-        Lactobacillus rhamnosus, https://www.google.com, None
-        Saccharomyces boulardii, https://www.google.com, None
-        Bifidobacterium longum, https://www.google.com, None
-        Lactobacillus plantarum, https://www.google.com, None
-        Lactobacillus casei, https://www.google.com, None
-        Bifidobacterium lactis, https://www.google.com, None
-        Streptococcus thermophilus, https://www.google.com, None
+    Analgesics
+        Acetaminophen
+        Aspirin
+        Fentanyl
+        Hydrocodone
+        Hydromorphone
+        Morphine
+        Tapentadol
+        Tramadol
+    Antimicrobials
+        Antibiotics
+            Amoxicillin
+            Amoxicillin/Clavulanic Acid (Augmentin)
+            Azithromycin
+            Cefuroxime
+            Doxycycline
+            Minocycline
+            Penicillin G
+            Ceftriaxone
+            Cefuroxime
+        Antifungals
+            Fluconazole
+        Antivirals
+            Acyclovir
+            Famciclovir
+            Valaciclovir
+    Antidepressants
+        Amitriptyline
+        Duloxetine
+        Escitalopram
+        Fluoxetine
+        Sertraline
+        Venlafaxine
+    Antihistamines
+        Cetirizine
+        Diphenhydramine/Benadryl
+        Fexofenadine
+        Hydroxyzine
+        Loratadine
+    NSAIDs
+        Celecoxib
+        Ibuprofen
+        Naproxen
+    Muscle Relaxants
+        Cyclobenzaprine
+        Tizanidine
+    Anticonvulsants
+        Gabapentin
+        Pregabalin
+    Sedatives
+        Eszopiclone
+        Zolpidem
+        Zopiclone
+    Antimalarials
+        Hydroxychloroquine
+    Antimigraine
+        Rizatriptan
+        Sumatriptan
+    Anti-inflammatory
+        Mesalamine
+        Sulfasalazine
+    Proton Pump Inhibitors
+        Esomeprazole
+        Lansoprazole
+        Omeprazole
+        Pantoprazole
+        Rabeprazole
+    Opioid Antagonists
+        Naltrexone (Low Dose Naltrexone)
+    Neurotoxins
+        Botulinum Toxin (Botox)
+    Mast Cell Stabilizers
+        Cromoglicic Acid
+    Immunotherapy
+        Cyclosporine
+        Methotrexate
+        Monoclonal Antibodies
+            Bevacizumab
+            Certolizumab pegol
+            Fremanezumab (AJOVY)
+            Infliximab
+            Natalizumab
+            Rituximab
+        IVIG (Intravenous Immunoglobulin)
+    Diuretics
+        Furosemide
+        Hydrochlorothiazide
+        Spironolactone
+    Corticosteroids
+        Dexamethasone
+        Fluticasone Furoate
+        Fluticasone Propionate
+        Hydrocortisone
+        Methylprednisolone
+        Prednisolone
+        Triamcinolone
+    Benzodiazepines
+        Alprazolam
+        Bromazepam
+        Clonazepam
+        Diazepam
+        Lorazepam
+        Oxazepam
+        Temazepam
+        Triazolam
+    Anxiolytics
+        Buspirone
+        Hydroxyzine
+        Meprobamate
+    Antipsychotics
+        Aripiprazole
+        Lurasidone
+        Propericiazine
+        Sulpiride
+    Laxatives
+        Linaclotide
+        Lubiprostone
+        Polyethylene Glycol (MiraLax)
+    GABA Analogs
+        Gabapentin
+        Pregabalin
+Dietary Supplements
+    Antioxidants
+        Alpha Lipoic Acid
+        CoQ10/Ubiquinol
+        Curcumin (Turmeric)
+        Grape Seed Extract
+        Green Tea
+        N-Acetyl Cysteine (NAC)
+        Resveratrol
+        Sulforaphane
+        Vitamin C
+        Glutathione
+    Amino Acids
+        5-HTP/Tryptophan
+        Acetyl L-Carnitine
+        Branched Chain Amino Acids
+        L-Arginine
+        L-Aspartate
+        L-Citrulline
+        L-Glutamine
+        L-Leucine
+        L-Lysine
+        L-Ornithine
+        L-Theanine
+        Phenylalanine
+        Taurine
     Binders
-        Activated Charcoal, https://www.google.com, None
-        Bentonite Clay, https://www.google.com, None
-        MicroChitosan, https://www.google.com, None
+        Activated Charcoal
+        Bentonite Clay
+        Chitosan
+            Chitosan Oligosaccharide (COS)
+        Chlorella
+        Zeolite
+    Enzymes
+        Bromelain
+        Diamine Oxidase
+        Dihydromyricetin (DHM)
+        Lumbrokinase
+        Methylsulfonylmethane (MSM)
+        Natto-Serra (Nattokinase-Serrapeptase)
+        Nattokinase (Proteolytic Enzymes)
+        Serrapeptase
+    Fatty Acids
+        Fish Oil (Omega 3)
+        Flaxseed
+        Krill Oil
+        MCT Oil/Caprylic acid
+        Cod Liver Oil
+    Herbal Supplements
+        Adaptogens
+            Ashwagandha
+            Astragalus
+            Ginseng
+            Holy Basil (Tulsi)
+            Licorice Root
+            Rhodiola
+            Sarsaparilla
+            Schisandra
+        Antimicrobials
+            Andrographis
+            Artemisia Absinthium (Wormwood)
+            Artemisinin
+            Berberine
+            Biocidin
+            Black Seed (Nigella Sativa)
+            Garlic (Allicin)
+            Goldenseal
+        Anti-Inflammatories
+            Boswellia
+            Cat's Claw
+            Celandine
+            Echinacea
+            Feverfew
+            Ginkgo Biloba
+            Turmeric (Curcumin)
+        Digestive Support
+            Aloe Vera
+            Chaga
+            Dandelion
+            Ginger
+            Peppermint
+            Slippery Elm Bark
+            Wormwood
+        Immune Support
+            Astragalus
+            Elderberry/Elderflower
+            Isatis
+            Reishi
+            Shiitake
+            Turkey Tail
+        Liver Support
+            Milk Thistle
+            Nettle Leaf
+            Olive Leaf
+            Pau D'arco
+            Red Root
+            Silymarin
+        Mood and Cognitive Support
+            Bacopa
+            Brahmi
+            Ginkgo Biloba
+            Gotu Kola
+            Lemon Balm
+            Rhodiola
+            St. John's Wort
+        Respiratory Support
+            Eucalyptus
+            Mullein
+            Thyme
+            Oregano
+            Licorice Root
+            Peppermint
+            Astragalus
+        General Wellness
+            Alchornea
+            Black Walnut
+            Boxwood
+            Chinese Salvia
+            Chinese Skullcap
+            Cryptolepis
+            Gou-Teng
+            Moringa
+            Neem
+            Quercetin
+            Rosemary
+            Samento
+            Sida Acuta
+            Spirulina
+            Wheatgrass
+        Herbal Teas
+            Chamomile
+            Chasteberry
+            Cinnamon
+            Clover
+            Cistus Incanus
+            Lemon Balm
+            Licorice Root
+            Peppermint
+            Slippery Elm Bark
+            Stevia
+            Tulsi (Holy Basil)
+            Yerba Mate
+    Hormonal Supplements
+        DHEA
+        Melatonin
+        Methylsulfonylmethane (MSM)
+        SAM-E
+    Minerals
+        Calcium
+        Iron
+        Magnesium
+        Phosphorous
+        Potassium
+        Selenium
+        Zinc
+    Mushrooms
+        Chaga
+        Cordyceps
+        Lion's Mane
+        Reishi
+        Turkey Tail
+        Mushroom Complex
+    Miscellaneous
+        Stimulants
+            Coffee/Caffeine
+            NMN (Nicotinamide Mononucleotide)
+        Cognitive Support
+            CDP-Choline
+            Phosphatidylcholine
+            Phosphatidylserine
+        Apple Cider Vinegar
+        Beetroot
+        Bee venom
+        Biotin
+        CBD
+        Hyaluronic Acid
+        Ioderal
+        Iodine
+        Ribose
+        Xylitol
+    Prebiotics
+        Beta-Glucan
+        Galactooligosaccharides (GOS)
+        HMO (Human Milk Oligosaccharides)
+        Inulin
+        Lactoferrin/Colostrum
+        Oligofructose
+    Probiotics
+        Bifidobacterium bifidum
+        Bifidobacterium lactis
+        Lactobacillus acidophilus
+        Lactobacillus casei
+        Lactobacillus plantarum
+        Lactobacillus rhamnosus
+        Saccharomyces boulardii
+        Streptococcus thermophilus
+    Proteins
+        Collagen
+        Protein Powder
+        Gelatin
+    Vitamins
+        Vitamin A
+        Vitamin B1 (Thiamine)
+        Vitamin B2 (Riboflavin)
+        Vitamin B3 (Niacin)
+        Vitamin B5 (Pantothenic Acid)
+        Vitamin B6 (Pyridoxine)
+        Vitamin B7 (Biotin)
+        Vitamin B9 (Folate)
+        Vitamin B12 (Cobalamin)
+        Vitamin C
+        Vitamin D
+        Vitamin E
+        Vitamin K
+        Vitamin B Complex
+        L-Methylfolate
 Frequency Therapy
-    Nikki Device, https://www.google.com, None
-    Red Light Therapy, https://www.google.com, None
+    Low-Level Laser Therapy (LLLT)
+        Cold Laser Therapy
+        Infrared Laser Therapy
+        Red Light Therapy
+            Nikki (FreMedica) Device
+    Radiofrequency Therapy
+        Radiofrequency Ablation
+        Fractional Radiofrequency
+    PEMF Therapy
+        PEMF Mats
+        PEMF Devices
+    Microcurrent Therapy
+    Bioelectrical Therapy
+        Electrotherapy
+        Transcutaneous Electrical Nerve Stimulation (TENS)
+    Rife Frequency Therapy
+        Rife Machines
+        Frequency Generators
+    Electroacupuncture
+        Electroacupuncture Devices
+        Electroacupuncture with Needles
 Thermal Therapy
-    Sauna, https://www.google.com, None
-    Infrared Sauna, https://www.google.com, None
-Manual Therapy
-    Accupuncture, https://www.google.com, None
+    Infrared Therapy
+        Infrared Sauna
+        Infrared Heat Lamps
+    Traditional Sauna
+        Dry Sauna
+        Steam Sauna
+    Heat Therapy
+        Hot Compress
+        Warm Baths
+        Heat Pads
+    Cold Therapy
+        Ice Packs
+        Cold Compress
+        Cryotherapy
+Manual Therapies
+    Chiropractic Care
+    Osteopathic Manipulative Treatment (OMT)
+        Muscle Energy Techniques
+        Counterstrain
+        Myofascial Release
+    Massage Therapy
+        Deep Tissue Massage
+        Swedish Massage
+        Myofascial Release
+    Craniosacral Therapy
+        Gentle Manipulation
+        Craniosacral System Techniques
+    Rolfing (Structural Integration)
+        Deep Tissue Techniques
+        Alignment and Balance Reorganization
+    Trigger Point Therapy
+        Trigger Point Release
+    Reflexology
+    Physical Therapy
+    TENS (Transcutaneous Electrical Nerve Stimulation)
+    Heat and Cold Therapy
+    Biofeedback
+        Physiological Control Techniques
+    Dry Needling
+    Functional Medicine
