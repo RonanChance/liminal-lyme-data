@@ -38,6 +38,9 @@ Pharmacological
         Fexofenadine
         Hydroxyzine
         Loratadine
+    GABA Analogue
+        Gabapentin
+        Pregabalin
     NSAIDs
         Celecoxib
         Ibuprofen
@@ -45,9 +48,6 @@ Pharmacological
     Muscle Relaxants
         Cyclobenzaprine
         Tizanidine
-    Anticonvulsants
-        Gabapentin
-        Pregabalin
     Sedatives
         Eszopiclone
         Zolpidem
@@ -117,57 +117,115 @@ Pharmacological
         Linaclotide
         Lubiprostone
         Polyethylene Glycol (MiraLax)
-    GABA Analogs
-        Gabapentin
-        Pregabalin
+    Miscellaneous
+        Disulfiram
 Dietary Supplements
     Antioxidants
         Alpha Lipoic Acid
+            Article: https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease
+            Purchase: https://a.co/d/4vcJFhG
         CoQ10/Ubiquinol
-        Curcumin (Turmeric)
-        Grape Seed Extract
-        Green Tea
-        N-Acetyl Cysteine (NAC)
-        Resveratrol
-        Sulforaphane
-        Vitamin C
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9027459/
+            Purchase: https://a.co/d/i64VJGE
         Glutathione
+            Article: https://www.globallymealliance.org/blog/glutathione-and-lyme-disease
+            Purchase: https://a.co/d/aUl56aW
+        N-Acetyl Cysteine (NAC)
+            Article: https://www.globallymealliance.org/blog/the-top-6-supplements-that-can-support-your-lyme-recovery
+            Purchase: https://a.co/d/13bHHx6
+        Resveratrol
+            Article: https://pubmed.ncbi.nlm.nih.gov/29925765/
+            Article: https://www.medicalnewstoday.com/articles/lyme-disease-treatment-2-herbal-compounds-may-beat-antibiotics
+            Purchase: https://a.co/d/hLUowlN
+        Sulforaphane
+            Article: https://www.globallymealliance.org/blog/the-top-6-supplements-that-can-support-your-lyme-recovery
+            Purchase: https://a.co/d/6ADPwvW
+        Vitamin C
+            Article: https://www.rupahealth.com/post/a-functional-medicine-chronic-lyme-disease-protocol
+            Purchase: https://a.co/d/6kUwyNV
     Amino Acids
         5-HTP/Tryptophan
+            Article: https://pubmed.ncbi.nlm.nih.gov/27373127/
+            Purchase: https://a.co/d/aKykp3t
         Acetyl L-Carnitine
-        Branched Chain Amino Acids
+            Article: https://pubmed.ncbi.nlm.nih.gov/26943315/
+            Purchase: https://a.co/d/b5u7Ush
         L-Arginine
-        L-Aspartate
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8947608/
+            Purchase: https://a.co/d/2qsRhMg
         L-Citrulline
+            Article: https://restorativehealthsolutions.com/lyme-disease/babesia/
+            Purchase: https://a.co/d/cyocopv
         L-Glutamine
+            Article: https://www.rupahealth.com/post/lyme-disease-case-study
+            Purchase: https://a.co/d/62ywfiX
         L-Leucine
+            Purchase: https://a.co/d/9x94AJm
         L-Lysine
+            Article: https://biologixcenter.com/lyme-disease/the-alkaline-brain-dietary-concerns-in-lyme-borreliosis/
+            Purchase: https://a.co/d/eYCOcOQ
         L-Ornithine
+            Purchase: https://a.co/d/0EWIugJ
         L-Theanine
+            Article: https://rawlsmd.com/herbs/l-theanine
+            Purchase: https://a.co/d/5H60W5p
         Phenylalanine
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773101/
+            Purchase: https://a.co/d/aNiWBGa
         Taurine
+            Article: https://pubmed.ncbi.nlm.nih.gov/26934795/
+            Purchase: https://a.co/d/2VQJt4D
     Binders
         Activated Charcoal
-        Bentonite Clay
-        Chitosan
-            Chitosan Oligosaccharide (COS)
+            Article: https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/
+            Purchase: https://a.co/d/ePPQUGH
+        Chitosan Oligosaccharide (COS)
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9223384/
+            Article: https://pubmed.ncbi.nlm.nih.gov/30708011/
+            Purchase: https://a.co/d/hf4Qppj
+            Purchase: https://a.co/d/cG7kKvH
+        Clay
+            Bentonite Clay
+                Article: https://mosaicdx.com/resource/8-binders-for-mycotoxins/
+                Purchase: https://a.co/d/0y1HNOD
+            Zeolite Clay
+                Article: https://mosaicdx.com/resource/8-binders-for-mycotoxins/
+                Purchase: https://a.co/d/3AViSSe
         Chlorella
-        Zeolite
+            Article: https://mosaicdx.com/resource/8-binders-for-mycotoxins/
+            Purchase: https://a.co/d/5lVfGZA
+            Purchase: https://a.co/d/fW248uM
+        Glucomannan
+            Article: https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/
+            Purchase: https://a.co/d/4L5hV3U
+        Humic and Fulvic Acid
+            Article: https://mosaicdx.com/resource/8-binders-for-mycotoxins/
+            Purchase: https://a.co/d/3wO6J3G
+        Mannan Oligosaccharides (MOS)
+            Article: https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/
+            Purchase: https://a.co/d/6ZixGZq
     Enzymes
         Bromelain
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2722197/
+            Purchase: https://a.co/d/14SqUfQ
         Diamine Oxidase
+            Article: https://www.lymedisease.org/lyme-sci-mcas-agony/
+            Purchase: https://a.co/d/9YwrHfI
         Dihydromyricetin (DHM)
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9952438/
+            Purchase: https://a.co/d/dAV01ze
         Lumbrokinase
+            Article: https://www.clinicaleducation.org/wp-content/uploads/argfocus_200903_earthworms_web.pdf
+            Purchase: https://a.co/d/a6wrrrl
         Methylsulfonylmethane (MSM)
-        Natto-Serra (Nattokinase-Serrapeptase)
+            Article: https://patents.google.com/patent/WO2011053848A1/en
+            Purchase: https://a.co/d/51MTqJ6
         Nattokinase (Proteolytic Enzymes)
+            Article: https://www.globallymealliance.org/blog/integrating-herbs-with-antibiotics-for-the-best-treatment-outcome-for-lyme-and-other-tick-borne-illnesses
+            Purchase: https://a.co/d/hIRxPpb
         Serrapeptase
-    Fatty Acids
-        Fish Oil (Omega 3)
-        Flaxseed
-        Krill Oil
-        MCT Oil/Caprylic acid
-        Cod Liver Oil
+            Article: https://www.mdpi.com/2079-6382/11/7/912
+            Purchase: https://a.co/d/dXGksqn
     Herbal Supplements
         Adaptogens
             Ashwagandha
@@ -195,6 +253,8 @@ Dietary Supplements
             Feverfew
             Ginkgo Biloba
             Turmeric (Curcumin)
+                Article: https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease
+                Purchase: https://a.co/d/9wU48IV
         Digestive Support
             Aloe Vera
             Chaga
@@ -223,6 +283,7 @@ Dietary Supplements
             Ginkgo Biloba
             Gotu Kola
             Lemon Balm
+            Magnolia Bark (Honokiol)
             Rhodiola
             St. John's Wort
         Respiratory Support
@@ -300,13 +361,23 @@ Dietary Supplements
         Iodine
         Ribose
         Xylitol
+    Omega-3
+        Fish Oil
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465565/
+            Purchase: https://a.co/d/gdUhac6
+        Krill Oil
+            Article: https://www.lymedisease.org/rawls-natural-remedies-lyme/
+            Purchase: https://a.co/d/5vi91PG
     Prebiotics
         Beta-Glucan
-        Galactooligosaccharides (GOS)
-        HMO (Human Milk Oligosaccharides)
-        Inulin
-        Lactoferrin/Colostrum
-        Oligofructose
+            Article: http://npplweb.com/wjp/fulltext/8/2
+            Purchase: https://a.co/d/5TgYoA2
+        Human Milk Oligosaccharides
+            Article: https://mediatum.ub.tum.de/doc/1380489/1380489.pdf
+            Purchase: https://a.co/d/0gJ1cYs
+        Lactoferrin
+            Article: https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2014/dylan-haenel-poster.pdf
+            Purchase: https://a.co/d/eBWrfdc
     Probiotics
         Bifidobacterium bifidum
         Bifidobacterium lactis
@@ -316,26 +387,63 @@ Dietary Supplements
         Lactobacillus rhamnosus
         Saccharomyces boulardii
         Streptococcus thermophilus
-    Proteins
+    Peptides
+        BPC-157
+            Article: https://oasishealthandmedicine.com/bpc-157-therapy-for-healing-and-recovery/
         Collagen
-        Protein Powder
-        Gelatin
+            Article: https://www.lifestylematrix.com/blog/post/collagen-and-lyme-why-this-connection-is-key-for-tissue-repair
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3751012/
+            Purchase: https://a.co/d/7TFXEMO
+        Glutathione
+            Article: https://www.globallymealliance.org/blog/glutathione-and-lyme-disease
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5877983/
+            Purchase: https://a.co/d/5nmpXvA
+        LL-37
+            Article: https://www.mdpi.com/2079-6382/10/6/650
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7388365/
+        Thymosin Alpha-1 (Tα1)
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7747025/
+        VIP (Vasoactive Intestinal Peptide)
+            Article: https://www.researchgate.net/publication/272674308_Vasoactive_intestinal_polypeptide_VIP_corrects_chronic_inflammatory_response_syndrome_CIRS_acquired_following_exposure_to_water-damaged_buildings
     Vitamins
         Vitamin A
+            Article: https://pubmed.ncbi.nlm.nih.gov/8843212/
+            Purchase: https://a.co/d/6ybVlWO
         Vitamin B1 (Thiamine)
+            Article: https://www.reddit.com/r/Lyme/comments/1bub127/neurological_lyme_disease_thiamine_deficiency/
+            Purchase: https://a.co/d/f8DVLEz
         Vitamin B2 (Riboflavin)
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9588712/
+            Purchase: https://a.co/d/2Xz2aN8
         Vitamin B3 (Niacin)
+            Article: https://www.medicalnewstoday.com/articles/249511
+            Purchase: https://a.co/d/0uGBWCQ
         Vitamin B5 (Pantothenic Acid)
+            Article: https://www.ncbi.nlm.nih.gov/books/NBK563233/
+            Purchase: https://a.co/d/7Lnxlre
         Vitamin B6 (Pyridoxine)
+            Article: https://www.globallymealliance.org/blog/nutrition-tips-for-neurological-lyme-disease#:~:text=For%20example%2C%20Lyme%20disease%20can,%2C%20vitamin%20B6%2C%20and%20magnesium.
+            Purchase: https://a.co/d/fu9HqDb
         Vitamin B7 (Biotin)
+            Article: N/A
+            Purchase: https://a.co/d/d2Px7Le
         Vitamin B9 (Folate)
+            Article: https://www.sciencedirect.com/science/article/pii/S2772973723009104
+            Purchase: https://a.co/d/e0GMCvd
         Vitamin B12 (Cobalamin)
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465565/
+            Purchase: https://a.co/d/4shAdzB
         Vitamin C
+            Article: https://esmed.org/MRA/mra/article/view/4941
         Vitamin D
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3520031/
+            Purchase: https://a.co/d/eceyT2q
         Vitamin E
+            Article: https://pubmed.ncbi.nlm.nih.gov/16013408/
+            Purchase: https://a.co/d/15o6dCW
         Vitamin K
-        Vitamin B Complex
-        L-Methylfolate
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10893789/
+            Purchase: https://a.co/d/gLQPmVt
 Frequency Therapy
     Low-Level Laser Therapy (LLLT)
         Cold Laser Therapy
@@ -349,6 +457,7 @@ Frequency Therapy
         PEMF Mats
         PEMF Devices
     Microcurrent Therapy
+        Frequency Specific Microcurrent (FSM)
     Bioelectrical Therapy
         Electrotherapy
         Transcutaneous Electrical Nerve Stimulation (TENS)
@@ -361,41 +470,9 @@ Frequency Therapy
 Thermal Therapy
     Infrared Therapy
         Infrared Sauna
-        Infrared Heat Lamps
-    Traditional Sauna
+    Heat Therapy
+        Traditional Sauna
         Dry Sauna
         Steam Sauna
-    Heat Therapy
-        Hot Compress
-        Warm Baths
-        Heat Pads
     Cold Therapy
-        Ice Packs
-        Cold Compress
         Cryotherapy
-Manual Therapies
-    Chiropractic Care
-    Osteopathic Manipulative Treatment (OMT)
-        Muscle Energy Techniques
-        Counterstrain
-        Myofascial Release
-    Massage Therapy
-        Deep Tissue Massage
-        Swedish Massage
-        Myofascial Release
-    Craniosacral Therapy
-        Gentle Manipulation
-        Craniosacral System Techniques
-    Rolfing (Structural Integration)
-        Deep Tissue Techniques
-        Alignment and Balance Reorganization
-    Trigger Point Therapy
-        Trigger Point Release
-    Reflexology
-    Physical Therapy
-    TENS (Transcutaneous Electrical Nerve Stimulation)
-    Heat and Cold Therapy
-    Biofeedback
-        Physiological Control Techniques
-    Dry Needling
-    Functional Medicine
