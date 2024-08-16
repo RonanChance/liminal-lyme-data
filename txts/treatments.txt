@@ -227,6 +227,46 @@ Dietary Supplements
             Article: https://www.mdpi.com/2079-6382/11/7/912
             Purchase: https://a.co/d/dXGksqn
     Herbal Supplements
+        Frequently Recommended
+            Andrographis
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/aoEibfv
+            Astragalus
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/gxHcvnk
+            Berberine
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/3mrAx46
+            Cat's Claw
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/1BButX8
+            Cryptolepis
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/aBMKmt3
+            Chinese Skullcap
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/ewb3Hsl
+            Japanese Knotweed
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/515NLto
+            Sweet Wormwood
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/bJaVf4n
+            Sarsaparilla
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/gAqrWYZ
+            Siberian Ginseng
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/dilLdWf
+            Lemon Balm
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/3ZuOa74
+            Thyme
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/iQ3hLPe
+            Oil of Oregano
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/8udg8NO
         Adaptogens
             Ashwagandha
             Astragalus
@@ -263,20 +303,6 @@ Dietary Supplements
             Peppermint
             Slippery Elm Bark
             Wormwood
-        Immune Support
-            Astragalus
-            Elderberry/Elderflower
-            Isatis
-            Reishi
-            Shiitake
-            Turkey Tail
-        Liver Support
-            Milk Thistle
-            Nettle Leaf
-            Olive Leaf
-            Pau D'arco
-            Red Root
-            Silymarin
         Mood and Cognitive Support
             Bacopa
             Brahmi
@@ -286,14 +312,6 @@ Dietary Supplements
             Magnolia Bark (Honokiol)
             Rhodiola
             St. John's Wort
-        Respiratory Support
-            Eucalyptus
-            Mullein
-            Thyme
-            Oregano
-            Licorice Root
-            Peppermint
-            Astragalus
         General Wellness
             Alchornea
             Black Walnut
@@ -316,6 +334,7 @@ Dietary Supplements
             Cinnamon
             Clover
             Cistus Incanus
+            Guayusa
             Lemon Balm
             Licorice Root
             Peppermint
@@ -325,28 +344,97 @@ Dietary Supplements
             Yerba Mate
     Hormonal Supplements
         DHEA
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10628885/
+            Purchase: https://a.co/d/2baWTSX
         Melatonin
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5643098/
+            Purchase: https://a.co/d/bLT18wK
         Methylsulfonylmethane (MSM)
+            Article: https://patents.google.com/patent/WO2011053848A1/en
+            Purchase: https://a.co/d/hFrYBUp
         SAM-E
+            Article: https://www.mayoclinic.org/drugs-supplements-same/art-20364924
+            Purchase: https://a.co/d/1BKPiHa
     Minerals
         Calcium
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4392059/
+            Purchase: https://a.co/d/9JHLRyk
         Iron
+            Article: https://www.sciencedaily.com/releases/2013/03/130321205712.htm
         Magnesium
-        Phosphorous
+            Magnesium Citrate
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Purchase: https://a.co/d/eIoeSw7
+            Magnesium Chloride
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Purchase: https://a.co/d/27wMaHj
+            Magnesium Glycinate
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Purchase: https://a.co/d/djZepVC
+            Magnesium L-threonate
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Purchase: https://a.co/d/3OmKTtB
+            Magnesium Malate
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Purchase: https://a.co/d/0yv2srx
+            Magnesium Oxide
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Purchase: https://a.co/d/8iwcmJJ
+            Magnesium Taurate
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Purchase: https://a.co/d/3W7c8Gc
+        Manganese
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
         Potassium
+            Potassium Chloride
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
+                Purchase: https://a.co/d/2bCTd3L
+            Potassium Citrate
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
+                Purchase: https://a.co/d/9AKTUTt
+            Potassium Bicarbonate
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
+                Purchase: https://a.co/d/1GXYPK4
+            Potassium Gluconate
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
+                Purchase: https://a.co/d/5hUT2pn
         Selenium
+            Purchase: https://a.co/d/5hKEkVR
         Zinc
+            Zinc Acetate
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
+                Purchase: https://a.co/d/cGAgOjE
+            Zinc Citrate
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
+                Purchase: https://a.co/d/5HjqZtb
+            Zinc Gluconate
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
+                Purchase: https://a.co/d/bWc3wXk
+            Zinc Orotate
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
+                Purchase: https://a.co/d/hMLq22q
+            Zinc Picolinate
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
+                Purchase: https://a.co/d/2MNlKEt
+            Zinc Sulfate
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
+                Purchase: https://a.co/d/96erI1o
     Mushrooms
         Chaga
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840610/
         Cordyceps
+            Article: https://pubmed.ncbi.nlm.nih.gov/37101730/
         Lion's Mane
+            Article: https://hifasdaterra.com/en/blog/a-study-on-lyme-disease-and-medicinal-mushrooms/
+        Psilocybin
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9990519/
         Reishi
+            Article: https://pubmed.ncbi.nlm.nih.gov/37101730/
+            Article: https://hifasdaterra.com/en/blog/a-study-on-lyme-disease-and-medicinal-mushrooms/
         Turkey Tail
-        Mushroom Complex
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684115/
     Miscellaneous
-        Stimulants
-            Coffee/Caffeine
-            NMN (Nicotinamide Mononucleotide)
+        Caffeine
         Cognitive Support
             CDP-Choline
             Phosphatidylcholine
@@ -354,7 +442,6 @@ Dietary Supplements
         Apple Cider Vinegar
         Beetroot
         Bee venom
-        Biotin
         CBD
         Hyaluronic Acid
         Ioderal
@@ -380,13 +467,35 @@ Dietary Supplements
             Purchase: https://a.co/d/eBWrfdc
     Probiotics
         Bifidobacterium bifidum
+            Article: https://journals.lww.com/ajg/fulltext/2022/10002/s551_loss_of_bifidobacteria_in_lyme_disease__cause.551.aspx
+            Purchase: https://a.co/d/03HAzrW
         Bifidobacterium lactis
+            Article: https://journals.lww.com/ajg/fulltext/2022/10002/s551_loss_of_bifidobacteria_in_lyme_disease__cause.551.aspx
+        Bifidobacterium longum
+            Article: https://journals.lww.com/ajg/fulltext/2022/10002/s551_loss_of_bifidobacteria_in_lyme_disease__cause.551.aspx
+            Purchase: https://a.co/d/ghuSDEI
+        Lactobacillus rhamnosus GG
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
+            Purchase: https://a.co/d/5jdHHds
         Lactobacillus acidophilus
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
+            Purchase: https://a.co/d/bkQY8me
         Lactobacillus casei
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
+            Purchase: https://a.co/d/f7nJcuI
         Lactobacillus plantarum
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2546682/
+            Purchase: https://a.co/d/gWhVYKE
         Lactobacillus rhamnosus
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
+            Purchase: https://a.co/d/5oSZHCA
         Saccharomyces boulardii
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9311795/
+            Article: https://www.globallymealliance.org/blog/the-top-6-supplements-that-can-support-your-lyme-recovery
+            Purchase: https://a.co/d/gywVNeD
         Streptococcus thermophilus
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
+            Purchase: https://a.co/d/hMSzRGK
     Peptides
         BPC-157
             Article: https://oasishealthandmedicine.com/bpc-157-therapy-for-healing-and-recovery/
@@ -444,35 +553,36 @@ Dietary Supplements
         Vitamin K
             Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10893789/
             Purchase: https://a.co/d/gLQPmVt
-Frequency Therapy
-    Low-Level Laser Therapy (LLLT)
-        Cold Laser Therapy
-        Infrared Laser Therapy
-        Red Light Therapy
-            Nikki (FreMedica) Device
-    Radiofrequency Therapy
-        Radiofrequency Ablation
-        Fractional Radiofrequency
-    PEMF Therapy
-        PEMF Mats
-        PEMF Devices
-    Microcurrent Therapy
-        Frequency Specific Microcurrent (FSM)
-    Bioelectrical Therapy
-        Electrotherapy
-        Transcutaneous Electrical Nerve Stimulation (TENS)
-    Rife Frequency Therapy
-        Rife Machines
-        Frequency Generators
-    Electroacupuncture
-        Electroacupuncture Devices
-        Electroacupuncture with Needles
-Thermal Therapy
-    Infrared Therapy
-        Infrared Sauna
-    Heat Therapy
-        Traditional Sauna
-        Dry Sauna
-        Steam Sauna
-    Cold Therapy
-        Cryotherapy
+Other
+    Frequency Therapy
+        Low-Level Laser Therapy (LLLT)
+            Cold Laser Therapy
+            Infrared Laser Therapy
+            Red Light Therapy
+                Nikki (FreMedica) Device
+        Radiofrequency Therapy
+            Radiofrequency Ablation
+            Fractional Radiofrequency
+        PEMF Therapy
+            PEMF Mats
+            PEMF Devices
+        Microcurrent Therapy
+            Frequency Specific Microcurrent (FSM)
+        Bioelectrical Therapy
+            Electrotherapy
+            Transcutaneous Electrical Nerve Stimulation (TENS)
+        Rife Frequency Therapy
+            Rife Machines
+            Frequency Generators
+        Electroacupuncture
+            Electroacupuncture Devices
+            Electroacupuncture with Needles
+    Thermal Therapy
+        Infrared Therapy
+            Infrared Sauna
+        Heat Therapy
+            Traditional Sauna
+            Dry Sauna
+            Steam Sauna
+        Cold Therapy
+            Cryotherapy
