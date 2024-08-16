@@ -227,30 +227,45 @@ Dietary Supplements
             Article: https://www.mdpi.com/2079-6382/11/7/912
             Purchase: https://a.co/d/dXGksqn
     Herbal Supplements
-        Frequently Recommended
+        Antimicrobials
             Andrographis
                 Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
                 Purchase: https://a.co/d/aoEibfv
             Astragalus
                 Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
                 Purchase: https://a.co/d/gxHcvnk
+            Banderol
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6337116/
+                Purchase: https://a.co/d/9Rorxje
             Berberine
                 Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
                 Purchase: https://a.co/d/3mrAx46
+            Black Walnut
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
+                Purchase: https://a.co/d/9c3Ai1l
             Cat's Claw
                 Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6337116/
                 Purchase: https://a.co/d/1BButX8
-            Cryptolepis
+            Cryptolepis Sanguinolenta
                 Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
                 Purchase: https://a.co/d/aBMKmt3
             Chinese Skullcap
                 Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
                 Purchase: https://a.co/d/ewb3Hsl
+            Cistus Incanus
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
+                Purchase: https://a.co/d/iOYWJVR
             Japanese Knotweed
                 Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
                 Purchase: https://a.co/d/515NLto
             Sweet Wormwood
                 Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
                 Purchase: https://a.co/d/bJaVf4n
             Sarsaparilla
                 Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
@@ -267,81 +282,113 @@ Dietary Supplements
             Oil of Oregano
                 Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
                 Purchase: https://a.co/d/8udg8NO
-        Adaptogens
-            Ashwagandha
-            Astragalus
-            Ginseng
-            Holy Basil (Tulsi)
-            Licorice Root
-            Rhodiola
-            Sarsaparilla
-            Schisandra
-        Antimicrobials
-            Andrographis
-            Artemisia Absinthium (Wormwood)
-            Artemisinin
-            Berberine
-            Biocidin
-            Black Seed (Nigella Sativa)
-            Garlic (Allicin)
-            Goldenseal
         Anti-Inflammatories
+            Blackcurrant
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/bVrcRiE
+            Borage
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/7q3hwcx
             Boswellia
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/aN5Two5
             Cat's Claw
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/1BButX8
             Celandine
-            Echinacea
-            Feverfew
-            Ginkgo Biloba
-            Turmeric (Curcumin)
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/aqFFzlI
+            Curcumin 
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
                 Article: https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease
                 Purchase: https://a.co/d/9wU48IV
+            Devil's Claw
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/eE9f9UU
+            Echinacea
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/1MmdGzN
+            Evening Primrose
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/gEvAvtw
+            Feverfew
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/9uNXdop
+            Ginger
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/dzwJD4X
+            Rosemary
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/eODWJkB
+            Sage
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/7TnwycU
+            Stinging Nettle
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Purchase: https://a.co/d/87hhfS2
+            Quercetin/Bromelain
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/
+                Purchase: https://a.co/d/4Iq7xH1
         Digestive Support
             Aloe Vera
+            Biocidin
             Chaga
             Dandelion
             Ginger
             Peppermint
             Slippery Elm Bark
             Wormwood
-        Mood and Cognitive Support
-            Bacopa
-            Brahmi
+        Histamine Support
+            Diamine Oxidase
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7003574/
+                Purchase: https://a.co/d/hhoqdVU
+            Quercetin/Bromelain
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/
+                Purchase: https://a.co/d/4Iq7xH1
+        Mood/Cognitive/Nerve Support
+            Bacopa Monnieri
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746283/
+                Purchase: https://a.co/d/iUeulAy
             Ginkgo Biloba
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157487/
+                Purchase: https://a.co/d/h8iDp4b
             Gotu Kola
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116297/
+                Purchase: https://a.co/d/jbQGMYb
             Lemon Balm
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4245564/
+                Purchase: https://a.co/d/3ZuOa74
             Magnolia Bark (Honokiol)
-            Rhodiola
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10451803/
+                Purchase: https://a.co/d/4KiSCI6
+            Rhodiola Rosea
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9228580/
+                Purchase: https://a.co/d/7ZGC2qY
             St. John's Wort
-        General Wellness
-            Alchornea
-            Black Walnut
-            Boxwood
-            Chinese Salvia
-            Chinese Skullcap
-            Cryptolepis
-            Gou-Teng
-            Moringa
-            Neem
-            Quercetin
-            Rosemary
-            Samento
-            Sida Acuta
-            Spirulina
-            Wheatgrass
+                Article: https://www.ncbi.nlm.nih.gov/books/NBK92750/
+                Purchase: https://a.co/d/hEtO8CS
         Herbal Teas
+            Ceylon Cinnamon
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466762/
+                Purchase: https://a.co/d/9P69eFa
             Chamomile
-            Chasteberry
-            Cinnamon
-            Clover
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995283/
+                Purchase: https://a.co/d/bAF3KQt
             Cistus Incanus
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
+                Purchase: https://a.co/d/iOYWJVR
             Guayusa
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6265843/
+                Purchase: https://a.co/d/7uPc43M
             Lemon Balm
-            Licorice Root
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Purchase: https://a.co/d/jj3ddbY
             Peppermint
-            Slippery Elm Bark
-            Stevia
-            Tulsi (Holy Basil)
+                Article: https://pubmed.ncbi.nlm.nih.gov/16767798/
+                Purchase: https://a.co/d/iEIVGHJ
             Yerba Mate
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622869/
+                Purchase: https://a.co/d/1k5gEAo
     Hormonal Supplements
         DHEA
             Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10628885/
@@ -577,6 +624,8 @@ Other
         Electroacupuncture
             Electroacupuncture Devices
             Electroacupuncture with Needles
+    Hyperbaric Oxygen Therapy
+        Article: https://www.sciencedirect.com/science/article/pii/S1726490114000422
     Thermal Therapy
         Infrared Therapy
             Infrared Sauna
