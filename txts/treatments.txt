@@ -1,30 +1,36 @@
 Pharmacological
-    Analgesics
-        Acetaminophen
-        Aspirin
-        Fentanyl
-        Hydrocodone
-        Hydromorphone
-        Morphine
-        Tapentadol
-        Tramadol
     Antimicrobials
         Antibiotics
             Amoxicillin
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC284594/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC284594/
+                Article: https://pubmed.ncbi.nlm.nih.gov/30728096/ ### https://pubmed.ncbi.nlm.nih.gov/30728096/
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10376514/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10376514/
             Amoxicillin/Clavulanic Acid (Augmentin)
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC284594/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC284594/
             Azithromycin
+                Article: https://pubmed.ncbi.nlm.nih.gov/8852473/ ### https://pubmed.ncbi.nlm.nih.gov/8852473/
             Cefuroxime
+                Article: https://pubmed.ncbi.nlm.nih.gov/12042561/ ### https://pubmed.ncbi.nlm.nih.gov/12042561/
             Doxycycline
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697124/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697124/
             Minocycline
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697124/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697124/
             Penicillin G
+                Article: https://pubmed.ncbi.nlm.nih.gov/6316826/ ### https://pubmed.ncbi.nlm.nih.gov/6316826/
             Ceftriaxone
+                Article: https://pubmed.ncbi.nlm.nih.gov/9233865/ ### https://pubmed.ncbi.nlm.nih.gov/9233865/
             Cefuroxime
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359626/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359626/
         Antifungals
             Fluconazole
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4790293/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4790293/
         Antivirals
             Acyclovir
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5984262/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5984262/
             Famciclovir
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7152038/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7152038/
             Valaciclovir
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6418311/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6418311/
     Antidepressants
         Amitriptyline
         Duloxetine
@@ -35,6 +41,7 @@ Pharmacological
     Antihistamines
         Cetirizine
         Diphenhydramine/Benadryl
+        Famotidine
         Fexofenadine
         Hydroxyzine
         Loratadine
@@ -122,213 +129,213 @@ Pharmacological
 Dietary Supplements
     Antioxidants
         Alpha Lipoic Acid
-            Article: https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease
-            Purchase: https://a.co/d/4vcJFhG
+            Article: https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease ### https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease
+            Amazon: Alpha Lipoic Acid 600mg - Nutricost ### https://a.co/d/4vcJFhG
         CoQ10/Ubiquinol
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9027459/
-            Purchase: https://a.co/d/i64VJGE
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9027459/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9027459/
+            Amazon: Ubiquinol 50mg - Health Thru Nutrition ### https://a.co/d/i64VJGE
         Glutathione
-            Article: https://www.globallymealliance.org/blog/glutathione-and-lyme-disease
-            Purchase: https://a.co/d/aUl56aW
+            Article: https://www.globallymealliance.org/blog/glutathione-and-lyme-disease ### https://www.globallymealliance.org/blog/glutathione-and-lyme-disease
+            Amazon: Glutathione 250mg - NOW Supplements ### https://a.co/d/aUl56aW
         N-Acetyl Cysteine (NAC)
-            Article: https://www.globallymealliance.org/blog/the-top-6-supplements-that-can-support-your-lyme-recovery
-            Purchase: https://a.co/d/13bHHx6
+            Article: https://www.globallymealliance.org/blog/the-top-6-supplements-that-can-support-your-lyme-recovery ### https://www.globallymealliance.org/blog/the-top-6-supplements-that-can-support-your-lyme-recovery
+            Amazon: NAC 600mg - NOW Supplements ### https://a.co/d/13bHHx6
         Resveratrol
-            Article: https://pubmed.ncbi.nlm.nih.gov/29925765/
-            Article: https://www.medicalnewstoday.com/articles/lyme-disease-treatment-2-herbal-compounds-may-beat-antibiotics
-            Purchase: https://a.co/d/hLUowlN
+            Article: https://pubmed.ncbi.nlm.nih.gov/29925765/ ### https://pubmed.ncbi.nlm.nih.gov/29925765/
+            Article: https://www.medicalnewstoday.com/articles/lyme-disease-treatment-2-herbal-compounds-may-beat-antibiotics ### https://www.medicalnewstoday.com/articles/lyme-disease-treatment-2-herbal-compounds-may-beat-antibiotics
+            Amazon: Resveratrol 500mg - Double Wood ### https://a.co/d/hLUowlN
         Sulforaphane
-            Article: https://www.globallymealliance.org/blog/the-top-6-supplements-that-can-support-your-lyme-recovery
-            Purchase: https://a.co/d/6ADPwvW
+            Article: https://www.globallymealliance.org/blog/the-top-6-supplements-that-can-support-your-lyme-recovery ### https://www.globallymealliance.org/blog/the-top-6-supplements-that-can-support-your-lyme-recovery
+            Amazon: Sulforaphane 50mg - SMNutrition ### https://a.co/d/6ADPwvW
         Vitamin C
-            Article: https://www.rupahealth.com/post/a-functional-medicine-chronic-lyme-disease-protocol
-            Purchase: https://a.co/d/6kUwyNV
+            Article: https://www.rupahealth.com/post/a-functional-medicine-chronic-lyme-disease-protocol ### https://www.rupahealth.com/post/a-functional-medicine-chronic-lyme-disease-protocol
+            Amazon: Vitamin C 500mg - Bronson ### https://a.co/d/6kUwyNV
     Amino Acids
         5-HTP/Tryptophan
-            Article: https://pubmed.ncbi.nlm.nih.gov/27373127/
-            Purchase: https://a.co/d/aKykp3t
+            Article: https://pubmed.ncbi.nlm.nih.gov/27373127/ ### https://pubmed.ncbi.nlm.nih.gov/27373127/
+            Amazon: 5-HTP 100mg - NOW Supplements ### https://a.co/d/aKykp3t
         Acetyl L-Carnitine
-            Article: https://pubmed.ncbi.nlm.nih.gov/26943315/
-            Purchase: https://a.co/d/b5u7Ush
+            Article: https://pubmed.ncbi.nlm.nih.gov/26943315/ ### https://pubmed.ncbi.nlm.nih.gov/26943315/
+            Amazon: Acetyl L-Carnitine 500mg - NOW Supplements ### https://a.co/d/b5u7Ush
         L-Arginine
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8947608/
-            Purchase: https://a.co/d/2qsRhMg
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8947608/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8947608/
+            Amazon: L-Arginine 1000mg - Nature's Bounty ### https://a.co/d/2qsRhMg
         L-Citrulline
-            Article: https://restorativehealthsolutions.com/lyme-disease/babesia/
-            Purchase: https://a.co/d/cyocopv
+            Article: https://restorativehealthsolutions.com/lyme-disease/babesia/ ### https://restorativehealthsolutions.com/lyme-disease/babesia/
+            Amazon: L-Citrulline 1200mg - Double Wood ### https://a.co/d/cyocopv
         L-Glutamine
-            Article: https://www.rupahealth.com/post/lyme-disease-case-study
-            Purchase: https://a.co/d/62ywfiX
+            Article: https://www.rupahealth.com/post/lyme-disease-case-study ### https://www.rupahealth.com/post/lyme-disease-case-study
+            Amazon: L-Glutamine 1000mg - Double Wood ### https://a.co/d/62ywfiX
         L-Leucine
-            Purchase: https://a.co/d/9x94AJm
+            Amazon: L-Leucine 2000mg - Nutricost ### https://a.co/d/9x94AJm
         L-Lysine
-            Article: https://biologixcenter.com/lyme-disease/the-alkaline-brain-dietary-concerns-in-lyme-borreliosis/
-            Purchase: https://a.co/d/eYCOcOQ
+            Article: https://biologixcenter.com/lyme-disease/the-alkaline-brain-dietary-concerns-in-lyme-borreliosis/ ### https://biologixcenter.com/lyme-disease/the-alkaline-brain-dietary-concerns-in-lyme-borreliosis/
+            Amazon: L-Lysine 1000mg - NOW Supplements ### https://a.co/d/eYCOcOQ
         L-Ornithine
-            Purchase: https://a.co/d/0EWIugJ
+            Amazon: L-Ornithine - NOW Supplements ### https://a.co/d/0EWIugJ
+        L-Phenylalanine
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773101/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773101/
+            Amazon: L-Phenylalanine 500mg - NOW Supplements ### https://a.co/d/aNiWBGa
         L-Theanine
-            Article: https://rawlsmd.com/herbs/l-theanine
-            Purchase: https://a.co/d/5H60W5p
-        Phenylalanine
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773101/
-            Purchase: https://a.co/d/aNiWBGa
+            Article: https://rawlsmd.com/herbs/l-theanine ### https://rawlsmd.com/herbs/l-theanine
+            Amazon: L-Theanine 200mg - NOW Supplements ### https://a.co/d/5H60W5p
         Taurine
-            Article: https://pubmed.ncbi.nlm.nih.gov/26934795/
-            Purchase: https://a.co/d/2VQJt4D
+            Article: https://pubmed.ncbi.nlm.nih.gov/26934795/ ### https://pubmed.ncbi.nlm.nih.gov/26934795/
+            Amazon: Taurine 1000mg - Double Wood ### https://a.co/d/2VQJt4D
     Binders
         Activated Charcoal
-            Article: https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/
-            Purchase: https://a.co/d/ePPQUGH
+            Article: https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/ ### https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/
+            Amazon: Activated Charcoal 260mg - Nature's Bounty ### https://a.co/d/ePPQUGH
         Chitosan Oligosaccharide (COS)
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9223384/
-            Article: https://pubmed.ncbi.nlm.nih.gov/30708011/
-            Purchase: https://a.co/d/hf4Qppj
-            Purchase: https://a.co/d/cG7kKvH
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9223384/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9223384/
+            Article: https://pubmed.ncbi.nlm.nih.gov/30708011/ ### https://pubmed.ncbi.nlm.nih.gov/30708011/
+            Amazon: MicroChitosan 1800mg - Allergy Research Group ### https://a.co/d/hf4Qppj
+            Amazon: MicroChitosan 1800mg - Nutricology ### https://a.co/d/cG7kKvH
         Clay
             Bentonite Clay
-                Article: https://mosaicdx.com/resource/8-binders-for-mycotoxins/
-                Purchase: https://a.co/d/0y1HNOD
+                Article: https://mosaicdx.com/resource/8-binders-for-mycotoxins/ ### https://mosaicdx.com/resource/8-binders-for-mycotoxins/
+                Amazon: Calcium Bentonite Clay - Lone Star Botanicals ### https://a.co/d/0y1HNOD
             Zeolite Clay
-                Article: https://mosaicdx.com/resource/8-binders-for-mycotoxins/
-                Purchase: https://a.co/d/3AViSSe
+                Article: https://mosaicdx.com/resource/8-binders-for-mycotoxins/ ### https://mosaicdx.com/resource/8-binders-for-mycotoxins/
+                Amazon: Zeolite Powder - Heiltropfen ### https://a.co/d/3AViSSe
         Chlorella
-            Article: https://mosaicdx.com/resource/8-binders-for-mycotoxins/
-            Purchase: https://a.co/d/5lVfGZA
-            Purchase: https://a.co/d/fW248uM
+            Article: https://mosaicdx.com/resource/8-binders-for-mycotoxins/ ### https://mosaicdx.com/resource/8-binders-for-mycotoxins/
+            Amazon: Chlorella Tablets 500mg - Micro Ingredients ### https://a.co/d/5lVfGZA
+            Amazon: Chlorella 1000mg - NOW Supplements ### https://a.co/d/fW248uM
         Glucomannan
-            Article: https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/
-            Purchase: https://a.co/d/4L5hV3U
+            Article: https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/ ### https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/
+            Amazon: Glucomannan 2g - Now Supplements ### https://a.co/d/4L5hV3U
         Humic and Fulvic Acid
-            Article: https://mosaicdx.com/resource/8-binders-for-mycotoxins/
-            Purchase: https://a.co/d/3wO6J3G
+            Article: https://mosaicdx.com/resource/8-binders-for-mycotoxins/ ### https://mosaicdx.com/resource/8-binders-for-mycotoxins/
+            Amazon: Trace Mineral Drops - Superior Fulvic Humic Store ### https://a.co/d/3wO6J3G
         Mannan Oligosaccharides (MOS)
-            Article: https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/
-            Purchase: https://a.co/d/6ZixGZq
+            Article: https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/ ### https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/
+            Amazon: Mannan Oligosaccharides 500mg - Gluten-Free Remedies ### https://a.co/d/6ZixGZq
     Enzymes
         Bromelain
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2722197/
-            Purchase: https://a.co/d/14SqUfQ
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2722197/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2722197/
+            Amazon: Quercetin with Bromelain 1200mg - Double Wood ### https://a.co/d/14SqUfQ
         Diamine Oxidase
-            Article: https://www.lymedisease.org/lyme-sci-mcas-agony/
-            Purchase: https://a.co/d/9YwrHfI
+            Article: https://www.lymedisease.org/lyme-sci-mcas-agony/ ### https://www.lymedisease.org/lyme-sci-mcas-agony/
+            Amazon: Histamine Block DAO - Bravado Labs ### https://a.co/d/9YwrHfI
         Dihydromyricetin (DHM)
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9952438/
-            Purchase: https://a.co/d/dAV01ze
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9952438/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9952438/
+            Amazon: Dihydromyricetin Tablets 1000mg - Double Wood ### https://a.co/d/dAV01ze
         Lumbrokinase
-            Article: https://www.clinicaleducation.org/wp-content/uploads/argfocus_200903_earthworms_web.pdf
-            Purchase: https://a.co/d/a6wrrrl
+            Article: https://www.clinicaleducation.org/wp-content/uploads/argfocus_200903_earthworms_web.pdf ### https://www.clinicaleducation.org/wp-content/uploads/argfocus_200903_earthworms_web.pdf
+            Amazon: Lumbrokinase 150mg - Double Wood ### https://a.co/d/a6wrrrl
         Methylsulfonylmethane (MSM)
-            Article: https://patents.google.com/patent/WO2011053848A1/en
-            Purchase: https://a.co/d/51MTqJ6
+            Article: https://patents.google.com/patent/WO2011053848A1/en ### https://patents.google.com/patent/WO2011053848A1/en
+            Amazon: MSM 1000mg - NOW Supplements ### https://a.co/d/51MTqJ6
         Nattokinase (Proteolytic Enzymes)
-            Article: https://www.globallymealliance.org/blog/integrating-herbs-with-antibiotics-for-the-best-treatment-outcome-for-lyme-and-other-tick-borne-illnesses
-            Purchase: https://a.co/d/hIRxPpb
+            Article: https://www.globallymealliance.org/blog/integrating-herbs-with-antibiotics-for-the-best-treatment-outcome-for-lyme-and-other-tick-borne-illnesses ### https://www.globallymealliance.org/blog/integrating-herbs-with-antibiotics-for-the-best-treatment-outcome-for-lyme-and-other-tick-borne-illnesses
+            Amazon: Nattokinase 200mg - Double Wood ### https://a.co/d/hIRxPpb
         Serrapeptase
-            Article: https://www.mdpi.com/2079-6382/11/7/912
-            Purchase: https://a.co/d/dXGksqn
+            Article: https://www.mdpi.com/2079-6382/11/7/912 ### https://www.mdpi.com/2079-6382/11/7/912
+            Amazon: Serrapeptase 240,000 SPU - Double Wood ### https://a.co/d/dXGksqn
     Herbal Supplements
         Antimicrobials
             Andrographis
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Purchase: https://a.co/d/aoEibfv
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Amazon: Andrographis Capsules 1,000mg - Double Wood ### https://a.co/d/aoEibfv
             Astragalus
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Purchase: https://a.co/d/gxHcvnk
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Amazon: Astragalus 500mg Capsules - Double Wood ### https://a.co/d/gxHcvnk
             Banderol
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6337116/
-                Purchase: https://a.co/d/9Rorxje
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6337116/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6337116/
+                Amazon: Banderol Herbal Tincture - NutraMedix ### https://a.co/d/9Rorxje
             Berberine
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Purchase: https://a.co/d/3mrAx46
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Amazon: Berberine Supplement 500mg - Double Wood ### https://a.co/d/3mrAx46
             Black Walnut
-                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
-                Purchase: https://a.co/d/9c3Ai1l
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full ### https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
+                Amazon: Black Walnut Liquid Extract - Herb Pharm ### https://a.co/d/9c3Ai1l
             Cat's Claw
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6337116/
-                Purchase: https://a.co/d/1BButX8
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full ### https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6337116/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6337116/
+                Amazon: Cat's Claw 500mg - NOW Supplements ### https://a.co/d/1BButX8
             Cryptolepis Sanguinolenta
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
-                Purchase: https://a.co/d/aBMKmt3
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full ### https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
+                Amazon: Cryptolepis Sanguinolenta Root Tincture - Bio Krauter ### https://a.co/d/aBMKmt3
             Chinese Skullcap
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
-                Purchase: https://a.co/d/ewb3Hsl
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full ### https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
+                Amazon: Baikal Skullcap 500mg - Nutricost ### https://a.co/d/ewb3Hsl
             Cistus Incanus
-                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
-                Purchase: https://a.co/d/iOYWJVR
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full ### https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
+                Amazon: Cistus Incanus Tea - Blokoma Store ### https://a.co/d/iOYWJVR
             Japanese Knotweed
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
-                Purchase: https://a.co/d/515NLto
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full ### https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
+                Amazon: Japanese Knotweed - Supreme Store ### https://a.co/d/515NLto
             Sweet Wormwood
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
-                Purchase: https://a.co/d/bJaVf4n
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full ### https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
+                Amazon: Artemisinin (Sweet Wormwood) 200mg - Double Wood ### https://a.co/d/bJaVf4n
             Sarsaparilla
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Purchase: https://a.co/d/gAqrWYZ
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Amazon: Sarsaparilla Root 1000mg - Carlyle Store ### https://a.co/d/gAqrWYZ
             Siberian Ginseng
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Purchase: https://a.co/d/dilLdWf
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Amazon: Siberian Eleuthero 1275mg - Nature's Way ### https://a.co/d/dilLdWf
             Lemon Balm
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Purchase: https://a.co/d/3ZuOa74
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Amazon: Lemon Balm Extract - Herb Pharm ### https://a.co/d/3ZuOa74
             Thyme
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Purchase: https://a.co/d/iQ3hLPe
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Amazon: Thyme Liquid Extract - Herb Pharm ### https://a.co/d/iQ3hLPe
             Oil of Oregano
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Purchase: https://a.co/d/8udg8NO
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Amazon: Oil of Oregano - Carlyle Store ### https://a.co/d/8udg8NO
         Anti-Inflammatories
             Blackcurrant
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/bVrcRiE
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Black Currant Oil 1000mg - NOW Supplements ### https://a.co/d/bVrcRiE
             Borage
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/7q3hwcx
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Borage Oil 1000mg - NOW Supplements ### https://a.co/d/7q3hwcx
             Boswellia
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/aN5Two5
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Boswellia Extract 1000mg - Double Wood ### https://a.co/d/aN5Two5
             Cat's Claw
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/1BButX8
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Cat's Claw 500mg - NOW Supplements ### https://a.co/d/1BButX8
             Celandine
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/aqFFzlI
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Celandine - Herb Pharm ### https://a.co/d/aqFFzlI
             Curcumin 
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Article: https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease
-                Purchase: https://a.co/d/9wU48IV
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Article: https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease ### https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease
+                Amazon: CurcuBrain 400mg - NOW Supplements ### https://a.co/d/9wU48IV
             Devil's Claw
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/eE9f9UU
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Devils Claw 2000mg - Carlyle Store ### https://a.co/d/eE9f9UU
             Echinacea
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/1MmdGzN
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Echinacea 400mg - Nature's Bounty ### https://a.co/d/1MmdGzN
             Evening Primrose
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/gEvAvtw
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Evening Primrose Oil 1000mg - Nature's Bounty ### https://a.co/d/gEvAvtw
             Feverfew
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/9uNXdop
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Feverfew 380mg - Carlyle ### https://a.co/d/9uNXdop
             Ginger
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/dzwJD4X
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Ginger Root 550mg - NOW Supplements ### https://a.co/d/dzwJD4X
             Rosemary
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/eODWJkB
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Rosemary Capsules 1200mg - Carlyle ### https://a.co/d/eODWJkB
             Sage
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/7TnwycU
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Sage Supplement 1600mg - Carlyle ### https://a.co/d/7TnwycU
             Stinging Nettle
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Purchase: https://a.co/d/87hhfS2
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+                Amazon: Stinging Nettle Root Extract 250mg - NOW Supplements ### https://a.co/d/87hhfS2
             Quercetin/Bromelain
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/
-                Purchase: https://a.co/d/4Iq7xH1
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/
+                Amazon: Quercetin with Bromelain 1200mg - Double Wood ### https://a.co/d/4Iq7xH1
         Digestive Support
             Aloe Vera
             Biocidin
@@ -340,146 +347,147 @@ Dietary Supplements
             Wormwood
         Histamine Support
             Diamine Oxidase
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7003574/
-                Purchase: https://a.co/d/hhoqdVU
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7003574/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7003574/
+                Amazon: Histamine Block DAO - Bravado Labs ### https://a.co/d/9YwrHfI
             Quercetin/Bromelain
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/
-                Purchase: https://a.co/d/4Iq7xH1
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/
+                Amazon: Quercetin with Bromelain 1200mg - Double Wood ### https://a.co/d/14SqUfQ
         Mood/Cognitive/Nerve Support
             Bacopa Monnieri
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746283/
-                Purchase: https://a.co/d/iUeulAy
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746283/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746283/
+                Amazon: Bacopa Monnieri 450mg - Double Wood ### https://a.co/d/iUeulAy
             Ginkgo Biloba
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157487/
-                Purchase: https://a.co/d/h8iDp4b
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157487/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157487/
+                Amazon: Ginkgo Biloba 120mg - Nature's Bounty ### https://a.co/d/h8iDp4b
             Gotu Kola
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116297/
-                Purchase: https://a.co/d/jbQGMYb
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116297/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116297/
+                Amazon: Gotu Kola 1000mg - Double Wood ### https://a.co/d/jbQGMYb
             Lemon Balm
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4245564/
-                Purchase: https://a.co/d/3ZuOa74
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4245564/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4245564/
+                Amazon: Lemon Balm - Herb Pharm ### https://a.co/d/3ZuOa74
             Magnolia Bark (Honokiol)
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10451803/
-                Purchase: https://a.co/d/4KiSCI6
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10451803/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10451803/
+                Amazon: Magnolia Bark 400mg - Swanson ### https://a.co/d/4KiSCI6
             Rhodiola Rosea
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9228580/
-                Purchase: https://a.co/d/7ZGC2qY
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9228580/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9228580/
+                Amazon: Rhodiola Rosea 500mg - Double Wood ### https://a.co/d/7ZGC2qY
             St. John's Wort
-                Article: https://www.ncbi.nlm.nih.gov/books/NBK92750/
-                Purchase: https://a.co/d/hEtO8CS
+                Article: https://www.ncbi.nlm.nih.gov/books/NBK92750/ ### https://www.ncbi.nlm.nih.gov/books/NBK92750/
+                Amazon: St. John's Wort 300mg - Nature's Bounty ### https://a.co/d/hEtO8CS
         Herbal Teas
             Ceylon Cinnamon
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466762/
-                Purchase: https://a.co/d/9P69eFa
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466762/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466762/
+                Amazon: Ceylon Cinnamon Powder 200g - Organic Spice Shop ### https://a.co/d/9P69eFa
             Chamomile
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995283/
-                Purchase: https://a.co/d/bAF3KQt
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995283/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995283/
+                Amazon: Chamomile Herbal Tea - Happy Belly ### https://a.co/d/bAF3KQt
             Cistus Incanus
-                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
-                Purchase: https://a.co/d/iOYWJVR
+                Article: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full ### https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.00006/full
+                Amazon: Cistus Incanus Tea - Blokoma Store ### https://a.co/d/iOYWJVR
             Guayusa
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6265843/
-                Purchase: https://a.co/d/7uPc43M
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6265843/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6265843/
+                Amazon: Guayusa Loose Leaf Tea - Davidson's ### https://a.co/d/7uPc43M
             Lemon Balm
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
-                Purchase: https://a.co/d/jj3ddbY
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10124234/
+                Amazon: Lemon Balm Extract - Herb Pharm ### https://a.co/d/3ZuOa74
             Peppermint
-                Article: https://pubmed.ncbi.nlm.nih.gov/16767798/
-                Purchase: https://a.co/d/iEIVGHJ
+                Article: https://pubmed.ncbi.nlm.nih.gov/16767798/ ### https://pubmed.ncbi.nlm.nih.gov/16767798/
+                Amazon: Pure Peppermint Tea Bags - Twinings ### https://a.co/d/iEIVGHJ
             Yerba Mate
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622869/
-                Purchase: https://a.co/d/1k5gEAo
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622869/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622869/
+                Amazon: Yerba Mate Tea Bags - ECOTEAS ### https://a.co/d/1k5gEAo
     Hormonal Supplements
         DHEA
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10628885/
-            Purchase: https://a.co/d/2baWTSX
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10628885/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10628885/
+            Amazon: DHEA 25mg - Life Extension ### https://a.co/d/2baWTSX
         Melatonin
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5643098/
-            Purchase: https://a.co/d/bLT18wK
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5643098/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5643098/
+            Amazon: https://a.co/d/bLT18wK
+            Amazon: Nature’s Bounty Melatonin 3mg ### https://a.co/d/bLT18wK
         Methylsulfonylmethane (MSM)
-            Article: https://patents.google.com/patent/WO2011053848A1/en
-            Purchase: https://a.co/d/hFrYBUp
-        SAM-E
-            Article: https://www.mayoclinic.org/drugs-supplements-same/art-20364924
-            Purchase: https://a.co/d/1BKPiHa
+            Article: https://patents.google.com/patent/WO2011053848A1/en ### https://patents.google.com/patent/WO2011053848A1/en
+            Amazon: MSM 1000mg - NOW Supplements ### https://a.co/d/hFrYBUp
+        SAM-e
+            Article: https://www.mayoclinic.org/drugs-supplements-same/art-20364924 ### https://www.mayoclinic.org/drugs-supplements-same/art-20364924
+            Amazon: SAM-e 400mg - Nature Made ### https://a.co/d/1BKPiHa
     Minerals
         Calcium
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4392059/
-            Purchase: https://a.co/d/9JHLRyk
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4392059/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4392059/
+            Amazon: Calcium 600mg - Nature Made ### https://a.co/d/9JHLRyk
         Iron
-            Article: https://www.sciencedaily.com/releases/2013/03/130321205712.htm
+            Article: https://www.sciencedaily.com/releases/2013/03/130321205712.htm ### https://www.sciencedaily.com/releases/2013/03/130321205712.htm
         Magnesium
             Magnesium Citrate
-                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
-                Purchase: https://a.co/d/eIoeSw7
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750 ### https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Amazon: Magnesium Citrate 400mg - NOW Supplements ### https://a.co/d/eIoeSw7
             Magnesium Chloride
-                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
-                Purchase: https://a.co/d/27wMaHj
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750 ### https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Amazon: Magnesium Chloride 1000mg - Double Wood ### https://a.co/d/27wMaHj
             Magnesium Glycinate
-                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
-                Purchase: https://a.co/d/djZepVC
-            Magnesium L-threonate
-                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
-                Purchase: https://a.co/d/3OmKTtB
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750 ### https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Amazon: Magnesium Glycinate 400mg - Double Wood ### https://a.co/d/djZepVC
+            Magnesium L-Threonate
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750 ### https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Amazon: Magnesium L-Threonate 2000mg - Double Wood ### https://a.co/d/3OmKTtB
             Magnesium Malate
-                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
-                Purchase: https://a.co/d/0yv2srx
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750 ### https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Amazon: Magnesium Malate 1500mg - Double Wood ### https://a.co/d/0yv2srx
             Magnesium Oxide
-                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
-                Purchase: https://a.co/d/8iwcmJJ
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750 ### https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Amazon: Nature's Bounty 500mg - Nature's Bounty ### https://a.co/d/8iwcmJJ
             Magnesium Taurate
-                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
-                Purchase: https://a.co/d/3W7c8Gc
+                Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750 ### https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
+                Amazon: Magnesium Taurate 1500mg - Double Wood ### https://a.co/d/3W7c8Gc
         Manganese
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
         Potassium
             Potassium Chloride
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
-                Purchase: https://a.co/d/2bCTd3L
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
+                Amazon: Potassium Chloride 363mg - NOW Supplements ### https://a.co/d/2bCTd3L
             Potassium Citrate
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
-                Purchase: https://a.co/d/9AKTUTt
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
+                Amazon: Potassium Citrate 99mg - NOW Supplements ### https://a.co/d/9AKTUTt
             Potassium Bicarbonate
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
-                Purchase: https://a.co/d/1GXYPK4
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
+                Amazon: Potassium Bicarbonate Powder - Bulk Suplements ### https://a.co/d/1GXYPK4
             Potassium Gluconate
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
-                Purchase: https://a.co/d/5hUT2pn
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126179/
+                Amazon: Potassium Gluconate 550mg - Nature Made ### https://a.co/d/5hUT2pn
         Selenium
-            Purchase: https://a.co/d/5hKEkVR
+            Amazon: https://a.co/d/5hKEkVR
         Zinc
             Zinc Acetate
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
-                Purchase: https://a.co/d/cGAgOjE
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
+                Amazon: Zinc Acetate 50mg - Nature's Bounty ### https://a.co/d/cGAgOjE
             Zinc Citrate
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
-                Purchase: https://a.co/d/5HjqZtb
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
+                Amazon: Zinc Citrate 30mg - Best Naturals ### https://a.co/d/5HjqZtb
             Zinc Gluconate
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
-                Purchase: https://a.co/d/bWc3wXk
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
+                Amazon: Zinc Gluconate 50mg - NOW Supplements ### https://a.co/d/bWc3wXk
             Zinc Orotate
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
-                Purchase: https://a.co/d/hMLq22q
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
+                Amazon: Zinc Orotate 30mg - KAL ### https://a.co/d/hMLq22q
             Zinc Picolinate
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
-                Purchase: https://a.co/d/2MNlKEt
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
+                Amazon: Zinc Picolinate 50mg - NOW Supplements ### https://a.co/d/2MNlKEt
             Zinc Sulfate
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
-                Purchase: https://a.co/d/96erI1o
+                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3719580/
+                Amazon: Zinc Sulfate 220mg - P Puregen Labs ### https://a.co/d/96erI1o
     Mushrooms
         Chaga
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840610/
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840610/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840610/
         Cordyceps
-            Article: https://pubmed.ncbi.nlm.nih.gov/37101730/
+            Article: https://pubmed.ncbi.nlm.nih.gov/37101730/ ### https://pubmed.ncbi.nlm.nih.gov/37101730/
         Lion's Mane
-            Article: https://hifasdaterra.com/en/blog/a-study-on-lyme-disease-and-medicinal-mushrooms/
+            Article: https://hifasdaterra.com/en/blog/a-study-on-lyme-disease-and-medicinal-mushrooms/ ### https://hifasdaterra.com/en/blog/a-study-on-lyme-disease-and-medicinal-mushrooms/
         Psilocybin
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9990519/
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9990519/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9990519/
         Reishi
-            Article: https://pubmed.ncbi.nlm.nih.gov/37101730/
-            Article: https://hifasdaterra.com/en/blog/a-study-on-lyme-disease-and-medicinal-mushrooms/
+            Article: https://pubmed.ncbi.nlm.nih.gov/37101730/ ### https://pubmed.ncbi.nlm.nih.gov/37101730/
+            Article: https://hifasdaterra.com/en/blog/a-study-on-lyme-disease-and-medicinal-mushrooms/ ### https://hifasdaterra.com/en/blog/a-study-on-lyme-disease-and-medicinal-mushrooms/
         Turkey Tail
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684115/
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684115/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684115/
     Miscellaneous
         Caffeine
         Cognitive Support
@@ -497,110 +505,112 @@ Dietary Supplements
         Xylitol
     Omega-3
         Fish Oil
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465565/
-            Purchase: https://a.co/d/gdUhac6
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465565/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465565/
+            Amazon: Fish Oil 1200mg - Nature Made ### https://a.co/d/gdUhac6
         Krill Oil
-            Article: https://www.lymedisease.org/rawls-natural-remedies-lyme/
-            Purchase: https://a.co/d/5vi91PG
+            Article: https://www.lymedisease.org/rawls-natural-remedies-lyme/ ### https://www.lymedisease.org/rawls-natural-remedies-lyme/
+            Amazon: Antarctic Krill Oil 2000mg - Bronson ### https://a.co/d/5vi91PG
     Prebiotics
         Beta-Glucan
-            Article: http://npplweb.com/wjp/fulltext/8/2
-            Purchase: https://a.co/d/5TgYoA2
+            Article: http://npplweb.com/wjp/fulltext/8/2 ### http://npplweb.com/wjp/fulltext/8/2
+            Amazon: Beta-Glucan 250mg - NOW Supplements ### https://a.co/d/5TgYoA2
         Human Milk Oligosaccharides
-            Article: https://mediatum.ub.tum.de/doc/1380489/1380489.pdf
-            Purchase: https://a.co/d/0gJ1cYs
+            Article: https://mediatum.ub.tum.de/doc/1380489/1380489.pdf ### https://mediatum.ub.tum.de/doc/1380489/1380489.pdf
+            Amazon: HMO 200 Billion - Layer Origin ### https://a.co/d/0gJ1cYs
         Lactoferrin
-            Article: https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2014/dylan-haenel-poster.pdf
-            Purchase: https://a.co/d/eBWrfdc
+            Article: https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2014/dylan-haenel-poster.pdf ### https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2014/dylan-haenel-poster.pdf
+            Amazon: Lactoferrin 250mg - Double Wood ### https://a.co/d/eBWrfdc
     Probiotics
         Bifidobacterium bifidum
-            Article: https://journals.lww.com/ajg/fulltext/2022/10002/s551_loss_of_bifidobacteria_in_lyme_disease__cause.551.aspx
-            Purchase: https://a.co/d/03HAzrW
+            Article: https://journals.lww.com/ajg/fulltext/2022/10002/s551_loss_of_bifidobacteria_in_lyme_disease__cause.551.aspx ### https://journals.lww.com/ajg/fulltext/2022/10002/s551_loss_of_bifidobacteria_in_lyme_disease__cause.551.aspx
+            Amazon: Bifidobacterium Bifidum Powder - Vitamatic ### https://a.co/d/03HAzrW
         Bifidobacterium lactis
-            Article: https://journals.lww.com/ajg/fulltext/2022/10002/s551_loss_of_bifidobacteria_in_lyme_disease__cause.551.aspx
+            Article: https://journals.lww.com/ajg/fulltext/2022/10002/s551_loss_of_bifidobacteria_in_lyme_disease__cause.551.aspx ### https://journals.lww.com/ajg/fulltext/2022/10002/s551_loss_of_bifidobacteria_in_lyme_disease__cause.551.aspx
         Bifidobacterium longum
-            Article: https://journals.lww.com/ajg/fulltext/2022/10002/s551_loss_of_bifidobacteria_in_lyme_disease__cause.551.aspx
-            Purchase: https://a.co/d/ghuSDEI
+            Article: https://journals.lww.com/ajg/fulltext/2022/10002/s551_loss_of_bifidobacteria_in_lyme_disease__cause.551.aspx ### https://journals.lww.com/ajg/fulltext/2022/10002/s551_loss_of_bifidobacteria_in_lyme_disease__cause.551.aspx
+            Amazon: Bifidobacterium Longum - WELMATE ### https://a.co/d/ghuSDEI
         Lactobacillus rhamnosus GG
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
-            Purchase: https://a.co/d/5jdHHds
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
+            Amazon: Lactobacillus Rhamnosus 3 Billion CFU - Natural Foundation Supplements ### https://a.co/d/5jdHHds
         Lactobacillus acidophilus
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
-            Purchase: https://a.co/d/bkQY8me
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
+            Amazon: Lactobacillus Acidophilus - Nature's Bounty ### https://a.co/d/bkQY8me
         Lactobacillus casei
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
-            Purchase: https://a.co/d/f7nJcuI
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
+            Amazon: Lactobacillus Casei - Vitamatic ### https://a.co/d/f7nJcuI
         Lactobacillus plantarum
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2546682/
-            Purchase: https://a.co/d/gWhVYKE
-        Lactobacillus rhamnosus
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
-            Purchase: https://a.co/d/5oSZHCA
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2546682/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2546682/
+            Amazon: Lactobacillus Plantarum 20 Billion - Vitamatic ### https://a.co/d/gWhVYKE
         Saccharomyces boulardii
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9311795/
-            Article: https://www.globallymealliance.org/blog/the-top-6-supplements-that-can-support-your-lyme-recovery
-            Purchase: https://a.co/d/gywVNeD
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9311795/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9311795/
+            Article: https://www.globallymealliance.org/blog/the-top-6-supplements-that-can-support-your-lyme-recovery ### https://www.globallymealliance.org/blog/the-top-6-supplements-that-can-support-your-lyme-recovery
+            Amazon: Saccharomyces Boulardii - NOW Supplements ### https://a.co/d/gywVNeD
         Streptococcus thermophilus
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
-            Purchase: https://a.co/d/hMSzRGK
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413636/
+            Amazon: Streptococcus Thermophilus - Vitamatic ### https://a.co/d/hMSzRGK
     Peptides
         BPC-157
-            Article: https://oasishealthandmedicine.com/bpc-157-therapy-for-healing-and-recovery/
+            Article: https://oasishealthandmedicine.com/bpc-157-therapy-for-healing-and-recovery/ ### https://oasishealthandmedicine.com/bpc-157-therapy-for-healing-and-recovery/
         Collagen
-            Article: https://www.lifestylematrix.com/blog/post/collagen-and-lyme-why-this-connection-is-key-for-tissue-repair
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3751012/
-            Purchase: https://a.co/d/7TFXEMO
+            Article: https://www.lifestylematrix.com/blog/post/collagen-and-lyme-why-this-connection-is-key-for-tissue-repair ### https://www.lifestylematrix.com/blog/post/collagen-and-lyme-why-this-connection-is-key-for-tissue-repair
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3751012/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3751012/
+            Amazon: Collagen Peptides 20g - Vital Proteins ### https://a.co/d/7TFXEMO
         Glutathione
-            Article: https://www.globallymealliance.org/blog/glutathione-and-lyme-disease
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5877983/
-            Purchase: https://a.co/d/5nmpXvA
+            Article: https://www.globallymealliance.org/blog/glutathione-and-lyme-disease ### https://www.globallymealliance.org/blog/glutathione-and-lyme-disease
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5877983/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5877983/
+            Amazon: Glutathione 250mg - NOW Supplements ### https://a.co/d/5nmpXvA
         LL-37
-            Article: https://www.mdpi.com/2079-6382/10/6/650
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7388365/
+            Article: https://www.mdpi.com/2079-6382/10/6/650 ### https://www.mdpi.com/2079-6382/10/6/650
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7388365/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7388365/
         Thymosin Alpha-1 (Tα1)
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7747025/
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7747025/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7747025/
         VIP (Vasoactive Intestinal Peptide)
-            Article: https://www.researchgate.net/publication/272674308_Vasoactive_intestinal_polypeptide_VIP_corrects_chronic_inflammatory_response_syndrome_CIRS_acquired_following_exposure_to_water-damaged_buildings
+            Article: https://www.researchgate.net/publication/272674308_Vasoactive_intestinal_polypeptide_VIP_corrects_chronic_inflammatory_response_syndrome_CIRS_acquired_following_exposure_to_water-damaged_buildings ### https://www.researchgate.net/publication/272674308_Vasoactive_intestinal_polypeptide_VIP_corrects_chronic_inflammatory_response_syndrome_CIRS_acquired_following_exposure_to_water-damaged_buildings
     Vitamins
         Vitamin A
-            Article: https://pubmed.ncbi.nlm.nih.gov/8843212/
-            Purchase: https://a.co/d/6ybVlWO
+            Article: https://pubmed.ncbi.nlm.nih.gov/8843212/ ### https://pubmed.ncbi.nlm.nih.gov/8843212/
+            Amazon: Vitamin A 10000 IU - NOW Supplements ### https://a.co/d/6ybVlWO
         Vitamin B1 (Thiamine)
-            Article: https://www.reddit.com/r/Lyme/comments/1bub127/neurological_lyme_disease_thiamine_deficiency/
-            Purchase: https://a.co/d/f8DVLEz
+            Article: https://www.reddit.com/r/Lyme/comments/1bub127/neurological_lyme_disease_thiamine_deficiency/ ### https://www.reddit.com/r/Lyme/comments/1bub127/neurological_lyme_disease_thiamine_deficiency/
+            Amazon: Vitamin B1 100mg - NOW Supplements ### https://a.co/d/f8DVLEz
         Vitamin B2 (Riboflavin)
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9588712/
-            Purchase: https://a.co/d/2Xz2aN8
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9588712/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9588712/
+            Amazon: Vitamin B2 100mg - NOW Supplements ### https://a.co/d/2Xz2aN8
         Vitamin B3 (Niacin)
-            Article: https://www.medicalnewstoday.com/articles/249511
-            Purchase: https://a.co/d/0uGBWCQ
+            Article: https://www.medicalnewstoday.com/articles/249511 ### https://www.medicalnewstoday.com/articles/249511
+            Amazon: Vitamin B3 500mg - NOW Supplements ### https://a.co/d/0uGBWCQ
         Vitamin B5 (Pantothenic Acid)
-            Article: https://www.ncbi.nlm.nih.gov/books/NBK563233/
-            Purchase: https://a.co/d/7Lnxlre
+            Article: https://www.ncbi.nlm.nih.gov/books/NBK563233/ ### https://www.ncbi.nlm.nih.gov/books/NBK563233/
+            Amazon: Vitamin B5 500mg - NOW Supplements ### https://a.co/d/7Lnxlre
         Vitamin B6 (Pyridoxine)
-            Article: https://www.globallymealliance.org/blog/nutrition-tips-for-neurological-lyme-disease#:~:text=For%20example%2C%20Lyme%20disease%20can,%2C%20vitamin%20B6%2C%20and%20magnesium.
-            Purchase: https://a.co/d/fu9HqDb
+            Article: https://www.globallymealliance.org/blog/nutrition-tips-for-neurological-lyme-disease#:~:text=For%20example%2C%20Lyme%20disease%20can,%2C%20vitamin%20B6%2C%20and%20magnesium. ### https://www.globallymealliance.org/blog/nutrition-tips-for-neurological-lyme-disease#:~:text=For%20example%2C%20Lyme%20disease%20can,%2C%20vitamin%20B6%2C%20and%20magnesium.
+            Amazon: Vitamin B6 100mg - NOW Supplements ### https://a.co/d/fu9HqDb
         Vitamin B7 (Biotin)
             Article: N/A
-            Purchase: https://a.co/d/d2Px7Le
+            Amazon: Vitamin B7 10000mcg - Nature's Bounty ### https://a.co/d/d2Px7Le
         Vitamin B9 (Folate)
-            Article: https://www.sciencedirect.com/science/article/pii/S2772973723009104
-            Purchase: https://a.co/d/e0GMCvd
+            Article: https://www.sciencedirect.com/science/article/pii/S2772973723009104 ### https://www.sciencedirect.com/science/article/pii/S2772973723009104
+            Amazon: Vitamin B9 400mcg - Nature Made ### https://a.co/d/e0GMCvd
         Vitamin B12 (Cobalamin)
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465565/
-            Purchase: https://a.co/d/4shAdzB
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465565/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465565/
+            Amazon: Vitamin B12 1000mcg - Nature Made ### https://a.co/d/4shAdzB
         Vitamin C
-            Article: https://esmed.org/MRA/mra/article/view/4941
+            Article: https://esmed.org/MRA/mra/article/view/4941 ### https://esmed.org/MRA/mra/article/view/4941
+            Amazon: Vitamin C 500mg - Bronson ### https://a.co/d/6kUwyNV
         Vitamin D
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3520031/
-            Purchase: https://a.co/d/eceyT2q
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3520031/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3520031/
+            Amazon: Vitamin D3 2000IU - Nature Made ### https://a.co/d/eceyT2q
         Vitamin E
-            Article: https://pubmed.ncbi.nlm.nih.gov/16013408/
-            Purchase: https://a.co/d/15o6dCW
+            Article: https://pubmed.ncbi.nlm.nih.gov/16013408/ ### https://pubmed.ncbi.nlm.nih.gov/16013408/
+            Amazon: Vitamin E 1000IU - Nature's Bounty ### https://a.co/d/15o6dCW
         Vitamin K
-            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10893789/
-            Purchase: https://a.co/d/gLQPmVt
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10893789/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10893789/
+            Amazon: Vitamin K2 100mcg - Nature Made ### https://a.co/d/gLQPmVt
 Other
+    Fasting
+        Dry Fast
+        Intermittent Fasting
+        Water Fast
     Frequency Therapy
         Low-Level Laser Therapy (LLLT)
             Cold Laser Therapy
@@ -625,7 +635,7 @@ Other
             Electroacupuncture Devices
             Electroacupuncture with Needles
     Hyperbaric Oxygen Therapy
-        Article: https://www.sciencedirect.com/science/article/pii/S1726490114000422
+        Article: https://www.sciencedirect.com/science/article/pii/S1726490114000422 ### https://www.sciencedirect.com/science/article/pii/S1726490114000422
     Thermal Therapy
         Infrared Therapy
             Infrared Sauna
