@@ -233,6 +233,30 @@ Dietary Supplements
         Serrapeptase
             Article: https://www.mdpi.com/2079-6382/11/7/912 ### https://www.mdpi.com/2079-6382/11/7/912
             Amazon: Serrapeptase 240,000 SPU - Double Wood ### https://a.co/d/dXGksqn
+    Flavonoids
+        Apigenin
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6472148/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6472148/
+            Amazon: Apigenin 50mg - Double Wood ### https://a.co/d/94Pp7vW
+        Curcumin 
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
+            Article: https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease ### https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease
+            Amazon: CurcuBrain 400mg - NOW Supplements ### https://a.co/d/9wU48IV
+        Hesperidin
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6384806/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6384806/
+            Amazon: Hesperidin 500mg - Nootropics Depot ### https://a.co/d/bCC1uzX
+        Luteolin
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10016360/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10016360/
+            Amazon: Luteolin 100mg - Double Wood ### https://a.co/d/fBG7Zp9
+        Resveratrol
+            Article: https://pubmed.ncbi.nlm.nih.gov/29925765/ ### https://pubmed.ncbi.nlm.nih.gov/29925765/
+            Article: https://www.medicalnewstoday.com/articles/lyme-disease-treatment-2-herbal-compounds-may-beat-antibiotics ### https://www.medicalnewstoday.com/articles/lyme-disease-treatment-2-herbal-compounds-may-beat-antibiotics
+            Amazon: Resveratrol 500mg - Double Wood ### https://a.co/d/hLUowlN
+        Rutin
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355559/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355559/
+            Amazon: Rutin 450mg - NOW Supplements ### https://a.co/d/0aYgChL
+        Quercetin/Bromelain
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/
+            Amazon: Quercetin with Bromelain 1200mg - Double Wood ### https://a.co/d/4Iq7xH1
     Herbal Supplements
         Antimicrobials
             Alchornea Cordifolia
@@ -339,30 +363,6 @@ Dietary Supplements
             Quercetin/Bromelain
                 Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/
                 Amazon: Quercetin with Bromelain 1200mg - Double Wood ### https://a.co/d/4Iq7xH1
-        Flavonoids
-            Apigenin
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6472148/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6472148/
-                Amazon: Apigenin 50mg - Double Wood ### https://a.co/d/94Pp7vW
-            Curcumin 
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877453/
-                Article: https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease ### https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease
-                Amazon: CurcuBrain 400mg - NOW Supplements ### https://a.co/d/9wU48IV
-            Hesperidin
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6384806/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6384806/
-                Amazon: Hesperidin 500mg - Nootropics Depot ### https://a.co/d/bCC1uzX
-            Luteolin
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10016360/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10016360/
-                Amazon: Luteolin 100mg - Double Wood ### https://a.co/d/fBG7Zp9
-            Resveratrol
-                Article: https://pubmed.ncbi.nlm.nih.gov/29925765/ ### https://pubmed.ncbi.nlm.nih.gov/29925765/
-                Article: https://www.medicalnewstoday.com/articles/lyme-disease-treatment-2-herbal-compounds-may-beat-antibiotics ### https://www.medicalnewstoday.com/articles/lyme-disease-treatment-2-herbal-compounds-may-beat-antibiotics
-                Amazon: Resveratrol 500mg - Double Wood ### https://a.co/d/hLUowlN
-            Rutin
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355559/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355559/
-                Amazon: Rutin 450mg - NOW Supplements ### https://a.co/d/0aYgChL
-            Quercetin/Bromelain
-                Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260830/
-                Amazon: Quercetin with Bromelain 1200mg - Double Wood ### https://a.co/d/4Iq7xH1
         Histamine Support
             Diamine Oxidase
                 Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7003574/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7003574/
@@ -409,7 +409,7 @@ Dietary Supplements
                 Amazon: Ubiquinol 50mg - Health Thru Nutrition ### https://a.co/d/i64VJGE
             GABA
                 Article: https://pubmed.ncbi.nlm.nih.gov/15578966/ ### https://pubmed.ncbi.nlm.nih.gov/15578966/
-                Amaazon: GABA 1000mg - Double Wood ### https://a.co/d/08BXEab
+                Amazon: GABA 1000mg - Double Wood ### https://a.co/d/08BXEab
             Magnesium
                 Magnesium Citrate
                     Article: https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750 ### https://www.proquest.com/openview/9d2bdbd52626afc3731f814b04413c22/1?pq-origsite=gscholar&cbl=18750
