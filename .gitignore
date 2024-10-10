@@ -11,3 +11,4 @@ test.py
 constants.txt
 *.gexf
 llm_data.txt
+node_modules/
