@@ -75,8 +75,6 @@ Pharmacological
         Rabeprazole
     Opioid Antagonists
         Naltrexone (Low Dose Naltrexone)
-    Neurotoxins
-        Botulinum Toxin (Botox)
     Mast Cell Stabilizers
         Cromoglicic Acid
     Immunotherapy
@@ -130,10 +128,10 @@ Dietary Supplements
     Antioxidants
         Alpha Lipoic Acid
             Article: https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease ### https://www.ccfmed.com/blog/manage-inflammation-in-lyme-disease
-            Amazon: Alpha Lipoic Acid 600mg - Nutricost ### https://a.co/d/4vcJFhG
+            Amazon: Alpha Lipoic Acid - 600mg - Nutricost ### https://a.co/d/4vcJFhG
         CoQ10/Ubiquinol
             Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9027459/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9027459/
-            Amazon: Ubiquinol 50mg - Health Thru Nutrition ### https://a.co/d/i64VJGE
+            Amazon: Ubiquinol - 50mg - Health Thru Nutrition ### https://a.co/d/i64VJGE
         Glutathione
             Article: https://www.globallymealliance.org/blog/glutathione-and-lyme-disease ### https://www.globallymealliance.org/blog/glutathione-and-lyme-disease
             Amazon: Glutathione 250mg - NOW Supplements ### https://a.co/d/aUl56aW
@@ -182,6 +180,11 @@ Dietary Supplements
         Taurine
             Article: https://pubmed.ncbi.nlm.nih.gov/26934795/ ### https://pubmed.ncbi.nlm.nih.gov/26934795/
             Amazon: Taurine 1000mg - Double Wood ### https://a.co/d/2VQJt4D
+    Bile Acids
+        TUDCA
+            Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4030606/ ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4030606/
+            Article: https://pubmed.ncbi.nlm.nih.gov/35659112/ ### https://pubmed.ncbi.nlm.nih.gov/35659112/
+            Amazon: TUDCA 500mg - Double Wood ### https://a.co/d/9LFxs78
     Binders
         Activated Charcoal
             Article: https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/ ### https://rhealthc.com/restoration-healthcare-recommends/toxin-binders-in-the-detox-process/
